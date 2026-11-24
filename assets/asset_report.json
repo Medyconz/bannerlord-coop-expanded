@@ -1397,6 +1397,651 @@
       "ui/branding/troops.png": "d038da14b4d8a511446dca0ead614d665e4d7c1d1b292ca0ad68270c1c5e700b"
     }
   },
+  "ce_mc_aserai_knobbed": {
+    "fingerprint": "63943ab6fb09abb2faabf6a55234fbad1a6b7a31545c2c90483413b07a01fb13",
+    "category": "maces_hammers",
+    "files": [
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed.fbx",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed.blend",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed_d.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed_n.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed_s.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/preview.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/basecolor.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/normal.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/metallic.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/roughness.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/ao.png",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_mc_aserai_knobbed": {
+        "tris": 3998,
+        "bbox_m": [
+          [
+            -0.06599999964237213,
+            -0.06516442447900772,
+            -0.15000000596046448
+          ],
+          [
+            0.0626830905675888,
+            0.06516442447900772,
+            0.5809757709503174
+          ]
+        ],
+        "dimensions_m": [
+          0.12868309020996094,
+          0.13032884895801544,
+          0.7309757769107819
+        ],
+        "uv_bounds": [
+          0.003906243946403265,
+          0.9900599718093872
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_aserai_knobbed.lod1": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.06593071669340134,
+            -0.06516442447900772,
+            -0.15002061426639557
+          ],
+          [
+            0.06261380761861801,
+            0.06516442447900772,
+            0.5811233520507812
+          ]
+        ],
+        "dimensions_m": [
+          0.12854452431201935,
+          0.13032884895801544,
+          0.7311439663171768
+        ],
+        "uv_bounds": [
+          0.003906215773895383,
+          0.9931951761245728
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_aserai_knobbed.lod2": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.06559289991855621,
+            -0.06509514153003693,
+            -0.15006794035434723
+          ],
+          [
+            0.06261380761861801,
+            0.06509514153003693,
+            0.5811233520507812
+          ]
+        ],
+        "dimensions_m": [
+          0.12820670753717422,
+          0.13019028306007385,
+          0.7311912924051285
+        ],
+        "uv_bounds": [
+          0.003906165948137641,
+          0.9935124516487122
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_mc_aserai_knobbed": "one_handed_mace"
+    },
+    "sha256": {
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed.fbx": "f490125209f8df42077312298a41a458f2cea5dc00669a3c656c30e3bb322119",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed.blend": "7c13194364805e398c8995c4260e97e5a02a596e681b64b31ee01cf0a84f0008",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed_d.png": "56e11e70aafb9d1a3d5e2f50d5031c5a38e9665cc5da9d61a10ff1d1ecaee707",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed_n.png": "454b3bedb281f8606f57d46130dbe223492ddcc8cb05b6675b6550716c0f6eb2",
+      "build/maces_hammers/ce_mc_aserai_knobbed/ce_mc_aserai_knobbed_s.png": "551cdb55a57a98e99fefeb7fb8cbc8de4f6612a9738c0d7a9f4c459e31a73f95",
+      "build/maces_hammers/ce_mc_aserai_knobbed/preview.png": "04a3980a9b225282a7f401bcdcb93dc876b36ec87f7444b5f287e524a20c2f50",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/basecolor.png": "f610c3110d9e00bd6bd64681c3c13beb22f8fafcda05fb3170c2b91081570b6b",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/normal.png": "074ace781a933582924cf03c67559cc52be6bb31f0c80cd89cfbec0f1ee7b148",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/metallic.png": "fa2cfab4b41c536b03373234bb6bbd7363326cdca4eec233feb08f7ddac31691",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/roughness.png": "391726746074690feed23e8be4f2ed81da04ba6bcd68394ef9b928201eb92be9",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/ao.png": "aa96c3176c4944fbdc4ab84a35d9dd4d51179344f58d586e5c17e27054b794dc",
+      "build/maces_hammers/ce_mc_aserai_knobbed/src_maps/height.png": "63e22b498278e440658ebad1fee2216535ae15cf5adb53fd1f15252e04ff9754"
+    }
+  },
+  "ce_mc_imperial_flanged": {
+    "fingerprint": "47db1858a646b5c7d6bff0912be37d26eccb43a84579ef5c462fe733930f985c",
+    "category": "maces_hammers",
+    "files": [
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged.fbx",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged.blend",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged_d.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged_n.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged_s.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/preview.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/basecolor.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/normal.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/metallic.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/roughness.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/ao.png",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_mc_imperial_flanged": {
+        "tris": 2094,
+        "bbox_m": [
+          [
+            -0.06400000303983688,
+            -0.05701562762260437,
+            -0.15000000596046448
+          ],
+          [
+            0.06400000303983688,
+            0.05701562762260437,
+            0.5910000205039978
+          ]
+        ],
+        "dimensions_m": [
+          0.12800000607967377,
+          0.11403125524520874,
+          0.7410000264644623
+        ],
+        "uv_bounds": [
+          0.003906192258000374,
+          0.9913633465766907
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_imperial_flanged.lod1": {
+        "tris": 1046,
+        "bbox_m": [
+          [
+            -0.0632515624165535,
+            -0.05713658407330513,
+            -0.1500154584646225
+          ],
+          [
+            0.0632515624165535,
+            0.05713658407330513,
+            0.5910611748695374
+          ]
+        ],
+        "dimensions_m": [
+          0.126503124833107,
+          0.11427316814661026,
+          0.7410766333341599
+        ],
+        "uv_bounds": [
+          0.0039062020368874073,
+          0.9956598877906799
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_imperial_flanged.lod2": {
+        "tris": 522,
+        "bbox_m": [
+          [
+            -0.06427756696939468,
+            -0.058121390640735626,
+            -0.1500566303730011
+          ],
+          [
+            0.06427756696939468,
+            0.058121390640735626,
+            0.5917758941650391
+          ]
+        ],
+        "dimensions_m": [
+          0.12855513393878937,
+          0.11624278128147125,
+          0.7418325245380402
+        ],
+        "uv_bounds": [
+          0.0039061729330569506,
+          0.9955495595932007
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_mc_imperial_flanged": "one_handed_mace"
+    },
+    "sha256": {
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged.fbx": "f90e28607f14b08beef7717f2b390cf8053ae2374cb4f70dfcf72f33ac0a3fff",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged.blend": "ba111a143b8f93cdd767c01143e678f455164c2862c73defc2fabdc6e4626c5b",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged_d.png": "1848b3afe3c71c9f621b876b06a148af422ad154a05378c9f59bc2750655d070",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged_n.png": "47fe4ce49819fa76b17233f6e91106a0a52ef3bc0a77eb158b0a35882c7e5d13",
+      "build/maces_hammers/ce_mc_imperial_flanged/ce_mc_imperial_flanged_s.png": "a88ef75f7434fda3f4324fadd1bf958aca7f808bf9862bc9af11fd4832ec5c7d",
+      "build/maces_hammers/ce_mc_imperial_flanged/preview.png": "212a5c58fc49b8621b3af279bf30abc451d4ee8fbffc16c5cef979f96b8de178",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/basecolor.png": "f4700d11c9e3b86116678bc9b51e3604f09192dd01dc58ff29668ad9649359da",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/normal.png": "ceb47c994fbaf98e36ed6cc09cc2b160dbdd01a94dd78ac9e5affc4459f1a017",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/metallic.png": "eb85718b73faa2e81169b369730b0239ce376f8fe7b6c6fe5ad1d9a6d9935f2e",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/roughness.png": "087ace065f05733e9060727d27e84575b50079e8a5aab438d167172ee4350ae5",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/ao.png": "cb92c9eff2a021e692b20caa627371a894a1e7abb6ac62f344b16311453f46a7",
+      "build/maces_hammers/ce_mc_imperial_flanged/src_maps/height.png": "89d237c820b3b6787f896c43446880f97481470a6f648dd0912dd5bf579d2ebb"
+    }
+  },
+  "ce_mc_khuzait_gurz": {
+    "fingerprint": "f32bfaafe70f4436c965916e1be1a4cba68220d9a091f27c758c0e25b62733a9",
+    "category": "maces_hammers",
+    "files": [
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz.fbx",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz.blend",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz_d.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz_n.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz_s.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/preview.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/basecolor.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/normal.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/metallic.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/roughness.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/ao.png",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_mc_khuzait_gurz": {
+        "tris": 3650,
+        "bbox_m": [
+          [
+            -0.058117855340242386,
+            -0.058117855340242386,
+            -0.15000000596046448
+          ],
+          [
+            0.059264663606882095,
+            0.058117855340242386,
+            0.5999706387519836
+          ]
+        ],
+        "dimensions_m": [
+          0.11738251894712448,
+          0.11623571068048477,
+          0.7499706447124481
+        ],
+        "uv_bounds": [
+          0.00390622834675014,
+          0.9926239848136902
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_khuzait_gurz.lod1": {
+        "tris": 1824,
+        "bbox_m": [
+          [
+            -0.058117855340242386,
+            -0.058117855340242386,
+            -0.1500154584646225
+          ],
+          [
+            0.05917640030384064,
+            0.058117855340242386,
+            0.600071907043457
+          ]
+        ],
+        "dimensions_m": [
+          0.11729425564408302,
+          0.11623571068048477,
+          0.7500873655080795
+        ],
+        "uv_bounds": [
+          0.003906234400346875,
+          0.9958575367927551
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_khuzait_gurz.lod2": {
+        "tris": 912,
+        "bbox_m": [
+          [
+            -0.05824873223900795,
+            -0.05824873223900795,
+            -0.1500566303730011
+          ],
+          [
+            0.05842828378081322,
+            0.05824873223900795,
+            0.599956750869751
+          ]
+        ],
+        "dimensions_m": [
+          0.11667701601982117,
+          0.1164974644780159,
+          0.7500133812427521
+        ],
+        "uv_bounds": [
+          0.0039061936549842358,
+          0.9960465431213379
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_mc_khuzait_gurz": "one_handed_mace"
+    },
+    "sha256": {
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz.fbx": "bfbcf7e469e1cf37bb6592982927e51228f83116d0ec3928ce89ff2f1bcfba90",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz.blend": "ecacf14a529c87ac3612291c10e34a317457e95e4039d42a0ea1d7ddd0ee93c0",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz_d.png": "a1e64e20b3347cb14b9732f60491842639fe682fa0729fa4345c1246a64ce41b",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz_n.png": "78e0f91caf9a2ebea8ebfcd51b8c444a4788c5812c89f33ab88e9c502b2f91da",
+      "build/maces_hammers/ce_mc_khuzait_gurz/ce_mc_khuzait_gurz_s.png": "3570d7ec0468a48b29ebc2a1c0dc9fabaa85508ba798863579cb9d30459c82c9",
+      "build/maces_hammers/ce_mc_khuzait_gurz/preview.png": "4fabb4a26a6b2cafca5f9fe9c8499366d9757d0a635c8a11f2c7e98d39644df1",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/basecolor.png": "1d4703f4526e7e988b8fb068c97a963796c07e3d51a0e8c1c4ae021b1df6a66c",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/normal.png": "48ad0b65c9a323e590684ae76a210f7facac6a65ba1570bf78bfa8bafb47c934",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/metallic.png": "091f836a0b2ac0934bf64ba55e053eeddaaed473f43b2d155db567adde34728b",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/roughness.png": "3900b440caba3aa799984f1f55681c678d9577e8a898b9f8d5f7b793972c9577",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/ao.png": "bb353b143509624ae6bb401d8ec50d6fe01797203da6eda89d62ef6056315182",
+      "build/maces_hammers/ce_mc_khuzait_gurz/src_maps/height.png": "f01c1d40f488683f9cfecf34921dc499b7fd54676c82e4ededdf115315d95f47"
+    }
+  },
+  "ce_mc_sturgian_maul": {
+    "fingerprint": "6721fc79cf3fb740adb7b0c46ca420047bf08e73e9bea1db809439ee9ba24052",
+    "category": "maces_hammers",
+    "files": [
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul.fbx",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul.blend",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul_d.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul_n.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul_s.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/preview.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/basecolor.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/normal.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/metallic.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/roughness.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/ao.png",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_mc_sturgian_maul": {
+        "tris": 2150,
+        "bbox_m": [
+          [
+            -0.11999999731779099,
+            -0.05900000035762787,
+            -0.3199999928474426
+          ],
+          [
+            0.11999999731779099,
+            0.05266113206744194,
+            0.9591282606124878
+          ]
+        ],
+        "dimensions_m": [
+          0.23999999463558197,
+          0.11166113242506981,
+          1.2791282534599304
+        ],
+        "uv_bounds": [
+          0.0039061815477907658,
+          0.9960185289382935
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_sturgian_maul.lod1": {
+        "tris": 1074,
+        "bbox_m": [
+          [
+            -0.11999999731779099,
+            -0.05900000035762787,
+            -0.3200211822986603
+          ],
+          [
+            0.11999999731779099,
+            0.05190834403038025,
+            0.9583736062049866
+          ]
+        ],
+        "dimensions_m": [
+          0.23999999463558197,
+          0.11090834438800812,
+          1.2783947885036469
+        ],
+        "uv_bounds": [
+          0.0039062167052179575,
+          0.9946308135986328
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_sturgian_maul.lod2": {
+        "tris": 536,
+        "bbox_m": [
+          [
+            -0.11999999731779099,
+            -0.05774426460266113,
+            -0.3200775682926178
+          ],
+          [
+            0.11999999731779099,
+            0.05190834403038025,
+            0.9583736062049866
+          ]
+        ],
+        "dimensions_m": [
+          0.23999999463558197,
+          0.10965260863304138,
+          1.2784511744976044
+        ],
+        "uv_bounds": [
+          0.003906238591298461,
+          0.9960936307907104
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_mc_sturgian_maul": "maul"
+    },
+    "sha256": {
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul.fbx": "5e3184c3b6f2cde5b616551db3f76c055cc3fe67e5668820dab7e0c685076e54",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul.blend": "48d5d5b4582055d3c5ee4097d64d4b73baf732cbbe30c0e8c25b785a64751e47",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul_d.png": "692eeef1abeb6f3427d8000a66ed82f21cd91b4448e65e41696e1a82a93a5ca0",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul_n.png": "7247811a07dead6d65e3fb7fa5c5cd106dfc0339bcfb7ceb5afb089ab1044bfe",
+      "build/maces_hammers/ce_mc_sturgian_maul/ce_mc_sturgian_maul_s.png": "c1f05588f638bcc279cd62098ac3af5c3e66d44c7f7d8c6c76f65666136ba7d5",
+      "build/maces_hammers/ce_mc_sturgian_maul/preview.png": "5e42862be987263df29ed31ca1520169a6b6e66b158325d52ada1ff4cbca9f9d",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/basecolor.png": "c30043be95451b62c521985badf4da8fa37bd89986fe77a3ad16603129ef064d",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/normal.png": "f13dde237779bcbbe6b9fb52059d00a6ed3e3e3798347db9598c12a5b820c2eb",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/metallic.png": "113b7ed55dd00aed65370eab4a560435f824558a04544778d6a43d04a675a807",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/roughness.png": "e9974489678265837cfe560b1975221c0b61a9154f2cbc98c751ffca638d26c1",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/ao.png": "b02c2261b01ce8c009df3afbbc36817f213296b2ebe1c1860b41209307636d9d",
+      "build/maces_hammers/ce_mc_sturgian_maul/src_maps/height.png": "1b5f60b74ac8b210accd1a57188e67fb8ed18aecf7c60c3cad30905b2f134434"
+    }
+  },
+  "ce_mc_vlandic_warhammer": {
+    "fingerprint": "7262f9c65f0225ddbd5a9cda654e9eacfa085d01af20df31d9940bd219ebd37c",
+    "category": "maces_hammers",
+    "files": [
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer.fbx",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer.blend",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer_d.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer_n.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer_s.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/preview.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/basecolor.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/normal.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/metallic.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/roughness.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/ao.png",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_mc_vlandic_warhammer": {
+        "tris": 1774,
+        "bbox_m": [
+          [
+            -0.12999999523162842,
+            -0.02402086742222309,
+            -0.15000000596046448
+          ],
+          [
+            0.10000000149011612,
+            0.02402086742222309,
+            0.536792516708374
+          ]
+        ],
+        "dimensions_m": [
+          0.22999999672174454,
+          0.04804173484444618,
+          0.6867925226688385
+        ],
+        "uv_bounds": [
+          0.00390623533166945,
+          0.99048912525177
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_vlandic_warhammer.lod1": {
+        "tris": 886,
+        "bbox_m": [
+          [
+            -0.129980206489563,
+            -0.024374334141612053,
+            -0.1500154584646225
+          ],
+          [
+            0.10000000894069672,
+            0.024374334141612053,
+            0.5375066995620728
+          ]
+        ],
+        "dimensions_m": [
+          0.2299802154302597,
+          0.048748668283224106,
+          0.6875221580266953
+        ],
+        "uv_bounds": [
+          0.0039062360301613808,
+          0.996082603931427
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_mc_vlandic_warhammer.lod2": {
+        "tris": 442,
+        "bbox_m": [
+          [
+            -0.1305702179670334,
+            -0.02394966408610344,
+            -0.1500566303730011
+          ],
+          [
+            0.09896858036518097,
+            0.024138187989592552,
+            0.5374715328216553
+          ]
+        ],
+        "dimensions_m": [
+          0.22953879833221436,
+          0.04808785207569599,
+          0.6875281631946564
+        ],
+        "uv_bounds": [
+          0.0039062395226210356,
+          0.9960939288139343
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_mc_vlandic_warhammer": "one_handed_mace"
+    },
+    "sha256": {
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer.fbx": "419c80e821473e2b3d374385fe5e247b703cae3737295112615c263695c24adb",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer.blend": "25c434d3a0bb835d41154fbd7bb54500a3a790306003071dacbc36fc2bb400dd",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer_d.png": "d4ecea8b33d3ee9f293af35ebf140757f012506eec095c06a9946e8621373370",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer_n.png": "90eaad144ae779ee56cb7e10d186221bc3aae1afada32dc9854b53453ecb0d1a",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/ce_mc_vlandic_warhammer_s.png": "c7150ee695de8c0f24f2d04023accd2c78fb084f0b7fbdc0fc46d76f28ddcb7d",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/preview.png": "ce1a120602691af417790dec41b57478e04171878416243bea526e7a67b74668",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/basecolor.png": "68a5a65458528b28a850755f18fef8de33f60c2abdc95e49c1ab460a2b043af6",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/normal.png": "f6909546c5211c02a467b90beb7411426c401b503206e67a634dbf716bd0a48d",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/metallic.png": "428528cb8a1de4aa3ca810d6ef05dc6ebfa170116e8dc7576e90a65b0eef03ed",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/roughness.png": "fb169310fbc70506e60ac9d91207a7e020f16f91320ca68c23ce64d1e356a61c",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/ao.png": "f880bed57ad63217693da300be9853bf8c18fc9143a083afc3ad0753ec52a8f3",
+      "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/height.png": "8a2004edf56dbfbda5a2f21667324bed5d9755890f1d34bc0fdddd373f438177"
+    }
+  },
   "ce_sw_aserai_saif": {
     "fingerprint": "b376b117a3f5dcad384c54b322c40b5928f842dd105ba892f181a7d290dad63e",
     "category": "one_handed_swords",

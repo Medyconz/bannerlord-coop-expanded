@@ -7,7 +7,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | one handed swords | 8 | 0 | 0 |
 | two handed swords | 4 | 0 | 0 |
 | axes | 6 | 0 | 0 |
-| maces hammers | 0 | 0 | 5 |
+| maces hammers | 5 | 0 | 0 |
 | polearms | 0 | 0 | 8 |
 | daggers | 0 | 0 | 3 |
 | thrown | 0 | 0 | 4 |
