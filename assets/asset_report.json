@@ -2437,6 +2437,38 @@
     "status": "skipped_no_reference",
     "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
   },
+  "ce_bw_aserai_recurve": {
+    "fingerprint": "1984b3df0a341b35c4f60a762bd1ac63cb6224a7cfaa97974683f7d88354b41b",
+    "category": "bows_crossbows",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing bow_skeleton.fbx"
+  },
+  "ce_bw_battanian_longbow": {
+    "fingerprint": "0826f0f3d73ad6f5cef0221959f88383e1647210621a4b9a59b564109b4c5104",
+    "category": "bows_crossbows",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing bow_skeleton.fbx"
+  },
+  "ce_bw_khuzait_composite": {
+    "fingerprint": "d325e0b213a6319a9788a7535ea5353afa8fb829a05abe928627a6ee14c29753",
+    "category": "bows_crossbows",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing bow_skeleton.fbx"
+  },
+  "ce_bw_relic_whisperwind": {
+    "fingerprint": "da41caa3445a43d0ac4e972f472b03898def708dc1bf363dec22290e29b2ce1e",
+    "category": "bows_crossbows",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing bow_skeleton.fbx"
+  },
   "ce_dg_aserai_jambiya": {
     "fingerprint": "1e140d217627895535db331711d92519ddffc9fa7d3f83848deb7dc718fae98a",
     "category": "daggers",
@@ -9601,5 +9633,21 @@
       "ui/icons/workshop_128.png": "e971ddf0ba7830b123db9bde9d43e6437deddb5d7a5b06b226682bb77b4eff30",
       "ui/icons/workshop_64.png": "218d6d7368ac16c5229c249f453906d0dbeaca948f9adc5fc78a72e040776e95"
     }
+  },
+  "ce_xb_imperial_light": {
+    "fingerprint": "ccf57decbd310c3306c44314c8d282c9afbc820247d1ce448b12647e70906545",
+    "category": "bows_crossbows",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing crossbow_skeleton.fbx"
+  },
+  "ce_xb_vlandic_arbalest": {
+    "fingerprint": "670e931ace4a449284306c304471fb4e3b382a02d30f6eb749a2c2c2325eec3a",
+    "category": "bows_crossbows",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing crossbow_skeleton.fbx"
   }
 }

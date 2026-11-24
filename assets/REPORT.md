@@ -20,7 +20,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | gloves | 0 | 6 | 0 |
 | boots | 0 | 6 | 0 |
 | horse harness | 0 | 6 | 0 |
-| bows crossbows | 0 | 0 | 6 |
+| bows crossbows | 0 | 6 | 0 |
 | icons | 24 | 0 | 0 |
 | branding | 9 | 0 | 0 |
 
@@ -82,6 +82,12 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 - `ce_hh_khuzait_lamellar_barding` — Missing horse_skeleton.fbx, horse_body.fbx
 - `ce_hh_aserai_tasselled` — Missing horse_skeleton.fbx, horse_body.fbx
 - `ce_hh_relic_warden_barding` — Missing horse_skeleton.fbx, horse_body.fbx
+- `ce_bw_khuzait_composite` — Missing bow_skeleton.fbx
+- `ce_bw_battanian_longbow` — Missing bow_skeleton.fbx
+- `ce_bw_aserai_recurve` — Missing bow_skeleton.fbx
+- `ce_bw_relic_whisperwind` — Missing bow_skeleton.fbx
+- `ce_xb_vlandic_arbalest` — Missing crossbow_skeleton.fbx
+- `ce_xb_imperial_light` — Missing crossbow_skeleton.fbx
 
 ## Rebuild
 
