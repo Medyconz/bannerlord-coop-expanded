@@ -1,0 +1,4 @@
+assets/reference/
+__pycache__/
+*.blend1
+assets/.work/
