@@ -17,7 +17,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | helmets | 0 | 16 | 0 |
 | body armour | 0 | 14 | 0 |
 | shoulders capes | 0 | 8 | 0 |
-| gloves | 0 | 0 | 6 |
+| gloves | 0 | 6 | 0 |
 | boots | 0 | 0 | 6 |
 | horse harness | 0 | 0 | 6 |
 | bows crossbows | 0 | 0 | 6 |
@@ -64,6 +64,12 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 - `ce_sp_khuzait_lamellar_shoulders` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 - `ce_sp_aserai_desert_cloak` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 - `ce_sp_relic_warden_pauldrons` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_gl_imperial_bracers` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_gl_vlandic_gauntlets` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_gl_sturgian_mail_mitts` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_gl_khuzait_archer_bracer` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_gl_aserai_brass_vambraces` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_gl_relic_warden_gauntlets` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 
 ## Rebuild
 

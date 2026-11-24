@@ -2867,6 +2867,54 @@
       "build/daggers/ce_dg_vlandic_rondel/src_maps/height.png": "7ce11127c1b2e2feb8d65d7c899653fc8aa3e7cc5af664df0afb5020eee9e9c5"
     }
   },
+  "ce_gl_aserai_brass_vambraces": {
+    "fingerprint": "e6f6c948ac5f2136bc7a604fe8a8a78f460fe51054b1eca6b7440f580220b4b2",
+    "category": "gloves",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_gl_imperial_bracers": {
+    "fingerprint": "030a2cbd621c2f091f3a886ae559141b72b893c690ee0c3454637b38aebab9bc",
+    "category": "gloves",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_gl_khuzait_archer_bracer": {
+    "fingerprint": "f5ffa95ba42ad36c503c3febf46950a04609752bb4d26121161afba0a65d96b6",
+    "category": "gloves",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_gl_relic_warden_gauntlets": {
+    "fingerprint": "96fc266aa7d08e48b6310e0b831988d1af53f1ac80d0a165b079be7e3f422286",
+    "category": "gloves",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_gl_sturgian_mail_mitts": {
+    "fingerprint": "be38d8baee59b8fa78e2291035adc7b0e41745c3f4506c77c36705b9efe5cd17",
+    "category": "gloves",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_gl_vlandic_gauntlets": {
+    "fingerprint": "25b16a859b56adbcab89a7dba9c82a2de03d7489a22f4db5f78755f5a257b75f",
+    "category": "gloves",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
   "ce_hm_aserai_pointed": {
     "fingerprint": "709f2b0d4af872918f68c7547ff0ebddabd23535fd6ae1fd3abcedb19ffde3fb",
     "category": "helmets",
