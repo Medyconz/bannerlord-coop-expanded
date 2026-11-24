@@ -6754,6 +6754,1554 @@
       "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/height.png": "7b7c8c5e53ff172239b27dc7bdfe49e445ce2f8210093786d1939b6532e6ca57"
     }
   },
+  "ce_tg_amber": {
+    "fingerprint": "f352ee57e4e83cb5721e56eb1ccfad1b5353d96bd8dc79700a23ed0f9217613a",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_amber/ce_tg_amber.fbx",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber.blend",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber_d.png",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber_n.png",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber_s.png",
+      "build/trade_goods/ce_tg_amber/preview.png",
+      "build/trade_goods/ce_tg_amber/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_amber/src_maps/normal.png",
+      "build/trade_goods/ce_tg_amber/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_amber/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_amber/src_maps/ao.png",
+      "build/trade_goods/ce_tg_amber/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_amber": {
+        "tris": 1864,
+        "bbox_m": [
+          [
+            -0.1372816115617752,
+            -0.11102477461099625,
+            0.0
+          ],
+          [
+            0.1372816115617752,
+            0.11102477461099625,
+            0.21596850454807281
+          ]
+        ],
+        "dimensions_m": [
+          0.2745632231235504,
+          0.2220495492219925,
+          0.21596850454807281
+        ],
+        "uv_bounds": [
+          0.0039062087889760733,
+          0.995616614818573
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_amber.lod1": {
+        "tris": 932,
+        "bbox_m": [
+          [
+            -0.1372816115617752,
+            -0.11102477461099625,
+            0.0
+          ],
+          [
+            0.13904023170471191,
+            0.11119089275598526,
+            0.21549208462238312
+          ]
+        ],
+        "dimensions_m": [
+          0.2763218432664871,
+          0.2222156673669815,
+          0.21549208462238312
+        ],
+        "uv_bounds": [
+          0.003906167345121503,
+          0.9957483410835266
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_amber.lod2": {
+        "tris": 466,
+        "bbox_m": [
+          [
+            -0.13560724258422852,
+            -0.11189884692430496,
+            -0.0006010486977174878
+          ],
+          [
+            0.13748466968536377,
+            0.11225370317697525,
+            0.21666866540908813
+          ]
+        ],
+        "dimensions_m": [
+          0.2730919122695923,
+          0.2241525501012802,
+          0.21726971410680562
+        ],
+        "uv_bounds": [
+          0.003906231140717864,
+          0.9953151941299438
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_amber": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_amber/ce_tg_amber.fbx": "ac14f74d84f7b9dcd0e23e8aeb6e50358132928279eba530b48c3fd12e179475",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber.blend": "bf8722a3504e885ad35e1af7e255cab8b28498ed8908fe989e263e4a52ece1b6",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber_d.png": "dc78bf9061f5308687cea11d0be344593014fcd09bd19ab7be7dc7a3d357188d",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber_n.png": "1c2fbc429abd8bd483655381a4cfe3bf302c4c49ef48a70fcf796001ee270534",
+      "build/trade_goods/ce_tg_amber/ce_tg_amber_s.png": "8aa1db60805af853896513387218105bd7b67cefbba9a0e430e14068e64d8c39",
+      "build/trade_goods/ce_tg_amber/preview.png": "e6d7102dd78ba4554baaaf104be8d880bd71ad3c943b654252b1df4a1d2c5004",
+      "build/trade_goods/ce_tg_amber/src_maps/basecolor.png": "cd4db8687435a533905711f2b22b63a6707cbd01a04afd0b7b6a5f2eb681ac16",
+      "build/trade_goods/ce_tg_amber/src_maps/normal.png": "bf6cf8d783025419221d92e8970cf8c3496715078e9d8c8dcbf592726c5091c7",
+      "build/trade_goods/ce_tg_amber/src_maps/metallic.png": "aa77ba1d568da7e99bd79d95d98c2f643495794ad4cd3d4ad5b9c30bafe0f99f",
+      "build/trade_goods/ce_tg_amber/src_maps/roughness.png": "695787aaf17b739b6ca740327f3f24f3f2418c49eff6afecc635830b71351bef",
+      "build/trade_goods/ce_tg_amber/src_maps/ao.png": "2658cfe3fc176be4a1e5d8b9ad3e43b500172dfee8a756cf30c63dcf2ea92664",
+      "build/trade_goods/ce_tg_amber/src_maps/height.png": "f393a556c1885a0d03f26fa5bd6bb5abeb2028d6b9d0e7c7c6b7673865effac3"
+    }
+  },
+  "ce_tg_carpets": {
+    "fingerprint": "0979e49544de7485800151126529055e348822a7e9e63bf49b8017250f5c9ce6",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets.fbx",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets.blend",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets_d.png",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets_n.png",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets_s.png",
+      "build/trade_goods/ce_tg_carpets/preview.png",
+      "build/trade_goods/ce_tg_carpets/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_carpets/src_maps/normal.png",
+      "build/trade_goods/ce_tg_carpets/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_carpets/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_carpets/src_maps/ao.png",
+      "build/trade_goods/ce_tg_carpets/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_carpets": {
+        "tris": 2768,
+        "bbox_m": [
+          [
+            -0.1876000016927719,
+            -0.1310049146413803,
+            0.0
+          ],
+          [
+            0.1876000016927719,
+            0.1310049146413803,
+            0.1360114961862564
+          ]
+        ],
+        "dimensions_m": [
+          0.3752000033855438,
+          0.2620098292827606,
+          0.1360114961862564
+        ],
+        "uv_bounds": [
+          0.0039061782881617546,
+          0.9921838045120239
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_carpets.lod1": {
+        "tris": 1384,
+        "bbox_m": [
+          [
+            -0.1876000016927719,
+            -0.13078123331069946,
+            0.0002795921463984996
+          ],
+          [
+            0.1876000016927719,
+            0.13126897811889648,
+            0.1360114961862564
+          ]
+        ],
+        "dimensions_m": [
+          0.3752000033855438,
+          0.26205021142959595,
+          0.1357319040398579
+        ],
+        "uv_bounds": [
+          0.003906219033524394,
+          0.9921805262565613
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_carpets.lod2": {
+        "tris": 692,
+        "bbox_m": [
+          [
+            -0.18759962916374207,
+            -0.1334206759929657,
+            -0.0034317485988140106
+          ],
+          [
+            0.18759962916374207,
+            0.13260449469089508,
+            0.13652421534061432
+          ]
+        ],
+        "dimensions_m": [
+          0.37519925832748413,
+          0.2660251706838608,
+          0.13995596393942833
+        ],
+        "uv_bounds": [
+          0.003906243946403265,
+          0.9923104047775269
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_carpets": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets.fbx": "ec5531e62efd7f6678201c1c8e8be22d365a5349b690f154bedf1ebeac3b9551",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets.blend": "f7336ce49b039e47581c64b9dcf4c3d9ebaa769b488b827d6146e076a1c8eee4",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets_d.png": "df79f6ced84948c11264e7622203db5f8650c45ea6e05ecc0dd4f78b3e37e66c",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets_n.png": "c274cfb08a2eabd5f97da24c4a2b2cea917039b99cc2eff756b36c1bd6c9a927",
+      "build/trade_goods/ce_tg_carpets/ce_tg_carpets_s.png": "9e1e35e53e66d0fe6fa3171f350879a219f3377687e14bd2e853c603f9df7fd3",
+      "build/trade_goods/ce_tg_carpets/preview.png": "d6bd125e048bbc5ab7e9f4c712aa69ee9cef204a6087ab6be2d1972a04af2eb2",
+      "build/trade_goods/ce_tg_carpets/src_maps/basecolor.png": "14141a4c13841c51f48317557fde7fe07598c4112ffd17ffa7f8a690e5d0241e",
+      "build/trade_goods/ce_tg_carpets/src_maps/normal.png": "828c8984f6b44d969e5b6c0e23bcb5e883984d46ba43551bc3e2b715992108dd",
+      "build/trade_goods/ce_tg_carpets/src_maps/metallic.png": "474e5294b6c9ef4f789446bb8f0cffa91f7fb5cfdaf667640983b92e04131261",
+      "build/trade_goods/ce_tg_carpets/src_maps/roughness.png": "119e96e6a5e654506914a5aa9df5f12067c9ac6e832d724c2b97e6ddd7b9704e",
+      "build/trade_goods/ce_tg_carpets/src_maps/ao.png": "df0684e7cc26f2dba3fa36a6db68630d8148910d1aef2a02126f89cd16a1458f",
+      "build/trade_goods/ce_tg_carpets/src_maps/height.png": "0861953cb000624d695f880ea96e7b7fa4f01b7469d53458add7eef3edae63c6"
+    }
+  },
+  "ce_tg_dyes": {
+    "fingerprint": "fb3f20cbb3aacf4b6b6d136a69a517d7bd89bcc7be8bc9fbb720fe486c29c3dc",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes.fbx",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes.blend",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes_d.png",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes_n.png",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes_s.png",
+      "build/trade_goods/ce_tg_dyes/preview.png",
+      "build/trade_goods/ce_tg_dyes/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_dyes/src_maps/normal.png",
+      "build/trade_goods/ce_tg_dyes/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_dyes/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_dyes/src_maps/ao.png",
+      "build/trade_goods/ce_tg_dyes/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_dyes": {
+        "tris": 2016,
+        "bbox_m": [
+          [
+            -0.1720999926328659,
+            -0.13588494062423706,
+            0.0
+          ],
+          [
+            0.1720999926328659,
+            0.13588494062423706,
+            0.23712000250816345
+          ]
+        ],
+        "dimensions_m": [
+          0.3441999852657318,
+          0.2717698812484741,
+          0.23712000250816345
+        ],
+        "uv_bounds": [
+          0.0039061731658875942,
+          0.9956634044647217
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_dyes.lod1": {
+        "tris": 1008,
+        "bbox_m": [
+          [
+            -0.1720999926328659,
+            -0.135715052485466,
+            -0.00014667469076812267
+          ],
+          [
+            0.1720999926328659,
+            0.135393887758255,
+            0.2372366338968277
+          ]
+        ],
+        "dimensions_m": [
+          0.3441999852657318,
+          0.271108940243721,
+          0.23738330858759582
+        ],
+        "uv_bounds": [
+          0.0039062220603227615,
+          0.9956241846084595
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_dyes.lod2": {
+        "tris": 504,
+        "bbox_m": [
+          [
+            -0.17207792401313782,
+            -0.13563741743564606,
+            -0.00035994217614643276
+          ],
+          [
+            0.1720581203699112,
+            0.135393887758255,
+            0.2362760454416275
+          ]
+        ],
+        "dimensions_m": [
+          0.344136044383049,
+          0.27103130519390106,
+          0.23663598761777394
+        ],
+        "uv_bounds": [
+          0.00390625698491931,
+          0.9960898160934448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_dyes": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes.fbx": "05c83cc7d2d502e4f457fd5bd3a8f46c6b115d8bf80aad4d1b8d1f023a86a711",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes.blend": "fb993660886646d40b7702d9c9160f28d26a9caa52b9354f9bba6f7f55a2f72c",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes_d.png": "973feb8bc99a429d50c6f56fddf9009cd90e089a21d70db7d066ce9b3175ac37",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes_n.png": "6fdee3d17eacd3779dd10f881089c986c8e1c242d402f81e41319e2c799f4a87",
+      "build/trade_goods/ce_tg_dyes/ce_tg_dyes_s.png": "597865511ed3b573f2410aed1b58aa4ddc0f89a85e69fc161323417dfdc7bef7",
+      "build/trade_goods/ce_tg_dyes/preview.png": "0c682e51dc381e2e4eae4ec61044ec0c1690106f470f86271560484d340991ae",
+      "build/trade_goods/ce_tg_dyes/src_maps/basecolor.png": "49df0b8c72912698b59052c4a5997d1bae29e3aa6b182e8b2e48a12569126eac",
+      "build/trade_goods/ce_tg_dyes/src_maps/normal.png": "a20823a8b7bb5a3ae4e0cb2cbd8a87912b65121f260aab419b5daeddf2561205",
+      "build/trade_goods/ce_tg_dyes/src_maps/metallic.png": "118c1bdcc4bdc41fb7b803d339d8aa2d2d9801420d0cac797ef6f5d8cf3c6a9d",
+      "build/trade_goods/ce_tg_dyes/src_maps/roughness.png": "6fbc3b88fa6e8d6f945ad4f5119c2db6ac065766532bb13fcf2adf837fc8701a",
+      "build/trade_goods/ce_tg_dyes/src_maps/ao.png": "679d68c8664792f94b298d07a94d62ea1fede72348c12c4bc6ca83409e62e887",
+      "build/trade_goods/ce_tg_dyes/src_maps/height.png": "a3a7e72288697f4253ceaa31926afe140ca7b1850e125ab1f62f3c2f45f9ece5"
+    }
+  },
+  "ce_tg_glassware": {
+    "fingerprint": "cd3d9f450df3961c2bf7d8145f75cfc827f0a7a5e345586874d65d94bd43b013",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware.fbx",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware.blend",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware_d.png",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware_n.png",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware_s.png",
+      "build/trade_goods/ce_tg_glassware/preview.png",
+      "build/trade_goods/ce_tg_glassware/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_glassware/src_maps/normal.png",
+      "build/trade_goods/ce_tg_glassware/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_glassware/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_glassware/src_maps/ao.png",
+      "build/trade_goods/ce_tg_glassware/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_glassware": {
+        "tris": 2992,
+        "bbox_m": [
+          [
+            -0.2029999941587448,
+            -0.1404999941587448,
+            0.0
+          ],
+          [
+            0.2029999941587448,
+            0.1404999941587448,
+            0.2788600027561188
+          ]
+        ],
+        "dimensions_m": [
+          0.4059999883174896,
+          0.2809999883174896,
+          0.2788600027561188
+        ],
+        "uv_bounds": [
+          0.003906200872734189,
+          0.9953857064247131
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_glassware.lod1": {
+        "tris": 1496,
+        "bbox_m": [
+          [
+            -0.20270754396915436,
+            -0.14022061228752136,
+            0.00031217242940329015
+          ],
+          [
+            0.20270754396915436,
+            0.14022061228752136,
+            0.27887171506881714
+          ]
+        ],
+        "dimensions_m": [
+          0.4054150879383087,
+          0.2804412245750427,
+          0.27855954263941385
+        ],
+        "uv_bounds": [
+          0.0039062430150806904,
+          0.9955878257751465
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_glassware.lod2": {
+        "tris": 748,
+        "bbox_m": [
+          [
+            -0.20270754396915436,
+            -0.14022061228752136,
+            0.00031217242940329015
+          ],
+          [
+            0.20270754396915436,
+            0.14022061228752136,
+            0.2790616452693939
+          ]
+        ],
+        "dimensions_m": [
+          0.4054150879383087,
+          0.2804412245750427,
+          0.27874947283999063
+        ],
+        "uv_bounds": [
+          0.0039062430150806904,
+          0.9956643581390381
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_glassware": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware.fbx": "429e3397ebe13619e6572773b84c02624cbf927a4401a52b6667fe461b908d3d",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware.blend": "9909f60ff8b85578affb8620f091c5bae6dd2fc288e33173bee572177de20f2c",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware_d.png": "d68de4fa0980b57c9c49fc304fb73f3855e6926b5dd249a7e8041a90f5e94a17",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware_n.png": "01505f31310acd91884bbc1580676299eaea452c7417ce8803781cc81d23e003",
+      "build/trade_goods/ce_tg_glassware/ce_tg_glassware_s.png": "0e44a4e7d4191d1812b1eb36efaeba8835882688b11aa5f876ca457688b7c63c",
+      "build/trade_goods/ce_tg_glassware/preview.png": "1c00ed6a617ce654c08bfebbcf0f01f0c1284e089bb4d4884866364f9345ec9a",
+      "build/trade_goods/ce_tg_glassware/src_maps/basecolor.png": "547a2d57f1c10c18d9a681e6c612704a01824e287d8932737db2bd24fae24890",
+      "build/trade_goods/ce_tg_glassware/src_maps/normal.png": "c35cd11d2fa2eeb246369861f1935fc503be97ca133da506e88b92286897220f",
+      "build/trade_goods/ce_tg_glassware/src_maps/metallic.png": "acf56bb4b2a0a5fc19ac1c21580ce5b96aa78e5a487633b528e915df8c119ac7",
+      "build/trade_goods/ce_tg_glassware/src_maps/roughness.png": "cc2a7beb7a33eefdeec99f9934800dd2232d00a986063767ed1250fe2ab33018",
+      "build/trade_goods/ce_tg_glassware/src_maps/ao.png": "304e28354b476dccac74d3c8caf76bd40de1840561346b917beedee2e1c0157f",
+      "build/trade_goods/ce_tg_glassware/src_maps/height.png": "0db489ec1c28aa9061d9e6bda6fe2882b96d102c65375a521349d87f09a9becf"
+    }
+  },
+  "ce_tg_honey": {
+    "fingerprint": "b33a45430fc2820dc2f8e3951084f3a2ab2ffac53da31940b42d7eb4e96c4def",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_honey/ce_tg_honey.fbx",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey.blend",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey_d.png",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey_n.png",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey_s.png",
+      "build/trade_goods/ce_tg_honey/preview.png",
+      "build/trade_goods/ce_tg_honey/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_honey/src_maps/normal.png",
+      "build/trade_goods/ce_tg_honey/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_honey/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_honey/src_maps/ao.png",
+      "build/trade_goods/ce_tg_honey/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_honey": {
+        "tris": 2360,
+        "bbox_m": [
+          [
+            -0.1861719936132431,
+            -0.13924869894981384,
+            0.0
+          ],
+          [
+            0.1861719936132431,
+            0.13924869894981384,
+            0.21624000370502472
+          ]
+        ],
+        "dimensions_m": [
+          0.3723439872264862,
+          0.2784973978996277,
+          0.21624000370502472
+        ],
+        "uv_bounds": [
+          0.003906179452314973,
+          0.9943528771400452
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_honey.lod1": {
+        "tris": 1180,
+        "bbox_m": [
+          [
+            -0.1861719936132431,
+            -0.1400470733642578,
+            -0.00010537847992964089
+          ],
+          [
+            0.1861719936132431,
+            0.13924869894981384,
+            0.21606138348579407
+          ]
+        ],
+        "dimensions_m": [
+          0.3723439872264862,
+          0.27929577231407166,
+          0.2161667619657237
+        ],
+        "uv_bounds": [
+          0.0039062220603227615,
+          0.9960938096046448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_honey.lod2": {
+        "tris": 590,
+        "bbox_m": [
+          [
+            -0.1860974133014679,
+            -0.14083600044250488,
+            -0.0003011051448993385
+          ],
+          [
+            0.18615193665027618,
+            0.13919717073440552,
+            0.21610431373119354
+          ]
+        ],
+        "dimensions_m": [
+          0.3722493499517441,
+          0.2800331711769104,
+          0.21640541887609288
+        ],
+        "uv_bounds": [
+          0.0039062316063791513,
+          0.996040403842926
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_honey": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_honey/ce_tg_honey.fbx": "ef03b1e9785669c1e7d8529e5ad73d4558356b9fc39241f04c81739784b07f0f",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey.blend": "7f7c85555515af3a22ca128d7f7d78482a26d7ba3664fcb2d713121bc7872027",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey_d.png": "d55b215d23dc344ed45932e1580af300adecff0f864511b28689e15fba336729",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey_n.png": "13c6690376ac6ca43e233d0aec167eb3fbab55ef767a1deededa04efe9b6769c",
+      "build/trade_goods/ce_tg_honey/ce_tg_honey_s.png": "00e8716d2832c42056517095349227def54939bada6b59e2b12ea58f0eb171c2",
+      "build/trade_goods/ce_tg_honey/preview.png": "b716976cfeaecdfc2661d89434fb8c3062e70f1101d583090ce5675989a5f4f0",
+      "build/trade_goods/ce_tg_honey/src_maps/basecolor.png": "78a2db1f6f3c631dce17ea0d16d49cf8d2e671095d8b8a2672bf12bb6ef2f623",
+      "build/trade_goods/ce_tg_honey/src_maps/normal.png": "13ce19d90658456ada6f64cb9118cb308eac164cca065017443262e20412ef9c",
+      "build/trade_goods/ce_tg_honey/src_maps/metallic.png": "118c1bdcc4bdc41fb7b803d339d8aa2d2d9801420d0cac797ef6f5d8cf3c6a9d",
+      "build/trade_goods/ce_tg_honey/src_maps/roughness.png": "483ee73d872d43691d8e26c46be2c20f8d80225202a6ef44c4ab81486c4c51d2",
+      "build/trade_goods/ce_tg_honey/src_maps/ao.png": "39319bc75c6c23037c8e66f3b1882cc1bebbe345169de7804beaa0006c86443f",
+      "build/trade_goods/ce_tg_honey/src_maps/height.png": "04a4859011c9b919ef33c73ba749677c881643b422ed19b784b36a820b62740b"
+    }
+  },
+  "ce_tg_incense": {
+    "fingerprint": "886a45c1b3475bdfb313180467d6cb4a644c0765bd694e278a0baf6053d502c5",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_incense/ce_tg_incense.fbx",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense.blend",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense_d.png",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense_n.png",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense_s.png",
+      "build/trade_goods/ce_tg_incense/preview.png",
+      "build/trade_goods/ce_tg_incense/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_incense/src_maps/normal.png",
+      "build/trade_goods/ce_tg_incense/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_incense/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_incense/src_maps/ao.png",
+      "build/trade_goods/ce_tg_incense/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_incense": {
+        "tris": 1960,
+        "bbox_m": [
+          [
+            -0.18299999833106995,
+            -0.13046249747276306,
+            0.0
+          ],
+          [
+            0.18299999833106995,
+            0.13046249747276306,
+            0.13599583506584167
+          ]
+        ],
+        "dimensions_m": [
+          0.3659999966621399,
+          0.2609249949455261,
+          0.13599583506584167
+        ],
+        "uv_bounds": [
+          0.0039061643183231354,
+          0.9950344562530518
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_incense.lod1": {
+        "tris": 980,
+        "bbox_m": [
+          [
+            -0.1827027052640915,
+            -0.13078488409519196,
+            0.000308966264128685
+          ],
+          [
+            0.1827027052640915,
+            0.13018092513084412,
+            0.1361515372991562
+          ]
+        ],
+        "dimensions_m": [
+          0.365405410528183,
+          0.26096580922603607,
+          0.1358425710350275
+        ],
+        "uv_bounds": [
+          0.0039061661809682846,
+          0.994840145111084
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_incense.lod2": {
+        "tris": 490,
+        "bbox_m": [
+          [
+            -0.1827027052640915,
+            -0.13042795658111572,
+            0.000308966264128685
+          ],
+          [
+            0.1827027052640915,
+            0.13018092513084412,
+            0.13609670102596283
+          ]
+        ],
+        "dimensions_m": [
+          0.365405410528183,
+          0.26060888171195984,
+          0.13578773476183414
+        ],
+        "uv_bounds": [
+          0.003906187368556857,
+          0.9948571920394897
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_incense": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_incense/ce_tg_incense.fbx": "291c2fa54113657b1090007b0b5db2b6f727b74aacda8273a2e8e6001d756811",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense.blend": "42471fbca1a6fff00203b9e598100d8c6780e2261edb0d9815a4825a81bd136f",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense_d.png": "640c84ae06cf80f6db2c48444fb5080aa0d5960f625304b36b18304f86d2ff84",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense_n.png": "0598218e4423b4ddf6796e249978be35abec67b56417b8f7ffd7b5729231eac2",
+      "build/trade_goods/ce_tg_incense/ce_tg_incense_s.png": "122d5c77bb81e738b968b04ca92b588132a7609fd92b04fa4cfe9a70babab489",
+      "build/trade_goods/ce_tg_incense/preview.png": "0b97c4fb3358aecba6216de31ff78b98ceb12e219ed9c30585353f77d5be66bc",
+      "build/trade_goods/ce_tg_incense/src_maps/basecolor.png": "0fed7a8b2cb6ccf3b0b213c7d7ad4d447eca7d38b7deaad0c43a2403edd367de",
+      "build/trade_goods/ce_tg_incense/src_maps/normal.png": "1f73adc34177a7b9a95ead0bf342df9e519e2b2e55527d93439d44ecd09ebc77",
+      "build/trade_goods/ce_tg_incense/src_maps/metallic.png": "24eec614259022f7b49db2132c806eec19ab1da58e1efe43ed2f974abdd156e7",
+      "build/trade_goods/ce_tg_incense/src_maps/roughness.png": "bfe4ffe8bc461a9387de42252d8c1125eb717a3502d061f1740b6c666785f323",
+      "build/trade_goods/ce_tg_incense/src_maps/ao.png": "1a25ab4bcc7fba2cc07e595a65c983d4186b7f69af036813c9a17064643a91a4",
+      "build/trade_goods/ce_tg_incense/src_maps/height.png": "aaa13f027cadfd0ab9a60be2d0c5809fabea929555211ddc18b5a5feb1c0d790"
+    }
+  },
+  "ce_tg_mead": {
+    "fingerprint": "35f8fb6e95c68228632804e54bc839f84e821c04fbc60db7a81613cda8391474",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_mead/ce_tg_mead.fbx",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead.blend",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead_d.png",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead_n.png",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead_s.png",
+      "build/trade_goods/ce_tg_mead/preview.png",
+      "build/trade_goods/ce_tg_mead/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_mead/src_maps/normal.png",
+      "build/trade_goods/ce_tg_mead/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_mead/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_mead/src_maps/ao.png",
+      "build/trade_goods/ce_tg_mead/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_mead": {
+        "tris": 2924,
+        "bbox_m": [
+          [
+            -0.1611177921295166,
+            -0.14214065670967102,
+            0.0
+          ],
+          [
+            0.1611177921295166,
+            0.14214065670967102,
+            0.2930000126361847
+          ]
+        ],
+        "dimensions_m": [
+          0.3222355842590332,
+          0.28428131341934204,
+          0.2930000126361847
+        ],
+        "uv_bounds": [
+          0.0039062080904841423,
+          0.9958746433258057
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_mead.lod1": {
+        "tris": 1462,
+        "bbox_m": [
+          [
+            -0.16095055639743805,
+            -0.14181073009967804,
+            0.00036202921182848513
+          ],
+          [
+            0.16102482378482819,
+            0.14214065670967102,
+            0.29283490777015686
+          ]
+        ],
+        "dimensions_m": [
+          0.32197538018226624,
+          0.28395138680934906,
+          0.2924728785583284
+        ],
+        "uv_bounds": [
+          0.0039062080904841423,
+          0.9960708022117615
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_mead.lod2": {
+        "tris": 730,
+        "bbox_m": [
+          [
+            -0.16089265048503876,
+            -0.14404980838298798,
+            0.0003857288393191993
+          ],
+          [
+            0.1607898622751236,
+            0.14368011057376862,
+            0.29216110706329346
+          ]
+        ],
+        "dimensions_m": [
+          0.32168251276016235,
+          0.2877299189567566,
+          0.29177537822397426
+        ],
+        "uv_bounds": [
+          0.00390625,
+          0.9952601790428162
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_mead": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_mead/ce_tg_mead.fbx": "15a8ae5d01afe4ea521b4e85f175fb51087d136d62e022359b0e98d15164655a",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead.blend": "c75674053c140b97a21d4c51b47f6f9f9046e48fb7cc60e5c8a7746070a5d598",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead_d.png": "b702384b9c737028a111dd08a67644aea6f5856905bb5403840f92d3855a9f3f",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead_n.png": "ffdf9ceecf606b8b1f28bca573f1bc172054587186bb2a41d43bfbb85d91196a",
+      "build/trade_goods/ce_tg_mead/ce_tg_mead_s.png": "d08b40d0c73e0b526ae3610c52520dd1667c442cbd413c010ea353600b23303d",
+      "build/trade_goods/ce_tg_mead/preview.png": "5b3d1097df6df929097e9772a6b8cb63f96e1c90751ccb4bfce47580abf8e6d9",
+      "build/trade_goods/ce_tg_mead/src_maps/basecolor.png": "f5efcccbb83664181e7c71ce18e29d7a936345751b942199017b835cfcb37d9c",
+      "build/trade_goods/ce_tg_mead/src_maps/normal.png": "33e367bd478fba9cc0ee99c950a13b890f54b537c2034386a242e62a544dd33d",
+      "build/trade_goods/ce_tg_mead/src_maps/metallic.png": "683143d9df2c22435ba51b661df1e313ef6659003dd52c3fedf19c51e9a31988",
+      "build/trade_goods/ce_tg_mead/src_maps/roughness.png": "2524f82f7aa45f4e38bb40dc79fade664a4d2aeddd9018d363e594df27ec6896",
+      "build/trade_goods/ce_tg_mead/src_maps/ao.png": "053ddffc51780f812759c577b6b0584c725a2bde0b8ccbea67859849d316b3f3",
+      "build/trade_goods/ce_tg_mead/src_maps/height.png": "001030d838c058bae392651c8f2eefc63290d971a0cf612887a12b0c7909ad77"
+    }
+  },
+  "ce_tg_parchment": {
+    "fingerprint": "3993f9bdc3092e71d9db01c6d84a41685990aa1136855bc94d627d648631e844",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment.fbx",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment.blend",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment_d.png",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment_n.png",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment_s.png",
+      "build/trade_goods/ce_tg_parchment/preview.png",
+      "build/trade_goods/ce_tg_parchment/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_parchment/src_maps/normal.png",
+      "build/trade_goods/ce_tg_parchment/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_parchment/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_parchment/src_maps/ao.png",
+      "build/trade_goods/ce_tg_parchment/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_parchment": {
+        "tris": 2944,
+        "bbox_m": [
+          [
+            -0.17850135266780853,
+            -0.14940929412841797,
+            0.0
+          ],
+          [
+            0.17850135266780853,
+            0.14940929412841797,
+            0.10491999983787537
+          ]
+        ],
+        "dimensions_m": [
+          0.35700270533561707,
+          0.29881858825683594,
+          0.10491999983787537
+        ],
+        "uv_bounds": [
+          0.0039062148425728083,
+          0.9609982371330261
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_parchment.lod1": {
+        "tris": 1472,
+        "bbox_m": [
+          [
+            -0.1781158745288849,
+            -0.14904825389385223,
+            0.000212170765735209
+          ],
+          [
+            0.1785757839679718,
+            0.14872001111507416,
+            0.10491999983787537
+          ]
+        ],
+        "dimensions_m": [
+          0.3566916584968567,
+          0.2977682650089264,
+          0.10470782907214016
+        ],
+        "uv_bounds": [
+          0.003906239289790392,
+          0.9960851669311523
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_parchment.lod2": {
+        "tris": 736,
+        "bbox_m": [
+          [
+            -0.1781158745288849,
+            -0.14904825389385223,
+            0.000212170765735209
+          ],
+          [
+            0.1783437877893448,
+            0.14822694659233093,
+            0.10502133518457413
+          ]
+        ],
+        "dimensions_m": [
+          0.3564596623182297,
+          0.29727520048618317,
+          0.10480916441883892
+        ],
+        "uv_bounds": [
+          0.0039062481373548508,
+          0.996075451374054
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_parchment": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment.fbx": "429aff20f9663b1045088cf6fb272507619d5198c58f94077119ef651b136efe",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment.blend": "bc697c858e2cd7aadbc03dffd21a146c1b93b9964012c8e6d98125cad368bf62",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment_d.png": "5388974975836dda93e289d82f38c972ac1afbaac189c9987d169036517da9ac",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment_n.png": "0536e72d91a18d18690d4fe5effb72ee17b2dae495e41d69b5a38368954b5e9a",
+      "build/trade_goods/ce_tg_parchment/ce_tg_parchment_s.png": "cb2e64ad06cd8c032fd5c6aa26f5c132252edceee70078a2b692cc6c0059b38e",
+      "build/trade_goods/ce_tg_parchment/preview.png": "48ed9bd0bddaf7bfad46c70dfe7435f51f81458972c9a43292d9991c13f0edd9",
+      "build/trade_goods/ce_tg_parchment/src_maps/basecolor.png": "38a1dcd6ca9d15c45b6637dfb4ad00f9d8fe703eb0e7f3d08edfb2da520caea4",
+      "build/trade_goods/ce_tg_parchment/src_maps/normal.png": "83bfaf750720f164f06a92fc571b094150a8ee79348f3636f62c550fea250ebc",
+      "build/trade_goods/ce_tg_parchment/src_maps/metallic.png": "118c1bdcc4bdc41fb7b803d339d8aa2d2d9801420d0cac797ef6f5d8cf3c6a9d",
+      "build/trade_goods/ce_tg_parchment/src_maps/roughness.png": "09e8f8fac0e233843ccb77bedc16d82dc97ff4dd841dd7a4fae27e78c48a67a9",
+      "build/trade_goods/ce_tg_parchment/src_maps/ao.png": "073559ba53d9dfe06185328ac6aa5ff1d63c1d4d66b889a019a2ed7375d0a396",
+      "build/trade_goods/ce_tg_parchment/src_maps/height.png": "a3eda1cfb1244954111022321c4d5abb2d76a87a855014a3b1d4eb5bafcdeeda"
+    }
+  },
+  "ce_tg_pearls": {
+    "fingerprint": "6b694ef82e23af89a9e02a8cc2e9e1cac7c6803ea8f99935f94c929bad3631d8",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls.fbx",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls.blend",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls_d.png",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls_n.png",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls_s.png",
+      "build/trade_goods/ce_tg_pearls/preview.png",
+      "build/trade_goods/ce_tg_pearls/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_pearls/src_maps/normal.png",
+      "build/trade_goods/ce_tg_pearls/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_pearls/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_pearls/src_maps/ao.png",
+      "build/trade_goods/ce_tg_pearls/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_pearls": {
+        "tris": 2944,
+        "bbox_m": [
+          [
+            -0.16949999332427979,
+            -0.1422160118818283,
+            0.0
+          ],
+          [
+            0.16949999332427979,
+            0.1422160118818283,
+            0.2046409398317337
+          ]
+        ],
+        "dimensions_m": [
+          0.33899998664855957,
+          0.2844320237636566,
+          0.2046409398317337
+        ],
+        "uv_bounds": [
+          0.003906216472387314,
+          0.9949938058853149
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_pearls.lod1": {
+        "tris": 1472,
+        "bbox_m": [
+          [
+            -0.16919708251953125,
+            -0.14193251729011536,
+            -1.974664655790548e-06
+          ],
+          [
+            0.16919708251953125,
+            0.1422160118818283,
+            0.2046409547328949
+          ]
+        ],
+        "dimensions_m": [
+          0.3383941650390625,
+          0.28414852917194366,
+          0.2046429293975507
+        ],
+        "uv_bounds": [
+          0.003906216472387314,
+          0.9953930974006653
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_pearls.lod2": {
+        "tris": 736,
+        "bbox_m": [
+          [
+            -0.16919708251953125,
+            -0.14193251729011536,
+            0.00027409367612563074
+          ],
+          [
+            0.16919708251953125,
+            0.14124785363674164,
+            0.2020687758922577
+          ]
+        ],
+        "dimensions_m": [
+          0.3383941650390625,
+          0.283180370926857,
+          0.20179468221613206
+        ],
+        "uv_bounds": [
+          0.003906216472387314,
+          0.9954342246055603
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_pearls": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls.fbx": "c52128f0b0d071e7b0145e2d7cddce669ae6ddc8487b0053390efe9fadff0314",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls.blend": "effe8977336c1182bb52a041a2058902d372e18fcea4d7ede068dc78cf90416f",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls_d.png": "2a45578cbc95d8dcdb2fdd0ae5b6cb2ac156918e52f40ca5111e1ecf4d78d461",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls_n.png": "bee9ad1d237758eca626d6929cc636dcd3e16f42e1918e1f219c56941f8c732c",
+      "build/trade_goods/ce_tg_pearls/ce_tg_pearls_s.png": "f91d537166e163c364fe83313b0bc31bba9ea244813eae4c3805f42d7e388087",
+      "build/trade_goods/ce_tg_pearls/preview.png": "41a8d941da389a73712c5755a87f07267bba01f901c2391f1a4a13bc7dfc15ed",
+      "build/trade_goods/ce_tg_pearls/src_maps/basecolor.png": "ceb15afc66cdf8e43f876093da043d2542b03e3bf7f73eac1f783b9ad2732fdd",
+      "build/trade_goods/ce_tg_pearls/src_maps/normal.png": "fa27311d7425705cc4c8226ff89fa4a2e3144867fa08f718e5cd61621c812558",
+      "build/trade_goods/ce_tg_pearls/src_maps/metallic.png": "4675859918d0c712d28167786301ac0f44b14c70c8f26c8baa5af5558b5fe75d",
+      "build/trade_goods/ce_tg_pearls/src_maps/roughness.png": "ed587740386162ae0e41e45ff257cd9d325b59e4096193edf8061d8e9a210a6d",
+      "build/trade_goods/ce_tg_pearls/src_maps/ao.png": "544a12fb4ff4674ab792326191d893ad2b8674a2a43d455940ca926f7ae1b5ba",
+      "build/trade_goods/ce_tg_pearls/src_maps/height.png": "07c918fb65b165c25dba03a1f22cc68ff4ed852e297c4fc638743df67da183b9"
+    }
+  },
+  "ce_tg_pitch": {
+    "fingerprint": "e906042f0f4ce94fb0761df2a8e07391bf3e9c49a9145e6791b74773b542006c",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch.fbx",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch.blend",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch_d.png",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch_n.png",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch_s.png",
+      "build/trade_goods/ce_tg_pitch/preview.png",
+      "build/trade_goods/ce_tg_pitch/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_pitch/src_maps/normal.png",
+      "build/trade_goods/ce_tg_pitch/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_pitch/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_pitch/src_maps/ao.png",
+      "build/trade_goods/ce_tg_pitch/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_pitch": {
+        "tris": 2738,
+        "bbox_m": [
+          [
+            -0.15249374508857727,
+            -0.13899999856948853,
+            0.0
+          ],
+          [
+            0.15249374508857727,
+            0.13899999856948853,
+            0.4097527265548706
+          ]
+        ],
+        "dimensions_m": [
+          0.30498749017715454,
+          0.27799999713897705,
+          0.4097527265548706
+        ],
+        "uv_bounds": [
+          0.003906210185959935,
+          0.9957464337348938
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_pitch.lod1": {
+        "tris": 1368,
+        "bbox_m": [
+          [
+            -0.15229842066764832,
+            -0.13899999856948853,
+            -8.438180884695612e-06
+          ],
+          [
+            0.15194573998451233,
+            0.13899999856948853,
+            0.4102323353290558
+          ]
+        ],
+        "dimensions_m": [
+          0.30424416065216064,
+          0.27799999713897705,
+          0.4102407735099405
+        ],
+        "uv_bounds": [
+          0.003906229278072715,
+          0.9960113763809204
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_pitch.lod2": {
+        "tris": 684,
+        "bbox_m": [
+          [
+            -0.15159933269023895,
+            -0.13784809410572052,
+            -8.438157237833366e-06
+          ],
+          [
+            0.15194573998451233,
+            0.14027203619480133,
+            0.4102323353290558
+          ]
+        ],
+        "dimensions_m": [
+          0.3035450726747513,
+          0.27812013030052185,
+          0.4102407734862936
+        ],
+        "uv_bounds": [
+          0.0039062302093952894,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_pitch": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch.fbx": "edc6c689d84e3a8949e92145339dfd59b6a86e499b250dbf66df44f5a9f6f327",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch.blend": "8f10f2472c7f3aa74b0537b728c173173d00b540723ca595b637e5bd269fb9d2",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch_d.png": "82dc76bff2ad4abf941c126703df8ab879ee8688cc898a9eae718303f33fa355",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch_n.png": "c491a0fc02162fb6b2889aa489268c91470a111f6ac2ffdf91239365e2e57ec9",
+      "build/trade_goods/ce_tg_pitch/ce_tg_pitch_s.png": "008aa3495b207bf07542d6b0059bf148ac06b47f95686988f12c109a1e8684b3",
+      "build/trade_goods/ce_tg_pitch/preview.png": "4ea3d2dd9bc1109301fed013415db0b750f77ed495df37d0847494a085fba0b3",
+      "build/trade_goods/ce_tg_pitch/src_maps/basecolor.png": "a73c30d7b71996991dcd9668b7f9c6ea469e5a62d9fe6ed685dc50c3b2debe3b",
+      "build/trade_goods/ce_tg_pitch/src_maps/normal.png": "d49459631eeedd2e10a268221e1599809728143b11e20606c52816d99b733cc6",
+      "build/trade_goods/ce_tg_pitch/src_maps/metallic.png": "f977f982a7328cd8c389e79d1c1a7488148fc87511c2f976c2f0bb64d5663cc1",
+      "build/trade_goods/ce_tg_pitch/src_maps/roughness.png": "07ec0c86d56cd61d83b61c76ec5a8caade57db18f2b76844514e80b31df0e809",
+      "build/trade_goods/ce_tg_pitch/src_maps/ao.png": "f0f35cf8c02ccbbe7d0dd8b8fc22e6ccfad5c5d88e3c76c36bce26ddca4c4446",
+      "build/trade_goods/ce_tg_pitch/src_maps/height.png": "417214f69fa5d4b1f76487dcc0de341a8339efa1ef357a36bd068a25a679bb4f"
+    }
+  },
+  "ce_tg_sailcloth": {
+    "fingerprint": "982134c25650b7d1b011d6c4a4ca3ffc7972d12c19ea41be5b4538b2cdce081f",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth.fbx",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth.blend",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth_d.png",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth_n.png",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth_s.png",
+      "build/trade_goods/ce_tg_sailcloth/preview.png",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/normal.png",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/ao.png",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_sailcloth": {
+        "tris": 2246,
+        "bbox_m": [
+          [
+            -0.18166610598564148,
+            -0.12691354751586914,
+            0.0
+          ],
+          [
+            0.18166610598564148,
+            0.12691354751586914,
+            0.12802240252494812
+          ]
+        ],
+        "dimensions_m": [
+          0.36333221197128296,
+          0.2538270950317383,
+          0.12802240252494812
+        ],
+        "uv_bounds": [
+          0.00390621111728251,
+          0.995949923992157
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_sailcloth.lod1": {
+        "tris": 1122,
+        "bbox_m": [
+          [
+            -0.18166610598564148,
+            -0.12681834399700165,
+            0.0003031826636288315
+          ],
+          [
+            0.18166610598564148,
+            0.12609046697616577,
+            0.12768036127090454
+          ]
+        ],
+        "dimensions_m": [
+          0.36333221197128296,
+          0.2529088109731674,
+          0.1273771786072757
+        ],
+        "uv_bounds": [
+          0.003906188765540719,
+          0.9959116578102112
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_sailcloth.lod2": {
+        "tris": 560,
+        "bbox_m": [
+          [
+            -0.1812780499458313,
+            -0.12650388479232788,
+            0.000339832273311913
+          ],
+          [
+            0.18146178126335144,
+            0.12759962677955627,
+            0.1270919144153595
+          ]
+        ],
+        "dimensions_m": [
+          0.36273983120918274,
+          0.25410351157188416,
+          0.12675208214204758
+        ],
+        "uv_bounds": [
+          0.003906227182596922,
+          0.9960939288139343
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_sailcloth": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth.fbx": "c5f5b43d911c8526915e306df51cacd6551a5756c504f3d53f1ce9c8355aa241",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth.blend": "ddd83b776f2e820f4e8b5677fe7f5db4567c61828e1927be19b82f269afd2732",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth_d.png": "01a57fb9a702fa70edb38dc1f11ebcada7a6cbf18c1bfde91b1231be2ea1cb3f",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth_n.png": "832f9f8f9c6f52a3de9443c0b22b048ae883944ce096b17c6afdc82c67566617",
+      "build/trade_goods/ce_tg_sailcloth/ce_tg_sailcloth_s.png": "ca21e3cf704194bdc4dc0ae281a1a5a88c61a8f94d3bbd1bc0d33d287c73a749",
+      "build/trade_goods/ce_tg_sailcloth/preview.png": "bfd88a1d2c513d772179033e56f216174027698ae35fa2235d99334a192b8f0b",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/basecolor.png": "a2505422c47a4a98dad248125dc190c9aee7b128d96ac5ad342e5001cf4227bc",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/normal.png": "a25c1ef2af1b71f1799583f80687fa153d9892875ada60825bf97174725685b5",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/metallic.png": "118c1bdcc4bdc41fb7b803d339d8aa2d2d9801420d0cac797ef6f5d8cf3c6a9d",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/roughness.png": "af06d7328bb6209df1293ea02c788aba9b2476598eb2e0a224f28ed057f6806d",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/ao.png": "1ea2e97011ac354ada0d795ce316468a5e2a48e69e14380046b34319a545e17d",
+      "build/trade_goods/ce_tg_sailcloth/src_maps/height.png": "5266aa9ddb4d5015643abdb2e08debe8331ffadff69dbe3ad9b6f650bb886090"
+    }
+  },
+  "ce_tg_stockfish": {
+    "fingerprint": "203f3d31bea032508f3dffe1e2e3021978a6a18c29999cd3a193cfaa9e008234",
+    "category": "trade_goods",
+    "files": [
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish.fbx",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish.blend",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish_d.png",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish_n.png",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish_s.png",
+      "build/trade_goods/ce_tg_stockfish/preview.png",
+      "build/trade_goods/ce_tg_stockfish/src_maps/basecolor.png",
+      "build/trade_goods/ce_tg_stockfish/src_maps/normal.png",
+      "build/trade_goods/ce_tg_stockfish/src_maps/metallic.png",
+      "build/trade_goods/ce_tg_stockfish/src_maps/roughness.png",
+      "build/trade_goods/ce_tg_stockfish/src_maps/ao.png",
+      "build/trade_goods/ce_tg_stockfish/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_tg_stockfish": {
+        "tris": 2744,
+        "bbox_m": [
+          [
+            -0.19891543686389923,
+            -0.15189719200134277,
+            0.0
+          ],
+          [
+            0.19891543686389923,
+            0.15189719200134277,
+            0.09268087893724442
+          ]
+        ],
+        "dimensions_m": [
+          0.39783087372779846,
+          0.30379438400268555,
+          0.09268087893724442
+        ],
+        "uv_bounds": [
+          0.003906169906258583,
+          0.9960682988166809
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_stockfish.lod1": {
+        "tris": 1372,
+        "bbox_m": [
+          [
+            -0.19893650710582733,
+            -0.1514301598072052,
+            0.0
+          ],
+          [
+            0.19676554203033447,
+            0.1512967050075531,
+            0.09268087893724442
+          ]
+        ],
+        "dimensions_m": [
+          0.3957020491361618,
+          0.3027268648147583,
+          0.09268087893724442
+        ],
+        "uv_bounds": [
+          0.0039061708375811577,
+          0.9957433938980103
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_tg_stockfish.lod2": {
+        "tris": 686,
+        "bbox_m": [
+          [
+            -0.19893650710582733,
+            -0.15124545991420746,
+            -0.0015594057040289044
+          ],
+          [
+            0.19676554203033447,
+            0.1512967050075531,
+            0.09424028545618057
+          ]
+        ],
+        "dimensions_m": [
+          0.3957020491361618,
+          0.30254216492176056,
+          0.09579969116020948
+        ],
+        "uv_bounds": [
+          0.0039062134455889463,
+          0.995919942855835
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_tg_stockfish": "trade_good"
+    },
+    "sha256": {
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish.fbx": "cc7a3cc10fba78a086660ba7c0e9d5bbc13099f03c91728c30db1a28aa040416",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish.blend": "f6b93d05f5c933ad720efc7dcd001515ebf86280774140262031eb97bcf86d0a",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish_d.png": "abdf9f31a049518e3a18e62cedac9f5ca1371129011708e674251af76e4ca8f6",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish_n.png": "9b5e0c4b62e5e783b0ddd8533693d7451bf364c3161264d79ad8d4156c34916a",
+      "build/trade_goods/ce_tg_stockfish/ce_tg_stockfish_s.png": "d3b328fef632d62d9de9213d9628165fe31066f4386dfd5ce254ca3100477e47",
+      "build/trade_goods/ce_tg_stockfish/preview.png": "159e9675cc53682ad35c2adf1f1f80b3565a7c61b9e8baf4b9afa29cedf47b8a",
+      "build/trade_goods/ce_tg_stockfish/src_maps/basecolor.png": "815e095dd0ba733a87f77fd4010e09d5fe45001582a943de92f9c1f747e66117",
+      "build/trade_goods/ce_tg_stockfish/src_maps/normal.png": "f533d985fb9829045b2fdec29ee9e02fe4668cbe47b023d96db7ecfff7675145",
+      "build/trade_goods/ce_tg_stockfish/src_maps/metallic.png": "118c1bdcc4bdc41fb7b803d339d8aa2d2d9801420d0cac797ef6f5d8cf3c6a9d",
+      "build/trade_goods/ce_tg_stockfish/src_maps/roughness.png": "84c5003116da392d4eb4f585e6d5399a6963350611517d888079bb838a7182be",
+      "build/trade_goods/ce_tg_stockfish/src_maps/ao.png": "5620ba301fb950183d22b321acb7d0dfe42632b366050479a890513d9c76c68e",
+      "build/trade_goods/ce_tg_stockfish/src_maps/height.png": "fb50d85a05a9d73d9b6ac02a9a310a6b4643b316c973aafc939698a2a3850769"
+    }
+  },
   "ce_th_aserai_jarid": {
     "fingerprint": "0850bade7c9f938dd9c1fca282c5f604ab55e98bd1a5b43184989198f5782862",
     "category": "thrown",
