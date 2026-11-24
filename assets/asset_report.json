@@ -1397,6 +1397,484 @@
       "ui/branding/troops.png": "d038da14b4d8a511446dca0ead614d665e4d7c1d1b292ca0ad68270c1c5e700b"
     }
   },
+  "ce_dg_aserai_jambiya": {
+    "fingerprint": "1e140d217627895535db331711d92519ddffc9fa7d3f83848deb7dc718fae98a",
+    "category": "daggers",
+    "files": [
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya.fbx",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya.blend",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya_d.png",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya_n.png",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya_s.png",
+      "build/daggers/ce_dg_aserai_jambiya/preview.png",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/basecolor.png",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/normal.png",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/metallic.png",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/roughness.png",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/ao.png",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_dg_aserai_jambiya": {
+        "tris": 1532,
+        "bbox_m": [
+          [
+            -0.16200000047683716,
+            -0.014800000004470348,
+            -0.05999999865889549
+          ],
+          [
+            0.03999999910593033,
+            0.014800000004470348,
+            0.33500000834465027
+          ]
+        ],
+        "dimensions_m": [
+          0.2019999995827675,
+          0.029600000008940697,
+          0.39500000700354576
+        ],
+        "uv_bounds": [
+          0.0039062367286533117,
+          0.9866434335708618
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_aserai_jambiya.lod1": {
+        "tris": 766,
+        "bbox_m": [
+          [
+            -0.16156011819839478,
+            -0.014787659049034119,
+            -0.059706177562475204
+          ],
+          [
+            0.03999999910593033,
+            0.014787659049034119,
+            0.3350469768047333
+          ]
+        ],
+        "dimensions_m": [
+          0.2015601173043251,
+          0.029575318098068237,
+          0.3947531543672085
+        ],
+        "uv_bounds": [
+          0.0039062201976776123,
+          0.995917022228241
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_aserai_jambiya.lod2": {
+        "tris": 382,
+        "bbox_m": [
+          [
+            -0.1627245396375656,
+            -0.014787659049034119,
+            -0.059706177562475204
+          ],
+          [
+            0.03922146558761597,
+            0.014787659049034119,
+            0.33514851331710815
+          ]
+        ],
+        "dimensions_m": [
+          0.20194600522518158,
+          0.029575318098068237,
+          0.39485469087958336
+        ],
+        "uv_bounds": [
+          0.003906210884451866,
+          0.9959470629692078
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_dg_aserai_jambiya": "dagger"
+    },
+    "sha256": {
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya.fbx": "c13cb1c3110afe00713e014a067a51c52fa28a0a3adec2985c2c5e37e5bcacef",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya.blend": "8e2f94b2ccbbaa1663e587c37137872c18925174269a2548e62d3cab4e41c8a9",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya_d.png": "eb51389989e4213dbd55f641c14e73ccd9fd92fe9d3eba3c60e104fef99ba4cd",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya_n.png": "dd0c5b38f2c429c5c053e9ec6517e2d34395badeb30275d243edef6dbfc5551d",
+      "build/daggers/ce_dg_aserai_jambiya/ce_dg_aserai_jambiya_s.png": "4985e9161adb8acc3ef5506e4c02110bcecc13a9d6d062088bc13e7e2c53a809",
+      "build/daggers/ce_dg_aserai_jambiya/preview.png": "052d10d7a9d20979ccb0fdd1968e2bd824908d63b1cd28a6ab54d55f3d914948",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/basecolor.png": "e022e51988df718801214b79e4540c45b9b7d0e32a99d4085857b5beb0fc7c6f",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/normal.png": "968a334d925372531f87018cddb2c30ea74607d64b4fc5fbef66ad6a114ade83",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/metallic.png": "60de528d82349188f1273af9ec5218356f7cd9b7ab082a7d1b4732ea94a47181",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/roughness.png": "182813071a5635f96a54c7f5db9a63d8afd6aa5b507e3d608676f0f523c97b00",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/ao.png": "51a1d853a86c4545dde0e560a0f62bfe17a2ec1b5ec8f6757286ac6fd15007e9",
+      "build/daggers/ce_dg_aserai_jambiya/src_maps/height.png": "d67e15436308f22efa8646ebd0c235d7287fe4443146b0b9323b47d2c8988e13"
+    }
+  },
+  "ce_dg_nord_scramasax": {
+    "fingerprint": "01bbf7842e29e6ffbe3c6ad4716be2c165763e6016b9bd3519b144e4fdb059aa",
+    "category": "daggers",
+    "files": [
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax.fbx",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax.blend",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax_d.png",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax_n.png",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax_s.png",
+      "build/daggers/ce_dg_nord_scramasax/preview.png",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/basecolor.png",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/normal.png",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/metallic.png",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/roughness.png",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/ao.png",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_dg_nord_scramasax": {
+        "tris": 1202,
+        "bbox_m": [
+          [
+            -0.01899999938905239,
+            -0.013000000268220901,
+            -0.057500001043081284
+          ],
+          [
+            0.024000000208616257,
+            0.013000000268220901,
+            0.33799999952316284
+          ]
+        ],
+        "dimensions_m": [
+          0.04299999959766865,
+          0.026000000536441803,
+          0.3955000005662441
+        ],
+        "uv_bounds": [
+          0.0039062113501131535,
+          0.9945323467254639
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_nord_scramasax.lod1": {
+        "tris": 600,
+        "bbox_m": [
+          [
+            -0.01899999938905239,
+            -0.012787658721208572,
+            -0.057500001043081284
+          ],
+          [
+            0.02315579727292061,
+            0.012787658721208572,
+            0.33802148699760437
+          ]
+        ],
+        "dimensions_m": [
+          0.042155796661973,
+          0.025575317442417145,
+          0.39552148804068565
+        ],
+        "uv_bounds": [
+          0.0039061710704118013,
+          0.9954135417938232
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_nord_scramasax.lod2": {
+        "tris": 300,
+        "bbox_m": [
+          [
+            -0.019490256905555725,
+            -0.012787658721208572,
+            -0.0574662983417511
+          ],
+          [
+            0.02315579727292061,
+            0.012787658721208572,
+            0.33805617690086365
+          ]
+        ],
+        "dimensions_m": [
+          0.042646054178476334,
+          0.025575317442417145,
+          0.39552247524261475
+        ],
+        "uv_bounds": [
+          0.003906253259629011,
+          0.9954624176025391
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_nord_scramasax_sheath": {
+        "tris": 1264,
+        "bbox_m": [
+          [
+            -0.027000000700354576,
+            -0.014000000432133675,
+            0.020999999716877937
+          ],
+          [
+            0.039799999445676804,
+            0.014000000432133675,
+            0.32600000500679016
+          ]
+        ],
+        "dimensions_m": [
+          0.06680000014603138,
+          0.02800000086426735,
+          0.3050000052899122
+        ],
+        "uv_bounds": [
+          0.0039062113501131535,
+          0.9928741455078125
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_nord_scramasax_sheath.lod1": {
+        "tris": 632,
+        "bbox_m": [
+          [
+            -0.027000000700354576,
+            -0.01357203722000122,
+            0.020979944616556168
+          ],
+          [
+            0.039799999445676804,
+            0.013503247871994972,
+            0.32601404190063477
+          ]
+        ],
+        "dimensions_m": [
+          0.06680000014603138,
+          0.027075285091996193,
+          0.3050340972840786
+        ],
+        "uv_bounds": [
+          0.0039062113501131535,
+          0.995349109172821
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_nord_scramasax_sheath.lod2": {
+        "tris": 316,
+        "bbox_m": [
+          [
+            -0.026960574090480804,
+            -0.01357203722000122,
+            0.02085157297551632
+          ],
+          [
+            0.03964250907301903,
+            0.013543426990509033,
+            0.3259732723236084
+          ]
+        ],
+        "dimensions_m": [
+          0.06660308316349983,
+          0.027115464210510254,
+          0.3051216993480921
+        ],
+        "uv_bounds": [
+          0.003906251862645149,
+          0.9955079555511475
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_dg_nord_scramasax": "dagger",
+      "ce_dg_nord_scramasax_sheath": "sheath"
+    },
+    "sha256": {
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax.fbx": "9adf69ffa3f6734af19cbdfce22055f012eabf7ce626d72fc4b4f9d2bae895f2",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax.blend": "116a89591e8f590e7fea8acaf493da30631433b31490525262454823049c4107",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax_d.png": "12496ae63c0f85aa59d54bacd5f6851a417e9d6cc041ea62fcf3f85c05b442cf",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax_n.png": "16e8f7a0f9379ee6ba50767ef8be9ef1155fdb7adc9e734c2defbc0e11f808ee",
+      "build/daggers/ce_dg_nord_scramasax/ce_dg_nord_scramasax_s.png": "dacfb50effc265906847980a885b3f2bafa5cb698c913cf6337a3bb593593460",
+      "build/daggers/ce_dg_nord_scramasax/preview.png": "822ffa946098d6e4db80d9214e0377aa274e3772b9e7dfe3cb198c2de569f3f0",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/basecolor.png": "30c5b29e36e89a6837d36b9aaa21101e4343f284aef125b3412a703d01a943f4",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/normal.png": "d2834d0a998a6bd1a3b830288faa714995d94a6f6b3603e4a63458dd81cd47c0",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/metallic.png": "a76d52d4a86a56c763def57e0a621888b9a766fb34e1987999b8b698cd981913",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/roughness.png": "5d5c01da02aa85a96f495ed6dd554896e56386065b4d9e48fd5e7eef6b05385e",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/ao.png": "2ca0b08763402a8d096316afaa11550e3bdb775db33d221b37ea44269e9a8642",
+      "build/daggers/ce_dg_nord_scramasax/src_maps/height.png": "62a29b1e627e8c1f706251683206db3d6df6df3c2f11b8174481eaa417acc5ec"
+    }
+  },
+  "ce_dg_vlandic_rondel": {
+    "fingerprint": "d18b7f88ae15e500058aadc2f672b8b9e2207b776470d0b0df95235a968a885b",
+    "category": "daggers",
+    "files": [
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel.fbx",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel.blend",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel_d.png",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel_n.png",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel_s.png",
+      "build/daggers/ce_dg_vlandic_rondel/preview.png",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/basecolor.png",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/normal.png",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/metallic.png",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/roughness.png",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/ao.png",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_dg_vlandic_rondel": {
+        "tris": 2498,
+        "bbox_m": [
+          [
+            -0.03550000116229057,
+            -0.03550000116229057,
+            -0.056006886065006256
+          ],
+          [
+            0.03550000116229057,
+            0.03550000116229057,
+            0.36400002241134644
+          ]
+        ],
+        "dimensions_m": [
+          0.07100000232458115,
+          0.07100000232458115,
+          0.4200069084763527
+        ],
+        "uv_bounds": [
+          0.003906163852661848,
+          0.9956554174423218
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_vlandic_rondel.lod1": {
+        "tris": 1248,
+        "bbox_m": [
+          [
+            -0.03550000116229057,
+            -0.03550000116229057,
+            -0.05606198310852051
+          ],
+          [
+            0.03550000116229057,
+            0.03550000116229057,
+            0.3640463650226593
+          ]
+        ],
+        "dimensions_m": [
+          0.07100000232458115,
+          0.07100000232458115,
+          0.4201083481311798
+        ],
+        "uv_bounds": [
+          0.003906231839209795,
+          0.9959049820899963
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_dg_vlandic_rondel.lod2": {
+        "tris": 624,
+        "bbox_m": [
+          [
+            -0.03573847934603691,
+            -0.03573842719197273,
+            -0.05623806640505791
+          ],
+          [
+            0.03573847934603691,
+            0.036946289241313934,
+            0.36408504843711853
+          ]
+        ],
+        "dimensions_m": [
+          0.07147695869207382,
+          0.07268471643328667,
+          0.42032311484217644
+        ],
+        "uv_bounds": [
+          0.0039062337018549442,
+          0.9960939288139343
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_dg_vlandic_rondel": "dagger"
+    },
+    "sha256": {
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel.fbx": "07db0136cbd760975e2fcdf1fed199aaf7daf136339b087e2e0a97a254f737f5",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel.blend": "af9eed0b06962930c519442c41874a239a49e4af98431d17488993603afec8c3",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel_d.png": "c3af562bb145e3147de602030b22cb45e6c4b49012768d577c335aeba00d0f64",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel_n.png": "2fa1b90941f2993684afa463280e1464a8e6699ed40785808f7856f8c47758cd",
+      "build/daggers/ce_dg_vlandic_rondel/ce_dg_vlandic_rondel_s.png": "2072a365d91381e2e757908ad605d957448c344cadfc11c8aa9b018753b3591c",
+      "build/daggers/ce_dg_vlandic_rondel/preview.png": "d7967a356a253c2efe454098b7126cc1d48053d00026cbbecba56a73866942a9",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/basecolor.png": "5c52f5c465f603a7bc3a2a34417deaf0a92896992fda41820106e5c9e6826ba1",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/normal.png": "1a687094e009a4c01723b320e6ae08b31ca80a81e46065841f3f82f22c8a4303",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/metallic.png": "dabd84cb735dbb8505e32343471f9f9fcc422a60ffb7942c957ef57bdac60fc3",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/roughness.png": "130d6ab63b91262cb1c3af2ba7b1ab75d828a77f2fe79dd9b9effd2d993ddc00",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/ao.png": "30588b0a8f5abfc620289c3272108b1a2f2813e8f84b79510b6bdb69c1921b11",
+      "build/daggers/ce_dg_vlandic_rondel/src_maps/height.png": "7ce11127c1b2e2feb8d65d7c899653fc8aa3e7cc5af664df0afb5020eee9e9c5"
+    }
+  },
   "ce_mc_aserai_knobbed": {
     "fingerprint": "63943ab6fb09abb2faabf6a55234fbad1a6b7a31545c2c90483413b07a01fb13",
     "category": "maces_hammers",
