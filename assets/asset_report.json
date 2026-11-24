@@ -1,4 +1,520 @@
 {
+  "ce_2h_battanian_claymore": {
+    "fingerprint": "836d6dca115014e2a7d50d5c3bb0d447e1d34783e8598e4ef771580a818245ca",
+    "category": "two_handed_swords",
+    "files": [
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore.fbx",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore.blend",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore_d.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore_n.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore_s.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/preview.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/basecolor.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/normal.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/metallic.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/roughness.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/ao.png",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_2h_battanian_claymore": {
+        "tris": 4634,
+        "bbox_m": [
+          [
+            -0.14419999718666077,
+            -0.020999999716877937,
+            -0.2019021362066269
+          ],
+          [
+            0.14419999718666077,
+            0.020999999716877937,
+            1.184999942779541
+          ]
+        ],
+        "dimensions_m": [
+          0.28839999437332153,
+          0.041999999433755875,
+          1.386902078986168
+        ],
+        "uv_bounds": [
+          0.003906190861016512,
+          0.9955644607543945
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_battanian_claymore.lod1": {
+        "tris": 2316,
+        "bbox_m": [
+          [
+            -0.14417509734630585,
+            -0.020404282957315445,
+            -0.20205146074295044
+          ],
+          [
+            0.1441134363412857,
+            0.020614875480532646,
+            1.1850111484527588
+          ]
+        ],
+        "dimensions_m": [
+          0.28828853368759155,
+          0.04101915843784809,
+          1.3870626091957092
+        ],
+        "uv_bounds": [
+          0.0039061864372342825,
+          0.9960938096046448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_battanian_claymore.lod2": {
+        "tris": 1158,
+        "bbox_m": [
+          [
+            -0.14341016113758087,
+            -0.020127475261688232,
+            -0.2022188901901245
+          ],
+          [
+            0.14378854632377625,
+            0.020279085263609886,
+            1.1851669549942017
+          ]
+        ],
+        "dimensions_m": [
+          0.2871987074613571,
+          0.04040656052529812,
+          1.3873858451843262
+        ],
+        "uv_bounds": [
+          0.003906224388629198,
+          0.9959731101989746
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_2h_battanian_claymore": "two_handed_sword"
+    },
+    "sha256": {
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore.fbx": "0da79c8b8f34f2d6429cb9f8e2f52faf74efcf2ecc2d0d523303568f4a173f6f",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore.blend": "877bd9dcb0ccab0cce98ffed1644914cca3e6a6971b8ef5d10c4879ca76f23a5",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore_d.png": "67f537b76ecc72ec86b0bdddfdbcd131ca516a8cf594c8ea8e44a2340bcc59c1",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore_n.png": "a2505904c729616886f7b5bade408b66857fbe8b489bb53bdc0df7ac32d5f55e",
+      "build/two_handed_swords/ce_2h_battanian_claymore/ce_2h_battanian_claymore_s.png": "38e232b8f39273972d2851b1148f853d64bb93efbee59edc6d18852df2409021",
+      "build/two_handed_swords/ce_2h_battanian_claymore/preview.png": "4b952d9d1458c9b7965a4741c011db2f4c5e00662c15ce9115964b55b93f771c",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/basecolor.png": "85b435e116dcd48fbe8e6f612558898253dd1e93ba8b8cb83bc9cdf33b808351",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/normal.png": "6dd59299ccd923a25af086e5aa752331ca6bababbc3880901514f61f412d8ebe",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/metallic.png": "4c381326ed621bb88a0104c187e0fe3517380d60958b5c6c8e81a23751c9471b",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/roughness.png": "90be03bb592a4331b26d1dfcd8cfb6e58ad26ce5aec4bd97d79d9800c50f336b",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/ao.png": "faa50d49352047c2c9bde6159cf2763694eee8173f73d7460e52a48bc82aaf3b",
+      "build/two_handed_swords/ce_2h_battanian_claymore/src_maps/height.png": "2126209541beb2112cc8fff1eef40071112f8fece0dcf71fba3b2d88db4b58eb"
+    }
+  },
+  "ce_2h_imperial_rhomphaia": {
+    "fingerprint": "21a6e7e5fba39275187f34eb7c41169a2572782fe82b3deb2283497f473f53fd",
+    "category": "two_handed_swords",
+    "files": [
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia.fbx",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia.blend",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia_d.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia_n.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia_s.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/preview.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/basecolor.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/normal.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/metallic.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/roughness.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/ao.png",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_2h_imperial_rhomphaia": {
+        "tris": 3012,
+        "bbox_m": [
+          [
+            -0.052000001072883606,
+            -0.017000000923871994,
+            -0.18400000035762787
+          ],
+          [
+            0.07500000298023224,
+            0.017000000923871994,
+            1.1649999618530273
+          ]
+        ],
+        "dimensions_m": [
+          0.12700000405311584,
+          0.03400000184774399,
+          1.3489999622106552
+        ],
+        "uv_bounds": [
+          0.0039062057621777058,
+          0.9960938096046448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_imperial_rhomphaia.lod1": {
+        "tris": 1506,
+        "bbox_m": [
+          [
+            -0.05095767229795456,
+            -0.017000000923871994,
+            -0.18404202163219452
+          ],
+          [
+            0.07469293475151062,
+            0.017000000923871994,
+            1.16502845287323
+          ]
+        ],
+        "dimensions_m": [
+          0.12565060704946518,
+          0.03400000184774399,
+          1.3490704745054245
+        ],
+        "uv_bounds": [
+          0.0039062299765646458,
+          0.9942883849143982
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_imperial_rhomphaia.lod2": {
+        "tris": 752,
+        "bbox_m": [
+          [
+            -0.05095767229795456,
+            -0.01694883219897747,
+            -0.1843506395816803
+          ],
+          [
+            0.07067818194627762,
+            0.01694883219897747,
+            1.165063500404358
+          ]
+        ],
+        "dimensions_m": [
+          0.12163585424423218,
+          0.03389766439795494,
+          1.3494141399860382
+        ],
+        "uv_bounds": [
+          0.003906234633177519,
+          0.9957684874534607
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_2h_imperial_rhomphaia": "two_handed_sword"
+    },
+    "sha256": {
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia.fbx": "f14b7c9186acab1e561716f49387b7a87549eefddbc1ed586ba951856853c020",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia.blend": "b4aaa6baca409548802ae64c2dd4f67097257309100dad19a569f97c29695af6",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia_d.png": "981dcce6b8ff3e6bd2d7d98aa7386726ad9cac585bb04bd78ef1b76c167bd98b",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia_n.png": "89ad323d9c0ea38e9cfdf58b1f24d511203d7eab99f268644d647b388e6f8b5d",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/ce_2h_imperial_rhomphaia_s.png": "d4371ee928f13af7cfabd798a4f33abe194f1f680bd49f9cc5546d7a76f51ba9",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/preview.png": "24f2ec2b5bc8c26f93e2e441fd956e50fb5be6fa531156aac4997305c8711b15",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/basecolor.png": "5c0db33df84c982e758c4800fbf4f9e971f7d0e5b97358da59ea33d5de7247ac",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/normal.png": "e9652d114a1b7742631214c169c72835f92c642e71ade5fa0584941eb34eb2f8",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/metallic.png": "19e722caf52a05547e6230804ac90e21534eb7df502ac61a9723dc48380fa7c8",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/roughness.png": "2da8594a4b09004dbf99465f34b2a62dc4fca3e9edf72a574d7d3d93b896b37c",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/ao.png": "1993189a8108573ad13d9b1402aab4f864f570ebc9506c5818b63de2cae930d2",
+      "build/two_handed_swords/ce_2h_imperial_rhomphaia/src_maps/height.png": "22cf5da25cb010c640f47b35d4bc5a563c36ccc39d3a26956543e7f902cf5bea"
+    }
+  },
+  "ce_2h_relic_nightfall": {
+    "fingerprint": "30c452c64bef53a650e1fe8f51d30e1bd65f8b3faa67a29f178f35d2dfc66ff0",
+    "category": "two_handed_swords",
+    "files": [
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall.fbx",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall.blend",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall_d.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall_n.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall_s.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/preview.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/basecolor.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/normal.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/metallic.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/roughness.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/ao.png",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_2h_relic_nightfall": {
+        "tris": 3054,
+        "bbox_m": [
+          [
+            -0.1289999932050705,
+            -0.015650000423192978,
+            -0.20091192424297333
+          ],
+          [
+            0.1289999932050705,
+            0.014999999664723873,
+            1.1549999713897705
+          ]
+        ],
+        "dimensions_m": [
+          0.257999986410141,
+          0.03065000008791685,
+          1.3559118956327438
+        ],
+        "uv_bounds": [
+          0.0039061715360730886,
+          0.9886097311973572
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_relic_nightfall.lod1": {
+        "tris": 1526,
+        "bbox_m": [
+          [
+            -0.12849633395671844,
+            -0.01553328987210989,
+            -0.20119206607341766
+          ],
+          [
+            0.128477081656456,
+            0.014999999664723873,
+            1.155006766319275
+          ]
+        ],
+        "dimensions_m": [
+          0.25697341561317444,
+          0.030533289536833763,
+          1.3561988323926926
+        ],
+        "uv_bounds": [
+          0.0039061682764440775,
+          0.9903403520584106
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_relic_nightfall.lod2": {
+        "tris": 762,
+        "bbox_m": [
+          [
+            -0.12865622341632843,
+            -0.01553328987210989,
+            -0.20119206607341766
+          ],
+          [
+            0.12865622341632843,
+            0.014917602762579918,
+            1.1550416946411133
+          ]
+        ],
+        "dimensions_m": [
+          0.25731244683265686,
+          0.030450892634689808,
+          1.356233760714531
+        ],
+        "uv_bounds": [
+          0.003906209021806717,
+          0.9906393885612488
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_2h_relic_nightfall": "two_handed_sword"
+    },
+    "sha256": {
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall.fbx": "ce596a1edf063a9a5ad37d499222a838f3c9b5f596c9a3be77d91203cd7ccab3",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall.blend": "56a9f2093029ad7c2376bbd4920d1b6395e0d4c14bb00e7edea330376ad26476",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall_d.png": "937cc095006cc01dff58c268804606afe7861a9e3c7d6ee0d8cf4c833790aba0",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall_n.png": "3801011063624fcf41ef356bea77cad690c3cb70950c8faa8ac0560ac61686af",
+      "build/two_handed_swords/ce_2h_relic_nightfall/ce_2h_relic_nightfall_s.png": "85fc438b1733b9d7f153fc3ab04421c78537fb804e166a275c859f0ff1c461a5",
+      "build/two_handed_swords/ce_2h_relic_nightfall/preview.png": "894979a04597cbd408c96ee5861ea205b08eeb5b31c2f458ad19c21668339869",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/basecolor.png": "9a9c94639dadceca449bb2c7b616c9a29479e105462d258f4181691daa61167f",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/normal.png": "598173f4136c01b0e52b75673426d54648edd667e377174c42d26b2fb06330d6",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/metallic.png": "a37229d07445b18f75d6f8fd3b7ada096359850f784fa683e5378b618bf5c446",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/roughness.png": "0f111fe95315b345b18d866c0d24a708cec8ea9173d363deceac160bc166c896",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/ao.png": "76db126ab13b5063202bc5f85ef24ef19707ec8618b72a87d1aaa947c3ef98a4",
+      "build/two_handed_swords/ce_2h_relic_nightfall/src_maps/height.png": "9fd5579670c7d02c8d411e64be2b6b23a6c5a494e8ee17d9f089058978ff8e48"
+    }
+  },
+  "ce_2h_vlandic_greatsword": {
+    "fingerprint": "89db7da34ed2ec2f04ae0a5ca9ff8326ace35ff4365d5ab8a1755d6ebb501445",
+    "category": "two_handed_swords",
+    "files": [
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword.fbx",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword.blend",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword_d.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword_n.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword_s.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/preview.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/basecolor.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/normal.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/metallic.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/roughness.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/ao.png",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_2h_vlandic_greatsword": {
+        "tris": 4620,
+        "bbox_m": [
+          [
+            -0.14300000667572021,
+            -0.014426584355533123,
+            -0.19599999487400055
+          ],
+          [
+            0.14300000667572021,
+            0.014426584355533123,
+            1.1649999618530273
+          ]
+        ],
+        "dimensions_m": [
+          0.28600001335144043,
+          0.028853168711066246,
+          1.360999956727028
+        ],
+        "uv_bounds": [
+          0.0039062276482582092,
+          0.9960216283798218
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_vlandic_greatsword.lod1": {
+        "tris": 2310,
+        "bbox_m": [
+          [
+            -0.14300000667572021,
+            -0.013827445916831493,
+            -0.19590474665164948
+          ],
+          [
+            0.14300000667572021,
+            0.013827444985508919,
+            1.1650135517120361
+          ]
+        ],
+        "dimensions_m": [
+          0.28600001335144043,
+          0.027654890902340412,
+          1.3609182983636856
+        ],
+        "uv_bounds": [
+          0.0039061924908310175,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_2h_vlandic_greatsword.lod2": {
+        "tris": 1154,
+        "bbox_m": [
+          [
+            -0.14103955030441284,
+            -0.01408057939261198,
+            -0.19610285758972168
+          ],
+          [
+            0.14122121036052704,
+            0.01408057939261198,
+            1.165016770362854
+          ]
+        ],
+        "dimensions_m": [
+          0.2822607606649399,
+          0.02816115878522396,
+          1.3611196279525757
+        ],
+        "uv_bounds": [
+          0.0039062281139194965,
+          0.9960489869117737
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_2h_vlandic_greatsword": "two_handed_sword"
+    },
+    "sha256": {
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword.fbx": "13a54feeb103770aacd0bfd981befc8c2d17f496259e3214c4be519d17ad9b5d",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword.blend": "226b2b485fe535eefd746410309abaf2bc98f240598f437e5341252e915aff1e",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword_d.png": "ce01458df85dd6889caf384ca27a628a00d6400d8845db64364c9449de8691f9",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword_n.png": "2e7d475b9bf929fd6151c88570ee583186bb09060e3d51406f34dc732d978db4",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/ce_2h_vlandic_greatsword_s.png": "65ae5ac4020ded8570d743d76db2cec4dee6f67f32487bf0573beec3da2c4204",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/preview.png": "2b5c5f5efea8a36211c733c4d44a566c927054d3d3c4ca8995d811b4c4b8f288",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/basecolor.png": "2cb1901d4f95715af96ed6b759cbcf603e40bd69ad7c66508c91608e9c918329",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/normal.png": "1b410eecd97c4705ec5bf46c9db65ab6e8408acc8516008cbcde99b0ef608ff7",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/metallic.png": "69d780eb7dec7ee44dd66d097dc161579cc565ade3bfbc2f7824ce253b091d34",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/roughness.png": "51ace6a8473665ab9acb0cae0f8f34d2dc578f56065446608d11c61ada98288b",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/ao.png": "65306ab7e1b6bd8c65e2821d46e17fe9591f31f1d0b4e8db50ac2e3693217869",
+      "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/height.png": "64a04f5b4703f9c15c8d69a46719bf799a91e6cd55baba5d935d52e0934d98a4"
+    }
+  },
   "ce_brand_armory": {
     "fingerprint": "716ce487d2f2ef42a3c5cbc7516d9832c93e8d0168f847a81a18e6cea7847160",
     "category": "branding",
