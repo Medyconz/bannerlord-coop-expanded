@@ -15,7 +15,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | shields | 10 | 0 | 0 |
 | trade goods | 12 | 0 | 0 |
 | helmets | 0 | 16 | 0 |
-| body armour | 0 | 0 | 14 |
+| body armour | 0 | 14 | 0 |
 | shoulders capes | 0 | 0 | 8 |
 | gloves | 0 | 0 | 6 |
 | boots | 0 | 0 | 6 |
@@ -42,6 +42,20 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 - `ce_hm_aserai_pointed` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 - `ce_hm_relic_crowned` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 - `ce_hm_relic_wolf` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_imperial_lamellar` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_imperial_scale_cloak` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_vlandic_coat_of_plates` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_vlandic_surcoat_mail` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_sturgian_mail_fur` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_sturgian_scale` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_nord_ringmail_tunic` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_battanian_bronze_cuirass` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_battanian_plaid_leather` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_khuzait_lamellar_coat` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_khuzait_padded_deel` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_aserai_mail_robe` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_aserai_mirror_plate` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_ba_relic_warden_plate` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 
 ## Rebuild
 

@@ -2169,6 +2169,118 @@
       "build/axes/ce_ax_sturgian_bearded/src_maps/height.png": "9d213dbe0927d6d7753f0c75a44b5c6a4512a74b33f2da6befd72fdfe192cce3"
     }
   },
+  "ce_ba_aserai_mail_robe": {
+    "fingerprint": "cd00e5a8b9c3cd8eb40797df736431ea7c03f45ef6138a1bfc4932534080826d",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_aserai_mirror_plate": {
+    "fingerprint": "7717c08afd08e1a5ec6c0f08ccd03aa1b47e8983b62053a5b0bc734f82bd4599",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_battanian_bronze_cuirass": {
+    "fingerprint": "63863f29f8a2265c4b8ba1dadd3c55672881d0c8d164752135a3293203c4a5f8",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_battanian_plaid_leather": {
+    "fingerprint": "958ae4b971bea79905af6c6f3b64f02dbaf338603690c62c56ea565030c0e6c8",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_imperial_lamellar": {
+    "fingerprint": "eaaf7bd6f96b2cfb05b97e6aa16b7e12c34cc5fc67b4690d4ea5bc7d3ce0c041",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_imperial_scale_cloak": {
+    "fingerprint": "8111a3ca135dad15c968d75cbe2a54c03d0f91a49c828efcd2d79819fcc19621",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_khuzait_lamellar_coat": {
+    "fingerprint": "0dd3e4b0e1f37b4cd0666eaf7896916cfebf9febdfe6036aa0f63649c5ca4191",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_khuzait_padded_deel": {
+    "fingerprint": "ea51a5d8321a0a4808c01069e8741d4a8b4c08c047c8436d4440e242291aabb8",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_nord_ringmail_tunic": {
+    "fingerprint": "362656c0277cd7f22a605aed9fbe5631837545dc6cc0db6b7b5d3f25478ed1e3",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_relic_warden_plate": {
+    "fingerprint": "dbdfc519c485defb697193df2b314bd01d1c2e2dd4dccaa4110badc9fa7eb36d",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_sturgian_mail_fur": {
+    "fingerprint": "56c7260f589829bb4a72295d731c8b0058ef9275bf9c52ba1a7fd140ec3d916c",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_sturgian_scale": {
+    "fingerprint": "308fc49e0c3e45954aef2383bde65199d7353b072031d5aba2d3a3642866e6c7",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_vlandic_coat_of_plates": {
+    "fingerprint": "343647623873b0d1b9fbc968e2ef3191240cc5a2159974d1bf1d24f16bca47df",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_ba_vlandic_surcoat_mail": {
+    "fingerprint": "45975a423c4affec56937ec3268d21d14e9bb2c4248155f310a7829150d7feb1",
+    "category": "body_armour",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
   "ce_brand_armory": {
     "fingerprint": "716ce487d2f2ef42a3c5cbc7516d9832c93e8d0168f847a81a18e6cea7847160",
     "category": "branding",
