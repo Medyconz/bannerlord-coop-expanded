@@ -515,6 +515,780 @@
       "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/height.png": "64a04f5b4703f9c15c8d69a46719bf799a91e6cd55baba5d935d52e0934d98a4"
     }
   },
+  "ce_ax_aserai_tabar": {
+    "fingerprint": "8e4caddf5faaa6e46b39e55b67abb794b2989f444371588aff3c3eda80a0415c",
+    "category": "axes",
+    "files": [
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar.fbx",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar.blend",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar_d.png",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar_n.png",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar_s.png",
+      "build/axes/ce_ax_aserai_tabar/preview.png",
+      "build/axes/ce_ax_aserai_tabar/src_maps/basecolor.png",
+      "build/axes/ce_ax_aserai_tabar/src_maps/normal.png",
+      "build/axes/ce_ax_aserai_tabar/src_maps/metallic.png",
+      "build/axes/ce_ax_aserai_tabar/src_maps/roughness.png",
+      "build/axes/ce_ax_aserai_tabar/src_maps/ao.png",
+      "build/axes/ce_ax_aserai_tabar/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_ax_aserai_tabar": {
+        "tris": 2290,
+        "bbox_m": [
+          [
+            -0.02199999988079071,
+            -0.023398268967866898,
+            -0.1701703667640686
+          ],
+          [
+            0.1589999943971634,
+            0.023398268967866898,
+            0.6110000014305115
+          ]
+        ],
+        "dimensions_m": [
+          0.1809999942779541,
+          0.046796537935733795,
+          0.7811703681945801
+        ],
+        "uv_bounds": [
+          0.003906191559508443,
+          0.9954067468643188
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_aserai_tabar.lod1": {
+        "tris": 1144,
+        "bbox_m": [
+          [
+            -0.02202683500945568,
+            -0.023398268967866898,
+            -0.17018191516399384
+          ],
+          [
+            0.1591852605342865,
+            0.023398268967866898,
+            0.6110000014305115
+          ]
+        ],
+        "dimensions_m": [
+          0.18121209554374218,
+          0.046796537935733795,
+          0.7811819165945053
+        ],
+        "uv_bounds": [
+          0.0039062355645000935,
+          0.9953795075416565
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_aserai_tabar.lod2": {
+        "tris": 572,
+        "bbox_m": [
+          [
+            -0.021915338933467865,
+            -0.02238578535616398,
+            -0.17027781903743744
+          ],
+          [
+            0.1591852605342865,
+            0.02238578535616398,
+            0.6110761761665344
+          ]
+        ],
+        "dimensions_m": [
+          0.18110059946775436,
+          0.04477157071232796,
+          0.7813539952039719
+        ],
+        "uv_bounds": [
+          0.003906224388629198,
+          0.9953837990760803
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_ax_aserai_tabar": "one_handed_axe"
+    },
+    "sha256": {
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar.fbx": "1a6ed2e5705ed383b489239425d8c0e45bba1b618352b0603423dcba0fadf362",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar.blend": "bff8dd84b017f2dd7f2b00f242f94e66c324ba7dc8a1523eee0631733b967868",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar_d.png": "30fffe11b9fb7bd2627b448e1511e00699ca24162904381eec7cc8570f7915ce",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar_n.png": "c05192048bc1a24eff8f115fb4b438d5c936c525cb88a0542ae18c18804cfbd5",
+      "build/axes/ce_ax_aserai_tabar/ce_ax_aserai_tabar_s.png": "580cb5e86f0e6ac753ab5449ae6560dfec847238ba8e3ff4931ac5c29ddbef98",
+      "build/axes/ce_ax_aserai_tabar/preview.png": "235c206b56202c3ecc170f69179378d40e51d731b834af296714bc65da56fbb1",
+      "build/axes/ce_ax_aserai_tabar/src_maps/basecolor.png": "833272fc7a90a75e18479d2bbf6d6f8789d7a6d9ef148eceeeec2b1516f7d769",
+      "build/axes/ce_ax_aserai_tabar/src_maps/normal.png": "b7bcaa1035195b8de53bd8a15550e073c3a367dbeb83e40b4856afe13a8d84a3",
+      "build/axes/ce_ax_aserai_tabar/src_maps/metallic.png": "4bf2b7613163f93db50cd24bd4ffc2fd0adffe2a9c9f923ff06fa4c2e491cdfd",
+      "build/axes/ce_ax_aserai_tabar/src_maps/roughness.png": "847b667466146f7f3fd071a4e829a067420909fb0ce7595c1534336aea45b0a1",
+      "build/axes/ce_ax_aserai_tabar/src_maps/ao.png": "fcf35545f379e8d8f0bc6ee2b3113216316055520df122d521e40317118c8b8c",
+      "build/axes/ce_ax_aserai_tabar/src_maps/height.png": "0f784f1042d028c722920390223e4a7f1ec1ab7e04d5cb1ab0a095b77a43e1a1"
+    }
+  },
+  "ce_ax_battanian_war": {
+    "fingerprint": "7953b456ab0b51210f50cb9a22dbf97a2a46d4188bf03788dfe20692acae2e05",
+    "category": "axes",
+    "files": [
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war.fbx",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war.blend",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war_d.png",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war_n.png",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war_s.png",
+      "build/axes/ce_ax_battanian_war/preview.png",
+      "build/axes/ce_ax_battanian_war/src_maps/basecolor.png",
+      "build/axes/ce_ax_battanian_war/src_maps/normal.png",
+      "build/axes/ce_ax_battanian_war/src_maps/metallic.png",
+      "build/axes/ce_ax_battanian_war/src_maps/roughness.png",
+      "build/axes/ce_ax_battanian_war/src_maps/ao.png",
+      "build/axes/ce_ax_battanian_war/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_ax_battanian_war": {
+        "tris": 3158,
+        "bbox_m": [
+          [
+            -0.03500000014901161,
+            -0.023398268967866898,
+            -0.17056745290756226
+          ],
+          [
+            0.13099999725818634,
+            0.023398268967866898,
+            0.5910000205039978
+          ]
+        ],
+        "dimensions_m": [
+          0.16599999740719795,
+          0.046796537935733795,
+          0.7615674734115601
+        ],
+        "uv_bounds": [
+          0.003906186204403639,
+          0.9923974871635437
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_battanian_war.lod1": {
+        "tris": 1578,
+        "bbox_m": [
+          [
+            -0.03500000014901161,
+            -0.023398268967866898,
+            -0.17056991159915924
+          ],
+          [
+            0.1311851441860199,
+            0.023398268967866898,
+            0.5910000205039978
+          ]
+        ],
+        "dimensions_m": [
+          0.1661851443350315,
+          0.046796537935733795,
+          0.761569932103157
+        ],
+        "uv_bounds": [
+          0.0039062255527824163,
+          0.992948591709137
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_battanian_war.lod2": {
+        "tris": 788,
+        "bbox_m": [
+          [
+            -0.034915339201688766,
+            -0.024518214166164398,
+            -0.17056991159915924
+          ],
+          [
+            0.1311851441860199,
+            0.024518214166164398,
+            0.5920426249504089
+          ]
+        ],
+        "dimensions_m": [
+          0.16610048338770866,
+          0.049036428332328796,
+          0.7626125365495682
+        ],
+        "uv_bounds": [
+          0.00390622578561306,
+          0.9929046630859375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_ax_battanian_war": "one_handed_axe"
+    },
+    "sha256": {
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war.fbx": "5d4aee81bfbfdb71d74cda6490f42cef5b3cdf888511b5426c26675056cf1cea",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war.blend": "32bd2c3f220e9e80ffdeac2600a6630ee781e9cffdfb418f4e30bc2f2dafd6f1",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war_d.png": "e518ee5b43f45c622a545dab634d951916c249b70152e9134ad8ea587650526a",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war_n.png": "cac7b854940ef4873a2337bf2e61e31f0af902681a5082628182e1e5e7695917",
+      "build/axes/ce_ax_battanian_war/ce_ax_battanian_war_s.png": "69f5ceaefad98786d14cd25c8018ab9d916918edd48d1373e2c213156c451c1d",
+      "build/axes/ce_ax_battanian_war/preview.png": "d67e97981811dee573b28cfa138444b5a89c326d5d1276520a5cc8ae5c58adae",
+      "build/axes/ce_ax_battanian_war/src_maps/basecolor.png": "585c5676da8d17dd712c037e28b05bdaa5ab68348e082f442952831fed80b128",
+      "build/axes/ce_ax_battanian_war/src_maps/normal.png": "0ee72630b28cb570915936535a79258733cb75c1b1f6fc9cc6762844d3e781e2",
+      "build/axes/ce_ax_battanian_war/src_maps/metallic.png": "b4c211a89d95913148668dd85aa6d43b3e78de9e127c905781d0c6f9f8b41339",
+      "build/axes/ce_ax_battanian_war/src_maps/roughness.png": "b9c00601d7fdf916622bcb01738256794c15257dd366c9d47a3dda171204d773",
+      "build/axes/ce_ax_battanian_war/src_maps/ao.png": "59bfa7158b646866c8f0f129ce9ecddfca52986b7575e2a623046d0e6f89f34a",
+      "build/axes/ce_ax_battanian_war/src_maps/height.png": "f3036e40775dd1975baa3a08e942c23f4a495067ef4f79ccd236df7bc35ab2b0"
+    }
+  },
+  "ce_ax_khuzait_horseman": {
+    "fingerprint": "5393a9b25b0f95c697d1671a352950723c7774c187348e582e03482e5bb210ba",
+    "category": "axes",
+    "files": [
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman.fbx",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman.blend",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman_d.png",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman_n.png",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman_s.png",
+      "build/axes/ce_ax_khuzait_horseman/preview.png",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/basecolor.png",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/normal.png",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/metallic.png",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/roughness.png",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/ao.png",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_ax_khuzait_horseman": {
+        "tris": 2126,
+        "bbox_m": [
+          [
+            -0.07900000363588333,
+            -0.023398268967866898,
+            -0.1706807017326355
+          ],
+          [
+            0.14300000667572021,
+            0.023398268967866898,
+            0.5709999799728394
+          ]
+        ],
+        "dimensions_m": [
+          0.22200001031160355,
+          0.046796537935733795,
+          0.7416806817054749
+        ],
+        "uv_bounds": [
+          0.003906194819137454,
+          0.9942774176597595
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_khuzait_horseman.lod1": {
+        "tris": 1062,
+        "bbox_m": [
+          [
+            -0.07838103920221329,
+            -0.023398268967866898,
+            -0.17068058252334595
+          ],
+          [
+            0.14317934215068817,
+            0.023398268967866898,
+            0.5709999799728394
+          ]
+        ],
+        "dimensions_m": [
+          0.22156038135290146,
+          0.046796537935733795,
+          0.7416805624961853
+        ],
+        "uv_bounds": [
+          0.0039062134455889463,
+          0.9960164427757263
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_khuzait_horseman.lod2": {
+        "tris": 530,
+        "bbox_m": [
+          [
+            -0.07742750644683838,
+            -0.02238578535616398,
+            -0.17065127193927765
+          ],
+          [
+            0.14317934215068817,
+            0.02238578535616398,
+            0.5693687200546265
+          ]
+        ],
+        "dimensions_m": [
+          0.22060684859752655,
+          0.04477157071232796,
+          0.7400199919939041
+        ],
+        "uv_bounds": [
+          0.0039062323048710823,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_ax_khuzait_horseman": "one_handed_axe"
+    },
+    "sha256": {
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman.fbx": "ec2e3638d73f2cddaf11576df85083f98028e73375e1b5d0138cc113418bffae",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman.blend": "ecef95c7ae57ce76d8d68635188a9c4d8cf557ad6baebd35ef542105eb705e55",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman_d.png": "84541721fc7ee2fbf31d9c93d706a4acc24b24d2414adb8653c9a6388c3ade79",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman_n.png": "6f7ebc2f5d3e3c2905feafde24cf4e767cf425839289760006db930865e5f3c2",
+      "build/axes/ce_ax_khuzait_horseman/ce_ax_khuzait_horseman_s.png": "f8ea5b28d89afc277be749bcfaf06720ecb0a04282c78069d154a9431b383a0e",
+      "build/axes/ce_ax_khuzait_horseman/preview.png": "9a046f303c3391ef7dbe0184d51e672b0cbd28caeae543f24abd5c0e80e6dc16",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/basecolor.png": "602cfd450be5a5569ec4543361db4fa938b116508c2cfe9a11d7a5aaca595f43",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/normal.png": "c25218594180183d28468fc19a9332d9a086870b3a9454a7ab57406b32995789",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/metallic.png": "83e26e0ae77fa960a53aa71aa6a2e7cb8e80fc617cedb0b2863b3bb99e0689f6",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/roughness.png": "27f4f7ee1b16bcdf70591230030c790a384da5a87dc133663deef5dbd9d3a111",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/ao.png": "2e91e6fbf2a4e3c779dc569db83650bf8b27d29e94f52b0c24db149328ffbc01",
+      "build/axes/ce_ax_khuzait_horseman/src_maps/height.png": "3b4ba6a314efb352847a76558d957dc116b3fa2f25363acc5b3f8d9ec75dfe34"
+    }
+  },
+  "ce_ax_nord_dane": {
+    "fingerprint": "1979d73419b664d37841d3d19053f589ba5880512f5f7427f02c020bb06f06a7",
+    "category": "axes",
+    "files": [
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane.fbx",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane.blend",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane_d.png",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane_n.png",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane_s.png",
+      "build/axes/ce_ax_nord_dane/preview.png",
+      "build/axes/ce_ax_nord_dane/src_maps/basecolor.png",
+      "build/axes/ce_ax_nord_dane/src_maps/normal.png",
+      "build/axes/ce_ax_nord_dane/src_maps/metallic.png",
+      "build/axes/ce_ax_nord_dane/src_maps/roughness.png",
+      "build/axes/ce_ax_nord_dane/src_maps/ao.png",
+      "build/axes/ce_ax_nord_dane/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_ax_nord_dane": {
+        "tris": 2322,
+        "bbox_m": [
+          [
+            -0.022626584395766258,
+            -0.023398268967866898,
+            -0.3414640426635742
+          ],
+          [
+            0.23399999737739563,
+            0.023398268967866898,
+            1.0190000534057617
+          ]
+        ],
+        "dimensions_m": [
+          0.2566265817731619,
+          0.046796537935733795,
+          1.360464096069336
+        ],
+        "uv_bounds": [
+          0.0039061903953552246,
+          0.9925748705863953
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_nord_dane.lod1": {
+        "tris": 1160,
+        "bbox_m": [
+          [
+            -0.022626584395766258,
+            -0.024518214166164398,
+            -0.3414517641067505
+          ],
+          [
+            0.23418308794498444,
+            0.024518214166164398,
+            1.0190000534057617
+          ]
+        ],
+        "dimensions_m": [
+          0.2568096723407507,
+          0.049036428332328796,
+          1.3604518175125122
+        ],
+        "uv_bounds": [
+          0.003906228579580784,
+          0.996062695980072
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_nord_dane.lod2": {
+        "tris": 580,
+        "bbox_m": [
+          [
+            -0.02375715970993042,
+            -0.024518214166164398,
+            -0.34127992391586304
+          ],
+          [
+            0.23418308794498444,
+            0.024518214166164398,
+            1.0167369842529297
+          ]
+        ],
+        "dimensions_m": [
+          0.25794024765491486,
+          0.049036428332328796,
+          1.3580169081687927
+        ],
+        "uv_bounds": [
+          0.00390623533166945,
+          0.9843321442604065
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_ax_nord_dane": "two_handed_axe"
+    },
+    "sha256": {
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane.fbx": "3e04d7a90f685e60c42a9a12987fb9b6ff97443e8c245c112cd0b999131fe3f1",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane.blend": "a6bef5a8d70ca97b5b1ec83f70717413ba703a517b0358163062f19fffaf980d",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane_d.png": "26b9b985c79e350a3dcafdf1c0990c040d90dc9398615d5729123532ba9dc3d5",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane_n.png": "fa70331449ae54345cb0ab875029de0a956e2a85c5e4d1ac051b7baa0f4464d0",
+      "build/axes/ce_ax_nord_dane/ce_ax_nord_dane_s.png": "846eef0d78c6401ead1d6e44b6ce1c4cbb5cf226eb8237685bdc3ab8dff885db",
+      "build/axes/ce_ax_nord_dane/preview.png": "5a01771f07cee045579e77eb8a357230d3b825dd6e33e0a18217b49e9b3a4218",
+      "build/axes/ce_ax_nord_dane/src_maps/basecolor.png": "0a009bdb61545caeb74b140d6b7cdf2a6264c7b3261122bcecb68b60295f61de",
+      "build/axes/ce_ax_nord_dane/src_maps/normal.png": "1810ce3c5cda0a45715760e37cb2c64780ff3cf8435951eeee0d69fd43a8e832",
+      "build/axes/ce_ax_nord_dane/src_maps/metallic.png": "628c105bf33ecc043ccca297be39cb3f9ac6828a620439e915ff526b5e19d5fa",
+      "build/axes/ce_ax_nord_dane/src_maps/roughness.png": "139610854559ce6a3e2da4eac66d5f8bb61a10db1b59eeec61cf2ec9a35dce16",
+      "build/axes/ce_ax_nord_dane/src_maps/ao.png": "04f8714b4242043e91b1b914c5844d4d6e0f01c54ffcc3d3c376b6b4f79769ba",
+      "build/axes/ce_ax_nord_dane/src_maps/height.png": "75696299a41a05d0e96b2298645bb0982420d5f8a961381ccaba5b057673b34c"
+    }
+  },
+  "ce_ax_relic_stormcleaver": {
+    "fingerprint": "26a014324c1962fc17c9ad89f1d77ee729e446a453f360fbee37098779fa117e",
+    "category": "axes",
+    "files": [
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver.fbx",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver.blend",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver_d.png",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver_n.png",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver_s.png",
+      "build/axes/ce_ax_relic_stormcleaver/preview.png",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/basecolor.png",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/normal.png",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/metallic.png",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/roughness.png",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/ao.png",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_ax_relic_stormcleaver": {
+        "tris": 3038,
+        "bbox_m": [
+          [
+            -0.18199999630451202,
+            -0.023398268967866898,
+            -0.34020042419433594
+          ],
+          [
+            0.18799999356269836,
+            0.023398268967866898,
+            0.9959999918937683
+          ]
+        ],
+        "dimensions_m": [
+          0.3699999898672104,
+          0.046796537935733795,
+          1.3362004160881042
+        ],
+        "uv_bounds": [
+          0.0039061882998794317,
+          0.991529643535614
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_relic_stormcleaver.lod1": {
+        "tris": 1518,
+        "bbox_m": [
+          [
+            -0.18199999630451202,
+            -0.023398268967866898,
+            -0.3402169644832611
+          ],
+          [
+            0.18818910419940948,
+            0.023398268967866898,
+            0.9959999918937683
+          ]
+        ],
+        "dimensions_m": [
+          0.3701891005039215,
+          0.046796537935733795,
+          1.3362169563770294
+        ],
+        "uv_bounds": [
+          0.0039061882998794317,
+          0.9933232665061951
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_relic_stormcleaver.lod2": {
+        "tris": 758,
+        "bbox_m": [
+          [
+            -0.18187497556209564,
+            -0.022777359932661057,
+            -0.3404322564601898
+          ],
+          [
+            0.19069644808769226,
+            0.02238577976822853,
+            0.9946715831756592
+          ]
+        ],
+        "dimensions_m": [
+          0.3725714236497879,
+          0.04516313970088959,
+          1.335103839635849
+        ],
+        "uv_bounds": [
+          0.003906225087121129,
+          0.9933128356933594
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_ax_relic_stormcleaver": "two_handed_axe"
+    },
+    "sha256": {
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver.fbx": "2fc166142cef9d5f6e6e1658955302c3db5d493f1e6a120ab75efb107c5c0999",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver.blend": "d76663b136c520ceede26a7ac756459e99d96a3023dcfebe03e69281db9fcf04",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver_d.png": "bb7a9100f3b6fc57ef9e30bca3ba6526b55389764c62316c42d967856d894e85",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver_n.png": "1b0734eae9bdee3be217a4bdfa6d3423742cc9f045c682f58c7a5b0c5daaf493",
+      "build/axes/ce_ax_relic_stormcleaver/ce_ax_relic_stormcleaver_s.png": "cc7bcfe4b18ae4d9fa6b36dfeba4712553e301462d6aa8e8ef6b9c4d305840ab",
+      "build/axes/ce_ax_relic_stormcleaver/preview.png": "38b9d7c2e73862e361c1b679c55a9252f5c734895b293ca7a17049a839a614c3",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/basecolor.png": "63c4b9044a9c5b2afec8d8ae2884753d2c6ba0e57e7c0c4194e4084922079b23",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/normal.png": "9a072eb89c304d95ab97e09c930f93811194e7877f66cc726a5d8421d962ab16",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/metallic.png": "151310cd8dcacbc3b93f45c131e651f35bf44cdaf4a4a36dcb197f991cbe8345",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/roughness.png": "8bd9535035a13103283817ef45ca0863a644e0384960a51082b47f315e49e787",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/ao.png": "0f1b216103e2036aea4a8b018f13fa058bba4d094e667d038ae193aae2a48e07",
+      "build/axes/ce_ax_relic_stormcleaver/src_maps/height.png": "6810ae7dcdc193284fbd57ace10ef28b5a09084632d8f1088fae614ebf848356"
+    }
+  },
+  "ce_ax_sturgian_bearded": {
+    "fingerprint": "43bb6fe5ae4f90e64ff6b471771e98675887caaa4889f35af8e4234b9a780529",
+    "category": "axes",
+    "files": [
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded.fbx",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded.blend",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded_d.png",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded_n.png",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded_s.png",
+      "build/axes/ce_ax_sturgian_bearded/preview.png",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/basecolor.png",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/normal.png",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/metallic.png",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/roughness.png",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/ao.png",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_ax_sturgian_bearded": {
+        "tris": 2262,
+        "bbox_m": [
+          [
+            -0.019446585327386856,
+            -0.023398268967866898,
+            -0.17090675234794617
+          ],
+          [
+            0.16200000047683716,
+            0.023398268967866898,
+            0.5809999704360962
+          ]
+        ],
+        "dimensions_m": [
+          0.18144658580422401,
+          0.046796537935733795,
+          0.7519067227840424
+        ],
+        "uv_bounds": [
+          0.003906195517629385,
+          0.9958218932151794
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_sturgian_bearded.lod1": {
+        "tris": 1130,
+        "bbox_m": [
+          [
+            -0.019224314019083977,
+            -0.023398268967866898,
+            -0.17090146243572235
+          ],
+          [
+            0.16217350959777832,
+            0.023398268967866898,
+            0.5809999704360962
+          ]
+        ],
+        "dimensions_m": [
+          0.1813978236168623,
+          0.046796537935733795,
+          0.7519014328718185
+        ],
+        "uv_bounds": [
+          0.0039062276482582092,
+          0.9958950877189636
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_ax_sturgian_bearded.lod2": {
+        "tris": 564,
+        "bbox_m": [
+          [
+            -0.02019524574279785,
+            -0.024518214166164398,
+            -0.17081665992736816
+          ],
+          [
+            0.16254131495952606,
+            0.024518214166164398,
+            0.5793366432189941
+          ]
+        ],
+        "dimensions_m": [
+          0.1827365607023239,
+          0.049036428332328796,
+          0.7501533031463623
+        ],
+        "uv_bounds": [
+          0.0039062383584678173,
+          0.9960936307907104
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_ax_sturgian_bearded": "one_handed_axe"
+    },
+    "sha256": {
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded.fbx": "48dba5224735212429dc887a0dca68c13b08bdc2df499bbe2f7eaa41f3bd5160",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded.blend": "cd41e557414ea25960ec47cbb6eac850907752a759bc19b8a0ed1bc53668abf0",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded_d.png": "4de3eab62e2410480fb5abfaf45b6c449f78424f54fdfdac02ce6b1e7b4dbfef",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded_n.png": "98cb6b251151f2359aefbccb18c60c8f956c20d45e169326273fb67df3c5b8ad",
+      "build/axes/ce_ax_sturgian_bearded/ce_ax_sturgian_bearded_s.png": "73001248087c49b81698aff0d2171a4d9f86e8c69579357c77dbe4d8b0d36f6a",
+      "build/axes/ce_ax_sturgian_bearded/preview.png": "d0b68e233415a9b042cd339102fc38dbe78b1987be0ba851147846e37c1b010a",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/basecolor.png": "88d0d6b9b42db2304a92aa878c457799fed5b6fa5c61632e71852b13b59b6f3b",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/normal.png": "8e6661c030080a512f5485e9cd72348cda7ebcea5261995f1ccf777de30c26c2",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/metallic.png": "a80ef446518fdb2eb15182b9e315fb3fde66afb54e354b6c3f95d7bdc44f0c1e",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/roughness.png": "a96b3e480d1cee5924b304c448663d9144b46677e2127208f51dad671b641e4c",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/ao.png": "651555a73cede97b6602d0e0a652c0070931b6c0c1fa24f4b35bac1da2987f11",
+      "build/axes/ce_ax_sturgian_bearded/src_maps/height.png": "9d213dbe0927d6d7753f0c75a44b5c6a4512a74b33f2da6befd72fdfe192cce3"
+    }
+  },
   "ce_brand_armory": {
     "fingerprint": "716ce487d2f2ef42a3c5cbc7516d9832c93e8d0168f847a81a18e6cea7847160",
     "category": "branding",
