@@ -4584,6 +4584,522 @@
       "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/height.png": "7b7c8c5e53ff172239b27dc7bdfe49e445ce2f8210093786d1939b6532e6ca57"
     }
   },
+  "ce_th_aserai_jarid": {
+    "fingerprint": "0850bade7c9f938dd9c1fca282c5f604ab55e98bd1a5b43184989198f5782862",
+    "category": "thrown",
+    "files": [
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid.fbx",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid.blend",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid_d.png",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid_n.png",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid_s.png",
+      "build/thrown/ce_th_aserai_jarid/preview.png",
+      "build/thrown/ce_th_aserai_jarid/src_maps/basecolor.png",
+      "build/thrown/ce_th_aserai_jarid/src_maps/normal.png",
+      "build/thrown/ce_th_aserai_jarid/src_maps/metallic.png",
+      "build/thrown/ce_th_aserai_jarid/src_maps/roughness.png",
+      "build/thrown/ce_th_aserai_jarid/src_maps/ao.png",
+      "build/thrown/ce_th_aserai_jarid/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_th_aserai_jarid": {
+        "tris": 1414,
+        "bbox_m": [
+          [
+            -0.01327158510684967,
+            -0.01327158510684967,
+            -0.47999998927116394
+          ],
+          [
+            0.01327158510684967,
+            0.01327158510684967,
+            0.7699999809265137
+          ]
+        ],
+        "dimensions_m": [
+          0.02654317021369934,
+          0.02654317021369934,
+          1.2499999701976776
+        ],
+        "uv_bounds": [
+          0.003906246740370989,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_aserai_jarid.lod1": {
+        "tris": 706,
+        "bbox_m": [
+          [
+            -0.013738550245761871,
+            -0.013231620192527771,
+            -0.4800538122653961
+          ],
+          [
+            0.013738550245761871,
+            0.013257487677037716,
+            0.7700123190879822
+          ]
+        ],
+        "dimensions_m": [
+          0.027477100491523743,
+          0.026489107869565487,
+          1.2500661313533783
+        ],
+        "uv_bounds": [
+          0.0039062220603227615,
+          0.9949636459350586
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_aserai_jarid.lod2": {
+        "tris": 352,
+        "bbox_m": [
+          [
+            -0.013738550245761871,
+            -0.01322425901889801,
+            -0.4800582528114319
+          ],
+          [
+            0.013738550245761871,
+            0.013257487677037716,
+            0.7700123190879822
+          ]
+        ],
+        "dimensions_m": [
+          0.027477100491523743,
+          0.026481746695935726,
+          1.250070571899414
+        ],
+        "uv_bounds": [
+          0.0039062374271452427,
+          0.9920521974563599
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_th_aserai_jarid": "javelin"
+    },
+    "sha256": {
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid.fbx": "06435370b346e39dc194ed95068f0d784d4fa594b0a21c325fb03f7018358171",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid.blend": "8b464c64db5030e4945885d8b1e7196dad3a1c8c688e5b938163ef714f1ef5fb",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid_d.png": "7793a0f74dd0f656cc2d1bc3e152f282fd3aa5ee5a387e7ce9ac2ca13868b50a",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid_n.png": "403f69814ace083c8b6c32211d9f4721fd7d1b6885230f41226efee58d8608aa",
+      "build/thrown/ce_th_aserai_jarid/ce_th_aserai_jarid_s.png": "9cf0f2768ffce004dfc7f6abc2afe3185281f374fb8bd9f5c5e8e366b799976e",
+      "build/thrown/ce_th_aserai_jarid/preview.png": "9650099ea65d9641c0e41874c8b85eea65450234dd4e0f14a7b1e6b381b77a16",
+      "build/thrown/ce_th_aserai_jarid/src_maps/basecolor.png": "f3edc2481179292b53b583f3a7f35580e6237e449e93faa4071164137e5e26a1",
+      "build/thrown/ce_th_aserai_jarid/src_maps/normal.png": "619dfd416fdd825858502f269f12e9a19b7cd977065b7bde63ed449200e37a58",
+      "build/thrown/ce_th_aserai_jarid/src_maps/metallic.png": "f6b233d7d789158c2bd5c5897d0c589a36d347946916940f1b1ea5c00d910a3c",
+      "build/thrown/ce_th_aserai_jarid/src_maps/roughness.png": "4110ee25d1dff09887b3ea1ec5fd83c5d7499e4bdc63a3f80a2c30e02ff30fab",
+      "build/thrown/ce_th_aserai_jarid/src_maps/ao.png": "b97cbfdbd5d076c326fee0cdb073af7912d3043ffb09ddaad858bc6581d62228",
+      "build/thrown/ce_th_aserai_jarid/src_maps/height.png": "f92376f15303a0b00fc15013cbc106f7a697670666e3113c2d7f876f0593a3f0"
+    }
+  },
+  "ce_th_battanian_dart": {
+    "fingerprint": "aa49c3a119c2e8804b5ac39cf500e35a4f71634aed277efbb0a87a7fb000d33e",
+    "category": "thrown",
+    "files": [
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart.fbx",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart.blend",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart_d.png",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart_n.png",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart_s.png",
+      "build/thrown/ce_th_battanian_dart/preview.png",
+      "build/thrown/ce_th_battanian_dart/src_maps/basecolor.png",
+      "build/thrown/ce_th_battanian_dart/src_maps/normal.png",
+      "build/thrown/ce_th_battanian_dart/src_maps/metallic.png",
+      "build/thrown/ce_th_battanian_dart/src_maps/roughness.png",
+      "build/thrown/ce_th_battanian_dart/src_maps/ao.png",
+      "build/thrown/ce_th_battanian_dart/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_th_battanian_dart": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.03099999949336052,
+            -0.03099999763071537,
+            -0.43000003695487976
+          ],
+          [
+            0.03099999949336052,
+            0.03099999949336052,
+            0.6899999976158142
+          ]
+        ],
+        "dimensions_m": [
+          0.06199999898672104,
+          0.06199999712407589,
+          1.120000034570694
+        ],
+        "uv_bounds": [
+          0.00390624045394361,
+          0.9960938096046448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_battanian_dart.lod1": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.03099999949336052,
+            -0.03099999763071537,
+            -0.43000003695487976
+          ],
+          [
+            0.03099999949336052,
+            0.03099999949336052,
+            0.6899999976158142
+          ]
+        ],
+        "dimensions_m": [
+          0.06199999898672104,
+          0.06199999712407589,
+          1.120000034570694
+        ],
+        "uv_bounds": [
+          0.0039061903953552246,
+          0.9939622282981873
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_battanian_dart.lod2": {
+        "tris": 498,
+        "bbox_m": [
+          [
+            -0.03090142458677292,
+            -0.030909478664398193,
+            -0.43000003695487976
+          ],
+          [
+            0.03090142458677292,
+            0.03094518557190895,
+            0.6899999976158142
+          ]
+        ],
+        "dimensions_m": [
+          0.06180284917354584,
+          0.061854664236307144,
+          1.120000034570694
+        ],
+        "uv_bounds": [
+          0.0039062276482582092,
+          0.9940662384033203
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_th_battanian_dart": "javelin"
+    },
+    "sha256": {
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart.fbx": "cf8b399633da122ef1e20d8ab717e18076de2369e2b174e9e6ba7d326f78129e",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart.blend": "8e49fa1aadbcf2234c62d8437cfe6386c57f87d851bd14991cddf0e276705e48",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart_d.png": "45df5cc1a08e560807b12c95aa28fb914a8901690fa7f5b965fce7df1a27db46",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart_n.png": "6e4842e53c117fb14ad60bd2894aeeb75872b5d0bd3c82166b6391f0b0571d7a",
+      "build/thrown/ce_th_battanian_dart/ce_th_battanian_dart_s.png": "c741fb3dabddc6fba198b7bd864e936f3b15125642c1cc2112816d96dadc1e51",
+      "build/thrown/ce_th_battanian_dart/preview.png": "9af300eb5b2e5c87223f79b408f153f14390139b36268ef764c73b0cc5243c34",
+      "build/thrown/ce_th_battanian_dart/src_maps/basecolor.png": "690808c571b93de16d9c4ce965fe7c86b4d245891783a766695a6acd684fdd93",
+      "build/thrown/ce_th_battanian_dart/src_maps/normal.png": "b3f1134b618ea5fc5ffbe174b6ad12e56edc7cb4d27169422198cc285306c01c",
+      "build/thrown/ce_th_battanian_dart/src_maps/metallic.png": "f2f4f07e90ff404494f267eb0a0c2d81fb7aaff6b659be7783717c0b63b1d862",
+      "build/thrown/ce_th_battanian_dart/src_maps/roughness.png": "8ac74444ecc5f8027c089034ff4f39d5a56c585cfe4e1d072cdea35d73e3fa8b",
+      "build/thrown/ce_th_battanian_dart/src_maps/ao.png": "8da9ae88347ce12f54501d2daf01bcdafad92e4e8c3c22eacbd25d6a12679c1e",
+      "build/thrown/ce_th_battanian_dart/src_maps/height.png": "cd17df49c7804f2bf847642841ebe4caaa4c44e5f804d894588ba157f23a7f0f"
+    }
+  },
+  "ce_th_imperial_pilum": {
+    "fingerprint": "02f053846297e2fc835a2b4a30d9695a55cd618f619820805d4c2347acc5324c",
+    "category": "thrown",
+    "files": [
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum.fbx",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum.blend",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum_d.png",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum_n.png",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum_s.png",
+      "build/thrown/ce_th_imperial_pilum/preview.png",
+      "build/thrown/ce_th_imperial_pilum/src_maps/basecolor.png",
+      "build/thrown/ce_th_imperial_pilum/src_maps/normal.png",
+      "build/thrown/ce_th_imperial_pilum/src_maps/metallic.png",
+      "build/thrown/ce_th_imperial_pilum/src_maps/roughness.png",
+      "build/thrown/ce_th_imperial_pilum/src_maps/ao.png",
+      "build/thrown/ce_th_imperial_pilum/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_th_imperial_pilum": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.022173110395669937,
+            -0.024000002071261406,
+            -0.5700000524520874
+          ],
+          [
+            0.022173110395669937,
+            0.024000002071261406,
+            0.8400000333786011
+          ]
+        ],
+        "dimensions_m": [
+          0.044346220791339874,
+          0.04800000414252281,
+          1.4100000858306885
+        ],
+        "uv_bounds": [
+          0.0039062234573066235,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_imperial_pilum.lod1": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.022173110395669937,
+            -0.024000002071261406,
+            -0.5700000524520874
+          ],
+          [
+            0.022173110395669937,
+            0.024000002071261406,
+            0.8400000333786011
+          ]
+        ],
+        "dimensions_m": [
+          0.044346220791339874,
+          0.04800000414252281,
+          1.4100000858306885
+        ],
+        "uv_bounds": [
+          0.0039062241557985544,
+          0.99547278881073
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_imperial_pilum.lod2": {
+        "tris": 498,
+        "bbox_m": [
+          [
+            -0.022173110395669937,
+            -0.024016760289669037,
+            -0.5700000524520874
+          ],
+          [
+            0.022173110395669937,
+            0.024016760289669037,
+            0.8400000333786011
+          ]
+        ],
+        "dimensions_m": [
+          0.044346220791339874,
+          0.048033520579338074,
+          1.4100000858306885
+        ],
+        "uv_bounds": [
+          0.0039062402211129665,
+          0.9883694648742676
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_th_imperial_pilum": "javelin"
+    },
+    "sha256": {
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum.fbx": "31c4a206c5be6b9188089af5a041926da895fe7d8e0d3b16a30a980974c39e82",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum.blend": "e0534e9e3bba4188f8c5b66715a4053fc6e21b895698a187b16650c90279b7e0",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum_d.png": "344aa97727b24c207e0039263fe9becf73c72cce10ba9978fbfcb8ec2b6eb22d",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum_n.png": "282fc6334965d81d934ecd591ae287578c912d45743eb32ad0d8d0d944ee20a0",
+      "build/thrown/ce_th_imperial_pilum/ce_th_imperial_pilum_s.png": "65d204a8388c81ec6711da52769ef4fe23e8324778d71f8af1e7c8c38a7a5dbd",
+      "build/thrown/ce_th_imperial_pilum/preview.png": "d54121810bf7411d179dcb462e63d0e46de70a15e395a4026d10b741adbec5d1",
+      "build/thrown/ce_th_imperial_pilum/src_maps/basecolor.png": "6982c0390620829963f639a5cbbc06485614e84e2455cd439acd58c4de2dfd5a",
+      "build/thrown/ce_th_imperial_pilum/src_maps/normal.png": "a314c9643d63e2821d4f1da85037bf09ce4963c1ccfd3e8863e2e62af0a1af91",
+      "build/thrown/ce_th_imperial_pilum/src_maps/metallic.png": "b36df171173980d60106362c19f9f7e7a3ff45f8fb276f77e2bfb594c88cd3d1",
+      "build/thrown/ce_th_imperial_pilum/src_maps/roughness.png": "c5f35f97700c581ee5d91dc37e6d85dcba49a6a8aac702ad3ecf9ee413ba2aa3",
+      "build/thrown/ce_th_imperial_pilum/src_maps/ao.png": "6b3e6ee9e93fc8a21bbaa6d8248dafdd2b584c0a97f5e16875058b22fe230691",
+      "build/thrown/ce_th_imperial_pilum/src_maps/height.png": "feb74381772b08afe5bda81cdf2c146bc3e0251f18f4ef421b617928fb1ae50b"
+    }
+  },
+  "ce_th_sturgian_francisca": {
+    "fingerprint": "926d3c8d6256881eba69e5d1131ca4f0dd2acdac542c4b7d450956d4260a3cc8",
+    "category": "thrown",
+    "files": [
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca.fbx",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca.blend",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca_d.png",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca_n.png",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca_s.png",
+      "build/thrown/ce_th_sturgian_francisca/preview.png",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/basecolor.png",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/normal.png",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/metallic.png",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/roughness.png",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/ao.png",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_th_sturgian_francisca": {
+        "tris": 852,
+        "bbox_m": [
+          [
+            -0.019588394090533257,
+            -0.023398268967866898,
+            -0.1114870086312294
+          ],
+          [
+            0.14800000190734863,
+            0.023398268967866898,
+            0.35600000619888306
+          ]
+        ],
+        "dimensions_m": [
+          0.1675883959978819,
+          0.046796537935733795,
+          0.46748701483011246
+        ],
+        "uv_bounds": [
+          0.0039062057621777058,
+          0.9960936903953552
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_sturgian_francisca.lod1": {
+        "tris": 426,
+        "bbox_m": [
+          [
+            -0.019515670835971832,
+            -0.024518214166164398,
+            -0.11146653443574905
+          ],
+          [
+            0.14815573394298553,
+            0.024518214166164398,
+            0.35600000619888306
+          ]
+        ],
+        "dimensions_m": [
+          0.16767140477895737,
+          0.049036428332328796,
+          0.4674665406346321
+        ],
+        "uv_bounds": [
+          0.003906251396983862,
+          0.9925657510757446
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_th_sturgian_francisca.lod2": {
+        "tris": 212,
+        "bbox_m": [
+          [
+            -0.018223000690340996,
+            -0.024518214166164398,
+            -0.11171513050794601
+          ],
+          [
+            0.14815573394298553,
+            0.024518214166164398,
+            0.3558620810508728
+          ]
+        ],
+        "dimensions_m": [
+          0.16637873463332653,
+          0.049036428332328796,
+          0.4675772115588188
+        ],
+        "uv_bounds": [
+          0.003906100522726774,
+          0.9940500855445862
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_th_sturgian_francisca": "throwing_axe"
+    },
+    "sha256": {
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca.fbx": "5f737f92ecbbc1868c53adf364a71d6345595415ca8470e1366b9660096d2207",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca.blend": "800ff7f173b37e1a81bd930754a8ea4ce1aced50996e4174dce5a93b8503c0ff",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca_d.png": "9273486930e21d605d9513b65ca5f21811cc9df962c55cbe8bca8f8dc232e7af",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca_n.png": "2cdba8e9b1f35525188f41121a0b27f517c29006bfb4bdfae1b9ed47e0c25be6",
+      "build/thrown/ce_th_sturgian_francisca/ce_th_sturgian_francisca_s.png": "71f39f9b3f8742987542c027644da042c5df6ab13ce2d99cc3b58fee99afcb35",
+      "build/thrown/ce_th_sturgian_francisca/preview.png": "f6614a112c9b37eaeb543b2b3b492941b9c97ad6cfd86c1d89c1e3088618b4d8",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/basecolor.png": "6472bb1bc7174ce641bf80cfd095d02bf8b63a68293f648f4ad6b7711b7e37d5",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/normal.png": "cf672d98e0271beeb9851e52c2e9cd4c9bbdc3a874886bd295b5b3b5f02190d0",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/metallic.png": "5adc9ca4a781d332fa7f5f263f37a04e6d5e8d17de9152e478113e3f91236e13",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/roughness.png": "47959d215c969e4a97b93ae28bdcb4b9a67035dc3b16d6c6b63953e855923740",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/ao.png": "b650c9cd4a4b8ce88ae273763c44ed07e3a7ef637e262805d01ab7be94bd1b58",
+      "build/thrown/ce_th_sturgian_francisca/src_maps/height.png": "a84fb71a8f7704626035d5f326536b896af9ce19adbb4b8643aa213ad1915213"
+    }
+  },
   "ce_ui_compare": {
     "fingerprint": "fbf733c3ac0270cae902caa1640bd01fc6f59312c8427f92c5e3e452b1243e8b",
     "category": "icons",
