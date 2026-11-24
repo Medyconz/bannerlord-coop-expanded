@@ -22,7 +22,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | horse harness | 0 | 0 | 6 |
 | bows crossbows | 0 | 0 | 6 |
 | icons | 24 | 0 | 0 |
-| branding | 0 | 0 | 9 |
+| branding | 9 | 0 | 0 |
 
 ## Skipped entries
 

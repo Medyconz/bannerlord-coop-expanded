@@ -1,4 +1,112 @@
 {
+  "ce_brand_armory": {
+    "fingerprint": "9ff989e9972f4ee3e6a5c7965af2bba6a854418a20ed6e5315e271ec213bd37f",
+    "category": "branding",
+    "files": [
+      "ui/branding/armory.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/armory.png": "b116b7ef106dd2c1e0185dde61d45ddff8dff2467b82de8449f8189fbaf58859"
+    }
+  },
+  "ce_brand_coophud": {
+    "fingerprint": "9e700dbecfefb55f3f05fdc5313ca13aead2ffb59d8fd6956e1c07524dfee778",
+    "category": "branding",
+    "files": [
+      "ui/branding/coophud.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/coophud.png": "4d0441455c8c1c82d2d25101d6663a8ff0e079bead21a3d8626ba6712ea7c0d3"
+    }
+  },
+  "ce_brand_core": {
+    "fingerprint": "23a73af79e2fc46cd0b70e4581fb8a9a857610bf5ff7f527ec02d93f311ad4bf",
+    "category": "branding",
+    "files": [
+      "ui/branding/core.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/core.png": "84f8792e79735a4a9c5197ecffc6244f3a7dfba036715eb81b85f1cbf8f9c087"
+    }
+  },
+  "ce_brand_factions": {
+    "fingerprint": "3d4dbc1bfb1e534ff6a91e599d0d5f963785e93ffd0252cfe603091e6d774c50",
+    "category": "branding",
+    "files": [
+      "ui/branding/factions.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/factions.png": "32560f6ad5da52b2f9701a9044b88db48ed425cd2eb1c15776b2aa84ed05d3df"
+    }
+  },
+  "ce_brand_logo": {
+    "fingerprint": "80dfc0bf03c4a4b682b633e633106efd4e6747e3e15b6a78bef765172314d466",
+    "category": "branding",
+    "files": [
+      "ui/branding/logo.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/logo.png": "1c45515eef4a471ea853afd9eff14600ff3cafe09f10f941a46d85a2d8138b6b"
+    }
+  },
+  "ce_brand_qol": {
+    "fingerprint": "eff645120cd05e40bbdaa7642fe98171a23c83880c32b91988c8c239904cafb3",
+    "category": "branding",
+    "files": [
+      "ui/branding/qol.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/qol.png": "8dc99171d6c57eb0c529c7064e153ba5615470a859c0230aefd76713496bb7dc"
+    }
+  },
+  "ce_brand_repo_banner": {
+    "fingerprint": "118eea594287f5d206103d33f1130b55f8e2b29a9d2bfa1bae446c868fd4e174",
+    "category": "branding",
+    "files": [
+      "ui/branding/repo_banner.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/repo_banner.png": "ad68948d01bd7cf7e6c76b9ff1d9fdc3f7745de8725217537413c14ba119453b"
+    }
+  },
+  "ce_brand_trade": {
+    "fingerprint": "1081a4f21c9d142b5e79639507dbf94fce4fca5fb9ca80ede8d9c5ce87cffbdb",
+    "category": "branding",
+    "files": [
+      "ui/branding/trade.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/trade.png": "1b483a4172c843b884918aed8cce22f01c62a58075c86b07281826b685322de6"
+    }
+  },
+  "ce_brand_troops": {
+    "fingerprint": "88ac2d0e96068163afa3945b8b5ab61337901bb6843253acbf4abe76c4548efe",
+    "category": "branding",
+    "files": [
+      "ui/branding/troops.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/branding/troops.png": "d038da14b4d8a511446dca0ead614d665e4d7c1d1b292ca0ad68270c1c5e700b"
+    }
+  },
   "ce_ui_compare": {
     "fingerprint": "c03322fc03ab223526e5365096ab559c98a9bc80f30f7044250499f275ab9e95",
     "category": "icons",
