@@ -2389,6 +2389,54 @@
       "ui/branding/troops.png": "d038da14b4d8a511446dca0ead614d665e4d7c1d1b292ca0ad68270c1c5e700b"
     }
   },
+  "ce_bt_aserai_wrapped_boots": {
+    "fingerprint": "26891cd9279884c621a8b9a79570cc5f85efb29574c583e4f49ed0939a2bece2",
+    "category": "boots",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_bt_imperial_greaves": {
+    "fingerprint": "1784db6ffbb0fe5cbdd2c0445a7e9364c5168db24cb3aef3f794d87e735e877f",
+    "category": "boots",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_bt_khuzait_riding_boots": {
+    "fingerprint": "a95b718de7b2c7aadd58ec0064a57868b361b0fc1845e1f24e4b834fe41fe184",
+    "category": "boots",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_bt_relic_warden_greaves": {
+    "fingerprint": "8ae0f317be859df31c50492079cac0006abdfa44729a7593eacd6766fea7250d",
+    "category": "boots",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_bt_sturgian_fur_boots": {
+    "fingerprint": "d8d7a3111a3e0788de65de680d97aeaea1b3ba37098a6d6be9e33cce527c640e",
+    "category": "boots",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_bt_vlandic_sabatons": {
+    "fingerprint": "b9bab6211b9784ef6bd9bb698dc2809423df7e5b10eaf12286e13f9bbd8cb486",
+    "category": "boots",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
   "ce_dg_aserai_jambiya": {
     "fingerprint": "1e140d217627895535db331711d92519ddffc9fa7d3f83848deb7dc718fae98a",
     "category": "daggers",
