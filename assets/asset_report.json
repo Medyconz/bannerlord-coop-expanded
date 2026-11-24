@@ -5962,6 +5962,70 @@
       "build/shields/ce_sh_vlandic_pavise/src_maps/height.png": "eae4248f1b2763477cfa99f1ad2b17fee75322a96f1a7eb5259efc6ad9e04c74"
     }
   },
+  "ce_sp_aserai_desert_cloak": {
+    "fingerprint": "d5005df1ea0c51c1503317948958bcf7f10110e0cf6f1105e0f1275546e5e13e",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_battanian_plaid_cloak": {
+    "fingerprint": "954d285f71b80f17c7d6765bda9132cb2940ea1497545f24d534f530f7945123",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_imperial_pteruges": {
+    "fingerprint": "84755b7ffe4052abe29ee40f15b4c18f40b8a19b248fe7902936117802b1aaf2",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_khuzait_lamellar_shoulders": {
+    "fingerprint": "23a51c28a01a012f9421b2e73432446a5f8759796789b92306564d46549e023a",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_nord_wolf_pelt": {
+    "fingerprint": "9c05baf72f26cb168750fb4fcbd1a459ff3dece19c2486903b5a9ff89ca78f67",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_relic_warden_pauldrons": {
+    "fingerprint": "235ba1a84c2013b22fa1a6adee8025dc61b107a774f1f37c58266db14b1f6df5",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_sturgian_fur_mantle": {
+    "fingerprint": "3aafb52d156bfb4f3187cad723e00a93844efd5df5eaa8595176be2acd14ed93",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_sp_vlandic_spaulders": {
+    "fingerprint": "56435eb6b4c711999710e9b3d0d186dab8dff832767f9cb0cb08d42e8060f8ef",
+    "category": "shoulders_capes",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
   "ce_sw_aserai_saif": {
     "fingerprint": "b376b117a3f5dcad384c54b322c40b5928f842dd105ba892f181a7d290dad63e",
     "category": "one_handed_swords",
