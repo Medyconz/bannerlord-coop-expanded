@@ -11,6 +11,7 @@ import tempfile
 
 from catalog import ROOT, WORK, checksum, entries, fingerprint, outputs, read, references, write
 from contact_sheet import sheet
+from report import generate as release_summary
 from validate import inspect
 
 sys.path.insert(0,str(ROOT/"src"))
@@ -118,6 +119,7 @@ def main():
                 write(reportfile,dict(sorted(report.items())))
                 print(rec["status"],e["id"],rec.get("reason",""),flush=True)
         for cat in sorted({e["category"] for e in chosen}): sheet(cat)
+        release_summary()
         return int(any(report[e["id"]]["status"] not in ("ok","skipped_no_reference") for e in chosen))
 
 

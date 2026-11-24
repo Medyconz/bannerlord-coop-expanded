@@ -57,16 +57,27 @@ def audit(directory, size, config):
 
 
 def rebake(directory, atlas):
+    if not atlas.is_file():
+        raise ValueError(
+            f"no cached atlas for {directory.name}. Run python assets/tools/build.py "
+            f"--only {directory.name} --force before the rebake check"
+        )
     sys.path.insert(0, str(ROOT / "src"))
     from bake_maps import bake
 
-    with tempfile.TemporaryDirectory(dir=ROOT / ".work") as scratch:
+    with tempfile.TemporaryDirectory() as scratch:
         rebuilt = Path(scratch) / directory.name
         bake(atlas, rebuilt)
-        for image in sorted(rebuilt.rglob("*.png")):
-            relative = image.relative_to(rebuilt)
-            with Image.open(image) as expected, Image.open(directory / relative) as shipped:
-                compare(str(relative), np.array(expected), np.array(shipped))
+        expected_files = {f"src_maps/{name}.png" for name in (
+            "basecolor", "normal", "metallic", "roughness", "ao", "height"
+        )}
+        expected_files.update(f"{directory.name}_{suffix}.png" for suffix in ("d", "n", "s"))
+        generated = {p.relative_to(rebuilt).as_posix() for p in rebuilt.rglob("*.png")}
+        if generated != expected_files:
+            raise ValueError(f"rebake output inventory differs: {sorted(generated ^ expected_files)}")
+        for relative in sorted(generated):
+            with Image.open(rebuilt / relative) as expected, Image.open(directory / relative) as shipped:
+                compare(relative, np.array(expected), np.array(shipped))
 
 
 def main():

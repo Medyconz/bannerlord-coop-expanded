@@ -89,6 +89,19 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 - `ce_xb_vlandic_arbalest` — Missing crossbow_skeleton.fbx
 - `ce_xb_imperial_light` — Missing crossbow_skeleton.fbx
 
+## Ten assets for in-game art review
+
+- `ce_tg_stockfish` — The pale split fillets and pale binding cord merge at inventory size. Compare the forked tails and the cord loops against a light trading-screen background.
+- `ce_tg_glassware` — The three mint-green bottles have solid pale highlights and opaque-looking walls. Check whether the open rims and vessel highlights still suggest glass under warm indoor lighting.
+- `ce_tg_sailcloth` — The broad canvas layers end in nearly square corners and stack like boards. Check the folded edges beside the parchment bundle at normal inventory zoom.
+- `ce_tg_amber` — The chunks in the pouch and the three spilled pieces share the incense resin's pale orange highlights. Compare the loose pieces beside the incense box in the trade inventory.
+- `ce_ax_khuzait_horseman` — The flared hammer poll has a bright upper edge and a dark front face. In profile, its outline resembles a second axe blade. Check the head from both sides in the equipment viewer.
+- `ce_dg_aserai_jambiya` — Broad diagonal bands cross the curved steel blade, especially near its tip. Rotate it under a shop light to see whether those bands overpower the blade ridge.
+- `ce_sw_khuzait_sabre` — The clipped tip, shallow curve and gold guard closely resemble the Aserai saif in the sword grid. Check whether the ring pommel and teal tassel distinguish the two at inventory size.
+- `ce_mc_khuzait_gurz` — The leather wrist loop forms a sharply angled polygon at the grip end. Check its outline against the wielder's glove in a close equipment view.
+- `ce_am_khuzait_whistling_arrows` — The loose arrow's fine brown shaft fades into the grey preview between its pale bulb and teal fletching. Compare its visibility with the bodkin arrow at normal inventory zoom.
+- `ce_th_imperial_pilum` — The long iron shank is much darker and thinner than the bright tip and wooden shaft. Check whether the tip appears detached against a shaded courtyard at the middle LOD.
+
 ## Rebuild
 
 Run from the repository root with Python 3.11+ and Blender 4.2+. The release workstation used Blender 5.2.2, Python 3.15.0, Pillow 13.0.0, NumPy 2.5.4 and SciPy 1.18.1. Set the BLENDER environment variable if the executable is outside PATH and the standard Windows install directory.

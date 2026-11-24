@@ -10,6 +10,31 @@ import numpy as np
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def grip_spans(mesh, axis):
+    """Measure connected pieces centred on the hand origin along the grip axis."""
+    neighbors=[[] for _ in mesh.vertices]
+    for edge in mesh.edges:
+        a,b=edge.vertices
+        neighbors[a].append(b)
+        neighbors[b].append(a)
+    seen=set()
+    for vertex in mesh.vertices:
+        if vertex.index in seen:
+            continue
+        frontier=[vertex.index]; seen.add(vertex.index)
+        positions=[]
+        while frontier:
+            i=frontier.pop()
+            positions.append(mesh.vertices[i].co[axis])
+            for other in neighbors[i]:
+                if other not in seen:
+                    seen.add(other)
+                    frontier.append(other)
+        low,high=min(positions),max(positions)
+        if low < 0 < high and abs(low+high) < .002:
+            yield high-low
+
+
 def audit(path, entry, cfg):
     bpy.ops.wm.read_factory_settings(use_empty=True)
     bpy.ops.import_scene.fbx(filepath=str(path), use_image_search=False)
@@ -32,6 +57,11 @@ def audit(path, entry, cfg):
         size = max(principal.dimensions)
         if lower is not None and not lower-1e-4 <= size <= upper+1e-4:
             errors.append(f"{name} spans {size:.4f} m")
+        if kind in cfg["grip_length_m"]:
+            lo,hi=cfg["grip_length_m"][kind]
+            axis="XYZ".index(cfg["orientation"]["weapon_tip"][-1])
+            if not any(lo-1e-4<=span<=hi+1e-4 for span in grip_spans(principal.data,axis)):
+                errors.append(f"{name} has no centred grip in the {lo}–{hi} m range")
         base_faces = len(principal.data.polygons)
         low, high = cfg["limits"][kind]["triangles"]
         if not low <= base_faces <= high:
