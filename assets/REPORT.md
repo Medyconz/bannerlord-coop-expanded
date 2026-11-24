@@ -14,7 +14,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | ammunition | 4 | 0 | 0 |
 | shields | 10 | 0 | 0 |
 | trade goods | 12 | 0 | 0 |
-| helmets | 0 | 0 | 16 |
+| helmets | 0 | 16 | 0 |
 | body armour | 0 | 0 | 14 |
 | shoulders capes | 0 | 0 | 8 |
 | gloves | 0 | 0 | 6 |
@@ -26,6 +26,22 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 
 ## Skipped entries
 
+- `ce_hm_imperial_ridge` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_imperial_officer` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_vlandic_great` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_vlandic_kettle` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_sturgian_conical` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_sturgian_masked` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_nord_crested` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_nord_fur_cap` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_battanian_bronze` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_battanian_leather` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_khuzait_lamellar` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_khuzait_fur_steel` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_aserai_turban` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_aserai_pointed` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_relic_crowned` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hm_relic_wolf` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 
 ## Rebuild
 

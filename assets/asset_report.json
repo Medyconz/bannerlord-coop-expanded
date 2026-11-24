@@ -2755,6 +2755,134 @@
       "build/daggers/ce_dg_vlandic_rondel/src_maps/height.png": "7ce11127c1b2e2feb8d65d7c899653fc8aa3e7cc5af664df0afb5020eee9e9c5"
     }
   },
+  "ce_hm_aserai_pointed": {
+    "fingerprint": "709f2b0d4af872918f68c7547ff0ebddabd23535fd6ae1fd3abcedb19ffde3fb",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_aserai_turban": {
+    "fingerprint": "570cb93e2a362f30f55ccf0bef1bfdd1027aae1a4210af81378d7335f913b632",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_battanian_bronze": {
+    "fingerprint": "606b1c4f4b8fa5882e4ea11ec61a4bb690c494c91047383e7938577635fd1466",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_battanian_leather": {
+    "fingerprint": "e65b8055d6b3d17b73d1c22f17d07840282a85f688c3fc1933bf1825a9923c1e",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_imperial_officer": {
+    "fingerprint": "6e3bb43a41e7f499bf44c62dcbfe78cad6a0987bd5e3e0df30e24a33e57c3676",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_imperial_ridge": {
+    "fingerprint": "4e31701f41fbbccb7c7cf2d008476765dcd54a43e40137bddafbb7b3b67deb3f",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_khuzait_fur_steel": {
+    "fingerprint": "c710d1350741db867f64c651d7b68e76c87646429ad9bd8317233dde14aeeffb",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_khuzait_lamellar": {
+    "fingerprint": "e8b6aa09913e7e6e7f49c0c5847fca2c22fc799bb00ec341e0db0acb9e530f01",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_nord_crested": {
+    "fingerprint": "a097656ba8a75112b777ce3cc9591ad7dff50a750b819145b4c48316842e56d6",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_nord_fur_cap": {
+    "fingerprint": "8451fe9654f8db85016485b4e3638edd8f2cf44f7442cac544f79b48cafc23d8",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_relic_crowned": {
+    "fingerprint": "bf7cc3d1ee29175c3b11849a85cecc4de657bab8948359bf52b78b62acc14913",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_relic_wolf": {
+    "fingerprint": "9d43ef65d70ebff0c8fafd9973d7c20a6a2da08219e3f9d19f0164a72ca67de1",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_sturgian_conical": {
+    "fingerprint": "b33cc746be047687c5c3209288e01d943725ca090861d445356e76adce8e3f2c",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_sturgian_masked": {
+    "fingerprint": "a841ce7b2762339d2b2bf3bb926254f5e87ff4e564b19bae9f09015e75c9f6ef",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_vlandic_great": {
+    "fingerprint": "6e245d047d7862f4b44605247bf40ec1c241dc6b447e590958a50617c55fb9c9",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
+  "ce_hm_vlandic_kettle": {
+    "fingerprint": "9c162561d7250e6136b20d8e33920eefa2cc7d5d49325d822479055e16a21a8e",
+    "category": "helmets",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
+  },
   "ce_mc_aserai_knobbed": {
     "fingerprint": "63943ab6fb09abb2faabf6a55234fbad1a6b7a31545c2c90483413b07a01fb13",
     "category": "maces_hammers",
