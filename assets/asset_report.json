@@ -2042,6 +2042,1038 @@
       "build/maces_hammers/ce_mc_vlandic_warhammer/src_maps/height.png": "8a2004edf56dbfbda5a2f21667324bed5d9755890f1d34bc0fdddd373f438177"
     }
   },
+  "ce_pl_aserai_rumh": {
+    "fingerprint": "d270c959e6514ccbdb4512fd107a56e81f00dee6553404758471e1ca6542c71c",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh.fbx",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh.blend",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh_d.png",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh_n.png",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh_s.png",
+      "build/polearms/ce_pl_aserai_rumh/preview.png",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/basecolor.png",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/normal.png",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/metallic.png",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/roughness.png",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/ao.png",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_aserai_rumh": {
+        "tris": 2560,
+        "bbox_m": [
+          [
+            -0.017000000923871994,
+            -0.016976000741124153,
+            -0.8799999952316284
+          ],
+          [
+            0.017000000923871994,
+            0.016976000741124153,
+            1.909999966621399
+          ]
+        ],
+        "dimensions_m": [
+          0.03400000184774399,
+          0.033952001482248306,
+          2.7899999618530273
+        ],
+        "uv_bounds": [
+          0.003906226484104991,
+          0.9960936903953552
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_aserai_rumh.lod1": {
+        "tris": 1280,
+        "bbox_m": [
+          [
+            -0.01777384802699089,
+            -0.01664000004529953,
+            -0.8800262212753296
+          ],
+          [
+            0.01777384802699089,
+            0.01664000004529953,
+            1.9100120067596436
+          ]
+        ],
+        "dimensions_m": [
+          0.03554769605398178,
+          0.03328000009059906,
+          2.790038228034973
+        ],
+        "uv_bounds": [
+          0.0039062281139194965,
+          0.9839344620704651
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_aserai_rumh.lod2": {
+        "tris": 640,
+        "bbox_m": [
+          [
+            -0.01777384802699089,
+            -0.01674213819205761,
+            -0.8801036477088928
+          ],
+          [
+            0.01777384802699089,
+            0.017321845516562462,
+            1.9100420475006104
+          ]
+        ],
+        "dimensions_m": [
+          0.03554769605398178,
+          0.03406398370862007,
+          2.790145695209503
+        ],
+        "uv_bounds": [
+          0.0039062337018549442,
+          0.9926602244377136
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_aserai_rumh": "spear"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh.fbx": "f2f7c83370c02c38a1662b6ed89668248c15fa34a1b6f1007bf62070e22d56a3",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh.blend": "aec709b6a6167b2ab4343acf966b806b9c19510417f42b16ed53b9210d701d86",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh_d.png": "1c8da36949dcf527cdea481f18cc9c905fa333845de2eeaf4fab8f80f643afd5",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh_n.png": "b227e7fe50cd2dfa4a08a69c784728fd3ddd443a3abee12eda4ce519ef105978",
+      "build/polearms/ce_pl_aserai_rumh/ce_pl_aserai_rumh_s.png": "bba4d733dd7b73855d0f19ab3e80b1ffed03e5d5c2614aacb3546de8508b20d7",
+      "build/polearms/ce_pl_aserai_rumh/preview.png": "a6dcabc84e6256d1776fc35be5d89b3a5fcc82f7e9287c6d4d1e350d22097075",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/basecolor.png": "b8939f4186bebe73999906e9ea866a0eae761cc8aec29b372baef91e6c1f6ca4",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/normal.png": "7a721f9315e19f9d77e26e2787d6b5c06b399941893fcbafd28a302ff7e37f2c",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/metallic.png": "d27f795dd65c1845d449ad5de23574b49729c8fa1506f210c804a8a7430df89c",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/roughness.png": "429baf1050b6e52167a56bd63d1ef99ff0b206157d41a20a32dcb53b6a6306e8",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/ao.png": "55253cd16851e8b5de9cb48d82f54203e761b9b61eaadb35936bd4213fbd68d3",
+      "build/polearms/ce_pl_aserai_rumh/src_maps/height.png": "0f3d3c9b80bc3b54758262e1e844b152d705d9685b587358ed3df0d2c1956d03"
+    }
+  },
+  "ce_pl_battanian_long_spear": {
+    "fingerprint": "4984692d17f1119a1255524100b08bb4f05a30df9f5beb66ca4763b1fcd152c2",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear.fbx",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear.blend",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear_d.png",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear_n.png",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear_s.png",
+      "build/polearms/ce_pl_battanian_long_spear/preview.png",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/basecolor.png",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/normal.png",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/metallic.png",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/roughness.png",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/ao.png",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_battanian_long_spear": {
+        "tris": 2928,
+        "bbox_m": [
+          [
+            -0.03200000151991844,
+            -0.020996585488319397,
+            -0.7699999809265137
+          ],
+          [
+            0.03200000151991844,
+            0.020996585488319397,
+            1.6100000143051147
+          ]
+        ],
+        "dimensions_m": [
+          0.06400000303983688,
+          0.041993170976638794,
+          2.3799999952316284
+        ],
+        "uv_bounds": [
+          0.0039062106516212225,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_battanian_long_spear.lod1": {
+        "tris": 1464,
+        "bbox_m": [
+          [
+            -0.03402690961956978,
+            -0.02039172500371933,
+            -0.7700346112251282
+          ],
+          [
+            0.03402690961956978,
+            0.02039172500371933,
+            1.6100432872772217
+          ]
+        ],
+        "dimensions_m": [
+          0.06805381923913956,
+          0.04078345000743866,
+          2.38007789850235
+        ],
+        "uv_bounds": [
+          0.0039062481373548508,
+          0.9942603707313538
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_battanian_long_spear.lod2": {
+        "tris": 732,
+        "bbox_m": [
+          [
+            -0.03402690961956978,
+            -0.02056976407766342,
+            -0.770185112953186
+          ],
+          [
+            0.03402690961956978,
+            0.020569635555148125,
+            1.6100432872772217
+          ]
+        ],
+        "dimensions_m": [
+          0.06805381923913956,
+          0.041139399632811546,
+          2.3802284002304077
+        ],
+        "uv_bounds": [
+          0.003906243247911334,
+          0.9938163161277771
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_battanian_long_spear": "spear"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear.fbx": "95aafb16c2de5ace5fb6954668f250def70a4422cc499ce7d5ee548ad2459ae9",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear.blend": "5bba247b274282b8fb8e026ee287c7aa070888710961032796580d3f9e9b8913",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear_d.png": "21e6dfc994f6474008ac6cd2fd1f9ef3d159053963b83b010b0c323eb9294e0f",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear_n.png": "3d7b5459ad2358de2e72ecb0a6e4be68457018a7b8f7e9adf132f24565cfe59a",
+      "build/polearms/ce_pl_battanian_long_spear/ce_pl_battanian_long_spear_s.png": "2b92ce1116df81e749660bf95c10262dc7bee8811714eae0e5c8f2d7c28917ce",
+      "build/polearms/ce_pl_battanian_long_spear/preview.png": "3993d3519f57e2ee85069aef6a64c2e3870f318cb117de32f3cab8c48fe2ebd8",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/basecolor.png": "0dc10bcd8b8d21f2ec51cc8bcb02537d0f8ff9abf7a6c138dd0b5b42c0c2b570",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/normal.png": "d1f2eb0619a1aded7e90d1f051339ca128f5c225bb91d5cf2b14bb7519fd04b9",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/metallic.png": "f020858a9a731214d4c558f056e2236de0495609ac54d4949947f940b2444522",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/roughness.png": "d27c0b530fee16d36c0e2733d327d5dc5b7cdd4f3b81e6c33d0118d789d1eb89",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/ao.png": "014717297f3e91638ec8061fad8361b7f69cf505ccbbc83b3ff1c414aa08bc71",
+      "build/polearms/ce_pl_battanian_long_spear/src_maps/height.png": "ee66732293ab5d383dd486f04c8b45cfa9765a14729c6487b1233989dee78026"
+    }
+  },
+  "ce_pl_imperial_kontarion": {
+    "fingerprint": "db4e399e20ef0f27f0cbdbb58d825058ad83150238d64854348529617c5fad05",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion.fbx",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion.blend",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion_d.png",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion_n.png",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion_s.png",
+      "build/polearms/ce_pl_imperial_kontarion/preview.png",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/basecolor.png",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/normal.png",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/metallic.png",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/roughness.png",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/ao.png",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_imperial_kontarion": {
+        "tris": 2426,
+        "bbox_m": [
+          [
+            -0.020999999716877937,
+            -0.020996585488319397,
+            -0.9100000262260437
+          ],
+          [
+            0.31200000643730164,
+            0.020996585488319397,
+            2.0299999713897705
+          ]
+        ],
+        "dimensions_m": [
+          0.3330000061541796,
+          0.041993170976638794,
+          2.939999997615814
+        ],
+        "uv_bounds": [
+          0.003906228579580784,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_imperial_kontarion.lod1": {
+        "tris": 1212,
+        "bbox_m": [
+          [
+            -0.021370595321059227,
+            -0.02039172500371933,
+            -0.9100346565246582
+          ],
+          [
+            0.31150367856025696,
+            0.02039172500371933,
+            2.0300426483154297
+          ]
+        ],
+        "dimensions_m": [
+          0.3328742738813162,
+          0.04078345000743866,
+          2.940077304840088
+        ],
+        "uv_bounds": [
+          0.0039062309078872204,
+          0.9925812482833862
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_imperial_kontarion.lod2": {
+        "tris": 606,
+        "bbox_m": [
+          [
+            -0.021932439878582954,
+            -0.020569633692502975,
+            -0.9103389978408813
+          ],
+          [
+            0.31399598717689514,
+            0.020569633692502975,
+            2.0300498008728027
+          ]
+        ],
+        "dimensions_m": [
+          0.3359284270554781,
+          0.04113926738500595,
+          2.940388798713684
+        ],
+        "uv_bounds": [
+          0.003906226484104991,
+          0.992081880569458
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_imperial_kontarion": "spear"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion.fbx": "226271624ee38e53779d181c4d50f0512fc4b73555ca70a861348bf63cfd7f0c",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion.blend": "6ff620ba36939e43ed591d83b6409d6136dcf94abce901c4855c002b1b80c575",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion_d.png": "493010963cf02fbe88d2fd7f66ae14805eb0deeff7b697842b5309dcdf525d1b",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion_n.png": "5a65f1f5994db6fd04c148fcba68fdee3903c38773c5fb1694ae63208006d5b9",
+      "build/polearms/ce_pl_imperial_kontarion/ce_pl_imperial_kontarion_s.png": "e15dc889b65d9351e2fb676b3f204bb5e80558723c5beda6bc8512ff9ef64fa8",
+      "build/polearms/ce_pl_imperial_kontarion/preview.png": "0b0f0bba68d966389d8bb2b5d6eeb14fe206e4cc238d40e803fdd6ee7e83f852",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/basecolor.png": "19d4e17a07f754b7d90d7406bebd6e3cf3d25580780f383faea2a4be394ca9a7",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/normal.png": "0440e60b8537950b003e6afe08c7d0b451aa627335b739d8d3080311780de335",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/metallic.png": "7bcc9ed873a6abcc8053cd37290eb9687a23aa2b4a33e2e946df1a6db74e0c70",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/roughness.png": "8f3d76a63de2f96e748e352561cd261eec2b425c2f3a41966af6f6665a296d1a",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/ao.png": "96a95081febc0b9d1b67e45dce32653683f87e3bf0c67ce0ad2ea33a291e1db0",
+      "build/polearms/ce_pl_imperial_kontarion/src_maps/height.png": "065ef861a714356f6665dea19c00b5c419418bc70beaf00158fae1925915c41c"
+    }
+  },
+  "ce_pl_khuzait_glaive": {
+    "fingerprint": "a75746d9cdeeed4439c0380a4138392d6909cfd02186dc69802237ef0f335287",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive.fbx",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive.blend",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive_d.png",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive_n.png",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive_s.png",
+      "build/polearms/ce_pl_khuzait_glaive/preview.png",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/basecolor.png",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/normal.png",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/metallic.png",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/roughness.png",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/ao.png",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_khuzait_glaive": {
+        "tris": 2170,
+        "bbox_m": [
+          [
+            -0.0860000029206276,
+            -0.03294705972075462,
+            -0.7200000286102295
+          ],
+          [
+            0.04399999976158142,
+            0.03295424208045006,
+            1.5
+          ]
+        ],
+        "dimensions_m": [
+          0.13000000268220901,
+          0.06590130180120468,
+          2.2200000286102295
+        ],
+        "uv_bounds": [
+          0.0039062274154275656,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_khuzait_glaive.lod1": {
+        "tris": 1084,
+        "bbox_m": [
+          [
+            -0.08591745793819427,
+            -0.03294705972075462,
+            -0.7201264500617981
+          ],
+          [
+            0.04638197645545006,
+            0.03295424208045006,
+            1.5000582933425903
+          ]
+        ],
+        "dimensions_m": [
+          0.13229943439364433,
+          0.06590130180120468,
+          2.2201847434043884
+        ],
+        "uv_bounds": [
+          0.003906221129000187,
+          0.9959211349487305
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_khuzait_glaive.lod2": {
+        "tris": 542,
+        "bbox_m": [
+          [
+            -0.08420435339212418,
+            -0.03294705972075462,
+            -0.7203390002250671
+          ],
+          [
+            0.04114789888262749,
+            0.03295424208045006,
+            1.499861478805542
+          ]
+        ],
+        "dimensions_m": [
+          0.12535225227475166,
+          0.06590130180120468,
+          2.220200479030609
+        ],
+        "uv_bounds": [
+          0.003906185505911708,
+          0.9960522651672363
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_khuzait_glaive": "glaive"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive.fbx": "5340c252ce89928a3c017df1e9e11d1cd0a327b64ec622b0be4a4cd84856dfc4",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive.blend": "99d01c49bc5101b75705590378aeca586aade2db8356511b4d57fb505e8f9d19",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive_d.png": "ff5eec83fbdd96561e092ea835ab25622480b96117ccfc6b2b4e7ea5ce0f62d4",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive_n.png": "f3eda6c23cfe2a72cc6d314187856d5c883542213af873b00ad7e184e069a50d",
+      "build/polearms/ce_pl_khuzait_glaive/ce_pl_khuzait_glaive_s.png": "8c19bdf0af6e2ff4d16ee5c9bc2638f0c61409602a63c951f960baa2369312f6",
+      "build/polearms/ce_pl_khuzait_glaive/preview.png": "6203d20f70d68cd96f96e726741f4a348c879415b286d6736e00ef1cecee4bfd",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/basecolor.png": "fa39137caa7ab06487ab702e1681323ee3533089f4fcc9aeb680274ccd6bfee3",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/normal.png": "1a38e3b44bd9c024069828dcdab6c8b4744b0a3c963636fb327f206afa5febba",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/metallic.png": "f51f5e58f4d7e5f25b0f8089502c9eea6782c1fefa11a842bbd7536a0523823e",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/roughness.png": "9f2e236299939ece817bf063b3dbfa6e2929de8f0c3f0ee383eb6d78fc40b26a",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/ao.png": "8b107577b9dc22aef18d1cbb68b2089366a1ead0760e53a0d4625f22107b6420",
+      "build/polearms/ce_pl_khuzait_glaive/src_maps/height.png": "13590ebd0af9abf4ad8a64e0b671ff6c24b83e790ca867f764e176d8f2be4541"
+    }
+  },
+  "ce_pl_nord_atgeir": {
+    "fingerprint": "f74279bebbc25c6a6ba3fd3a486764f5446afecdae208a9df8efccb1e8a7ebc2",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir.fbx",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir.blend",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir_d.png",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir_n.png",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir_s.png",
+      "build/polearms/ce_pl_nord_atgeir/preview.png",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/basecolor.png",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/normal.png",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/metallic.png",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/roughness.png",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/ao.png",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_nord_atgeir": {
+        "tris": 2494,
+        "bbox_m": [
+          [
+            -0.0820000022649765,
+            -0.020996585488319397,
+            -0.699999988079071
+          ],
+          [
+            0.04500000178813934,
+            0.020996585488319397,
+            1.4900000095367432
+          ]
+        ],
+        "dimensions_m": [
+          0.12700000405311584,
+          0.041993170976638794,
+          2.189999997615814
+        ],
+        "uv_bounds": [
+          0.0039062448777258396,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_nord_atgeir.lod1": {
+        "tris": 1246,
+        "bbox_m": [
+          [
+            -0.08131512254476547,
+            -0.02039172500371933,
+            -0.7001264095306396
+          ],
+          [
+            0.040581997483968735,
+            0.02039172500371933,
+            1.4900448322296143
+          ]
+        ],
+        "dimensions_m": [
+          0.12189712002873421,
+          0.04078345000743866,
+          2.190171241760254
+        ],
+        "uv_bounds": [
+          0.0039061903953552246,
+          0.993024468421936
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_nord_atgeir.lod2": {
+        "tris": 622,
+        "bbox_m": [
+          [
+            -0.08290453255176544,
+            -0.020569633692502975,
+            -0.7001851201057434
+          ],
+          [
+            0.050653621554374695,
+            0.020569633692502975,
+            1.4900602102279663
+          ]
+        ],
+        "dimensions_m": [
+          0.13355815410614014,
+          0.04113926738500595,
+          2.1902453303337097
+        ],
+        "uv_bounds": [
+          0.0039062213618308306,
+          0.9897500872612
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_nord_atgeir": "glaive"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir.fbx": "58c87f8ff8e64e13322fecd7f7b926e1fed8ed24741c99742191e76e62d25786",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir.blend": "3cb72f191935a1de5846896935a5ec1faaf0afcfa7eec53f4da51a1a6ef09fee",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir_d.png": "bc5b1582fa3802bde0c6b6838f5c8b0bf9b91986dd323f8d3be74ca9d838eb16",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir_n.png": "d58ee96916ac1084c43316ebfcc80c63d1b473e41b638e8d8c771228f6ad2425",
+      "build/polearms/ce_pl_nord_atgeir/ce_pl_nord_atgeir_s.png": "cf52a3d37085f1b18abe74169395e0a09509789633be0c85731243a345eb4dc4",
+      "build/polearms/ce_pl_nord_atgeir/preview.png": "879635d3e78d628c479955123485f16a4df63207837c31cb96f213c0ff1ad756",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/basecolor.png": "b50f1fb6c6a781fddf3e6d3b302676691e5884b6996ecd668f93cf8572b40d47",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/normal.png": "56230ce80fa0275b902161718e4e5f317b2aeea7cfed4f3d24ac4f247cc16194",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/metallic.png": "eb9243c880decc935875df01f0a5e875db00fe22ae8244c1e15b7ef8a208bfaa",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/roughness.png": "3ded674499c7348239f2bfff50941b98d578d78d07d1c3c9bc0ffe92ea79e075",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/ao.png": "32986c5b1287c12ca77586566fe23cee162fd1ed8b4d6a29aa573054ef4b4737",
+      "build/polearms/ce_pl_nord_atgeir/src_maps/height.png": "e7d8270e29169d5f1390a176b3bcf3898d18f70297d4fc77e2aee6c7facb5f6b"
+    }
+  },
+  "ce_pl_relic_sunspear": {
+    "fingerprint": "37c755f46e70c4a62fcb38791465aeb756ee7b93a3f3f63907f6128f01905750",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear.fbx",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear.blend",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear_d.png",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear_n.png",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear_s.png",
+      "build/polearms/ce_pl_relic_sunspear/preview.png",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/basecolor.png",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/normal.png",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/metallic.png",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/roughness.png",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/ao.png",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_relic_sunspear": {
+        "tris": 2512,
+        "bbox_m": [
+          [
+            -0.06300000101327896,
+            -0.020996585488319397,
+            -0.8299999833106995
+          ],
+          [
+            0.06300000101327896,
+            0.020996585488319397,
+            1.6699999570846558
+          ]
+        ],
+        "dimensions_m": [
+          0.12600000202655792,
+          0.041993170976638794,
+          2.4999999403953552
+        ],
+        "uv_bounds": [
+          0.0039062213618308306,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_relic_sunspear.lod1": {
+        "tris": 1256,
+        "bbox_m": [
+          [
+            -0.06252051889896393,
+            -0.02039172500371933,
+            -0.8301264643669128
+          ],
+          [
+            0.06252051144838333,
+            0.02039172500371933,
+            1.6700514554977417
+          ]
+        ],
+        "dimensions_m": [
+          0.12504103034734726,
+          0.04078345000743866,
+          2.5001779198646545
+        ],
+        "uv_bounds": [
+          0.00390622578561306,
+          0.9959341883659363
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_relic_sunspear.lod2": {
+        "tris": 628,
+        "bbox_m": [
+          [
+            -0.06371407210826874,
+            -0.02051873691380024,
+            -0.8301368951797485
+          ],
+          [
+            0.06371406465768814,
+            0.020569637417793274,
+            1.6700514554977417
+          ]
+        ],
+        "dimensions_m": [
+          0.12742813676595688,
+          0.041088374331593513,
+          2.5001883506774902
+        ],
+        "uv_bounds": [
+          0.0039062330033630133,
+          0.9943664073944092
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_relic_sunspear": "spear"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear.fbx": "abc99303f4a758bf5f3a2e1d812656bdacd8bf34dabbaa66c6f63b62c2dbe854",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear.blend": "0b7e563a72c38f91699a3d680ea1ed175dff6e5f5e6c9b29cded0ffeaee400ec",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear_d.png": "74da2a6bc9c67a0bd3e60f812c3faca2ec974c007f97837d9e573065c4ebe2ad",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear_n.png": "ff14bbac64584bed1a11b9e258fbde70ed7def8d287499e68638517a82c800aa",
+      "build/polearms/ce_pl_relic_sunspear/ce_pl_relic_sunspear_s.png": "b57e171003e94f6ae8add8af55628512c750a9ff3b848fb8719dbc5abf517f07",
+      "build/polearms/ce_pl_relic_sunspear/preview.png": "642f8ba1133b3b9a040efdb211dd87b7e41fde8efa30d487a386ac84cf7061a8",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/basecolor.png": "4765773f7ea7396dff766d2c6cf60e2427dc4df20fff643662a7fcb19bed8c52",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/normal.png": "d958b9d8af6c894b542f59c4da8cd678687348e6e5f8cdf26025541a8280fa6b",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/metallic.png": "da61145809e32fe71dc181f7e3c6301db03e0c8b29eadb33fa7ecb00e94e1ce9",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/roughness.png": "70feebb610b4054a3b81c1f58829b170b91b4540fed70b4148659abfe12d462f",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/ao.png": "c1086dd5afee5400e8f85d3d3c6bd1e746e4b31ea0cfd89408dd071962430a9d",
+      "build/polearms/ce_pl_relic_sunspear/src_maps/height.png": "79e203d3b285591220406d9fff2a81bf0ea6e24fe8a6dbe8ecbea4af56749487"
+    }
+  },
+  "ce_pl_sturgian_boar_spear": {
+    "fingerprint": "87988fa0aa227fbb568d38d03a8905e9afc477267732c78912134e6a30c17ef3",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear.fbx",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear.blend",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear_d.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear_n.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear_s.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/preview.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/basecolor.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/normal.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/metallic.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/roughness.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/ao.png",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_sturgian_boar_spear": {
+        "tris": 2102,
+        "bbox_m": [
+          [
+            -0.10000000149011612,
+            -0.020996585488319397,
+            -0.7099999785423279
+          ],
+          [
+            0.10000000149011612,
+            0.020996585488319397,
+            1.4800000190734863
+          ]
+        ],
+        "dimensions_m": [
+          0.20000000298023224,
+          0.041993170976638794,
+          2.189999997615814
+        ],
+        "uv_bounds": [
+          0.003906245343387127,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_sturgian_boar_spear.lod1": {
+        "tris": 1050,
+        "bbox_m": [
+          [
+            -0.09911451488733292,
+            -0.02039172500371933,
+            -0.7100346088409424
+          ],
+          [
+            0.09918127208948135,
+            0.02039172500371933,
+            1.4800420999526978
+          ]
+        ],
+        "dimensions_m": [
+          0.19829578697681427,
+          0.04078345000743866,
+          2.19007670879364
+        ],
+        "uv_bounds": [
+          0.003906227182596922,
+          0.9912187457084656
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_sturgian_boar_spear.lod2": {
+        "tris": 524,
+        "bbox_m": [
+          [
+            -0.09911451488733292,
+            -0.020569633692502975,
+            -0.7101368308067322
+          ],
+          [
+            0.10120710730552673,
+            0.02051873691380024,
+            1.4800420999526978
+          ]
+        ],
+        "dimensions_m": [
+          0.20032162219285965,
+          0.041088370606303215,
+          2.19017893075943
+        ],
+        "uv_bounds": [
+          0.0039062255527824163,
+          0.9953827261924744
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_sturgian_boar_spear": "spear"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear.fbx": "37af36e81a3b9ae4393f59f4b27bbe59996a9a1cd17006e0339901fae9957489",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear.blend": "912ea82a29a2624dad7a62436a3078cda886bb8c4da07f5218f039770615744b",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear_d.png": "357460b27090bf3949894e9aa67b60b8a77e610e00e755eea02e2d94baf9ee46",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear_n.png": "48382c3b9e988267765bb69e4463e56a6a33992e0a22178b6228b70fe436151c",
+      "build/polearms/ce_pl_sturgian_boar_spear/ce_pl_sturgian_boar_spear_s.png": "0f8bc57428ebb463b9a6e4e99aa8723eb4013dfbd494b5a866bd82a450d80a7e",
+      "build/polearms/ce_pl_sturgian_boar_spear/preview.png": "d4f2d373a1ef591efa05e778ac9e092728ecfded7e4c7bf1130832ffd26c9a4c",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/basecolor.png": "056a8cee1a1f0511388646073bfe2203d7edc576a70a2841d32bec723a35f818",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/normal.png": "63d2e3614d59124d1217e4bf96b4feffffc874d74dfdb21f3eb27e0362b233bd",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/metallic.png": "6f257a5ee03aa820afe99acf63bd34bddeda68c6e5adcbee35e63c9ffc711d8a",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/roughness.png": "31a005b27eeb2139ee2eb11d7fc9714f399933725fb5fb3a74f12637812b4e9e",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/ao.png": "c4b834aa377e9a69e8116390dc8eeecd793f240d9618771ecf06906a60dbcdfa",
+      "build/polearms/ce_pl_sturgian_boar_spear/src_maps/height.png": "6840cd9f853f0dc3bec60ed8cde85577bff0a28ac9a95c3648f08ae242f1f801"
+    }
+  },
+  "ce_pl_vlandic_billhook": {
+    "fingerprint": "cc2c2fac9f19834b50ea52afd304949ddb4b589f6438adb226871ca83e747336",
+    "category": "polearms",
+    "files": [
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook.fbx",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook.blend",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook_d.png",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook_n.png",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook_s.png",
+      "build/polearms/ce_pl_vlandic_billhook/preview.png",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/basecolor.png",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/normal.png",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/metallic.png",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/roughness.png",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/ao.png",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_pl_vlandic_billhook": {
+        "tris": 3996,
+        "bbox_m": [
+          [
+            -0.08600004762411118,
+            -0.020996587350964546,
+            -0.7200000286102295
+          ],
+          [
+            0.09099999815225601,
+            0.020996587350964546,
+            1.3600000143051147
+          ]
+        ],
+        "dimensions_m": [
+          0.1770000457763672,
+          0.04199317470192909,
+          2.0800000429153442
+        ],
+        "uv_bounds": [
+          0.0039062201976776123,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_vlandic_billhook.lod1": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.08600004762411118,
+            -0.020996587350964546,
+            -0.7200000286102295
+          ],
+          [
+            0.09100000560283661,
+            0.020996587350964546,
+            1.3600000143051147
+          ]
+        ],
+        "dimensions_m": [
+          0.17700005322694778,
+          0.04199317470192909,
+          2.0800000429153442
+        ],
+        "uv_bounds": [
+          0.0039062337018549442,
+          0.9960412383079529
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_pl_vlandic_billhook.lod2": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.08517327159643173,
+            -0.02039172686636448,
+            -0.7200658917427063
+          ],
+          [
+            0.09100000560283661,
+            0.02039172686636448,
+            1.3600465059280396
+          ]
+        ],
+        "dimensions_m": [
+          0.17617327719926834,
+          0.04078345373272896,
+          2.080112397670746
+        ],
+        "uv_bounds": [
+          0.0039062215946614742,
+          0.9953792095184326
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_pl_vlandic_billhook": "glaive"
+    },
+    "sha256": {
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook.fbx": "41edee0de202b76de1cc7a3130b0c1fa77e050acb34b275539fefa9de2c9e7d7",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook.blend": "2f26f33d47931d11900b96ed670bd3dbd51ae744fcde6ff36d313686939a55ad",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook_d.png": "1e2916f14df63c190c1223d64c3945c72f629cbb72c1af210a7df0415deb3037",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook_n.png": "3e4a5e55394a3b43cd7e9b0f25dadab876028ea479d4b427a323413387c4d953",
+      "build/polearms/ce_pl_vlandic_billhook/ce_pl_vlandic_billhook_s.png": "911e927772da479a28a4ba0b021226fb5d922676642070fe6d5af7012f9084f3",
+      "build/polearms/ce_pl_vlandic_billhook/preview.png": "fcb20b87e9b344e8d2ac1006d4dc9d8ba11cd8758fd24642e8666b2c9e972d8c",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/basecolor.png": "9eb72c6ab3eef086ef231dbe2300d65f54b129cc1623c31f93838fae5045d318",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/normal.png": "2ce1947fd610d4332428931d74561b786187d1abb5f4f884fe808c3173608dca",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/metallic.png": "c3a492f03012355311a2dcc40ee78fc2d68be4d8b05fa7a1e4810830692781a2",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/roughness.png": "630f97b59bed2269032ad73297ef2a8a93d72f1c321a275e6a95e39a1d1fbdda",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/ao.png": "e91c848ef230a140c7d359b194d363c256488492edd440df885a77b076ff7351",
+      "build/polearms/ce_pl_vlandic_billhook/src_maps/height.png": "610a382101faa5f43a09cf4b813dbbb1f5a92eca8746d621a276cf2b367f4fa4"
+    }
+  },
   "ce_sw_aserai_saif": {
     "fingerprint": "b376b117a3f5dcad384c54b322c40b5928f842dd105ba892f181a7d290dad63e",
     "category": "one_handed_swords",
