@@ -1,0 +1,1594 @@
+{
+  "assets": [
+    {
+      "id": "ce_sw_imperial_spatha",
+      "name": "Imperial Spatha",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Empire",
+      "tier": 4,
+      "description": "Straight double-edged officer's spatha, bronze eagle-head pommel.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_vlandic_arming",
+      "name": "Vlandic Arming",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Vlandia",
+      "tier": 4,
+      "description": "Knightly arming sword, wide straight crossguard, wheel pommel.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_sturgian_broadblade",
+      "name": "Sturgian Broadblade",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Sturgia",
+      "tier": 4,
+      "description": "Broad blade with a wide fuller, lobed pommel, knotwork guard.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_battanian_leaf",
+      "name": "Battanian Leaf",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Battania",
+      "tier": 3,
+      "description": "Leaf-shaped blade, bronze hilt with spiral terminals.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_khuzait_sabre",
+      "name": "Khuzait Sabre",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Khuzait",
+      "tier": 4,
+      "description": "Long curved cavalry sabre, ring pommel, tassel.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_aserai_saif",
+      "name": "Aserai Saif",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Aserai",
+      "tier": 5,
+      "description": "Gently curved saif, gold-inlaid hooked pommel.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_nord_langseax",
+      "name": "Nord Langseax",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Nord",
+      "tier": 3,
+      "description": "Long single-edged seax, broken-back tip, bone grip.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sw_relic_dawnbrand",
+      "name": "Relic Dawnbrand",
+      "category": "one_handed_swords",
+      "type": "one_handed_sword",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Pale steel straight sword etched in gold, sunburst guard.",
+      "group": "A"
+    },
+    {
+      "id": "ce_2h_vlandic_greatsword",
+      "name": "Vlandic Greatsword",
+      "category": "two_handed_swords",
+      "type": "two_handed_sword",
+      "culture": "Vlandia",
+      "tier": 5,
+      "description": "Long greatsword with ricasso and side lugs.",
+      "group": "A"
+    },
+    {
+      "id": "ce_2h_imperial_rhomphaia",
+      "name": "Imperial Rhomphaia",
+      "category": "two_handed_swords",
+      "type": "two_handed_sword",
+      "culture": "Empire",
+      "tier": 5,
+      "description": "Long-hilted, slightly forward-curved two-hander.",
+      "group": "A"
+    },
+    {
+      "id": "ce_2h_battanian_claymore",
+      "name": "Battanian Claymore",
+      "category": "two_handed_swords",
+      "type": "two_handed_sword",
+      "culture": "Battania",
+      "tier": 5,
+      "description": "Broad claymore, down-sloped guard with quatrefoil ends.",
+      "group": "A"
+    },
+    {
+      "id": "ce_2h_relic_nightfall",
+      "name": "Relic Nightfall",
+      "category": "two_handed_swords",
+      "type": "two_handed_sword",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Blackened blade with a silver edge, crescent guard.",
+      "group": "A"
+    },
+    {
+      "id": "ce_ax_sturgian_bearded",
+      "name": "Sturgian Bearded",
+      "category": "axes",
+      "type": "one_handed_axe",
+      "culture": "Sturgia",
+      "tier": 3,
+      "description": "One-handed bearded axe, carved ash haft.",
+      "group": "A"
+    },
+    {
+      "id": "ce_ax_nord_dane",
+      "name": "Nord Dane",
+      "category": "axes",
+      "type": "two_handed_axe",
+      "culture": "Nord",
+      "tier": 5,
+      "description": "Two-handed Dane axe, thin wide blade, long haft.",
+      "group": "A"
+    },
+    {
+      "id": "ce_ax_battanian_war",
+      "name": "Battanian War",
+      "category": "axes",
+      "type": "one_handed_axe",
+      "culture": "Battania",
+      "tier": 3,
+      "description": "One-handed war axe with a bronze-banded haft.",
+      "group": "A"
+    },
+    {
+      "id": "ce_ax_aserai_tabar",
+      "name": "Aserai Tabar",
+      "category": "axes",
+      "type": "one_handed_axe",
+      "culture": "Aserai",
+      "tier": 4,
+      "description": "One-handed crescent axe, brass-inlaid head.",
+      "group": "A"
+    },
+    {
+      "id": "ce_ax_khuzait_horseman",
+      "name": "Khuzait Horseman",
+      "category": "axes",
+      "type": "one_handed_axe",
+      "culture": "Khuzait",
+      "tier": 3,
+      "description": "Light horseman's axe with a hammer poll.",
+      "group": "A"
+    },
+    {
+      "id": "ce_ax_relic_stormcleaver",
+      "name": "Relic Stormcleaver",
+      "category": "axes",
+      "type": "two_handed_axe",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Two-handed double-bitted axe, engraved storm-cloud pattern.",
+      "group": "A"
+    },
+    {
+      "id": "ce_mc_imperial_flanged",
+      "name": "Imperial Flanged",
+      "category": "maces_hammers",
+      "type": "one_handed_mace",
+      "culture": "Empire",
+      "tier": 4,
+      "description": "Six-flanged steel mace.",
+      "group": "A"
+    },
+    {
+      "id": "ce_mc_khuzait_gurz",
+      "name": "Khuzait Gurz",
+      "category": "maces_hammers",
+      "type": "one_handed_mace",
+      "culture": "Khuzait",
+      "tier": 4,
+      "description": "Pear-shaped knobbed mace, leather wrist loop.",
+      "group": "A"
+    },
+    {
+      "id": "ce_mc_vlandic_warhammer",
+      "name": "Vlandic Warhammer",
+      "category": "maces_hammers",
+      "type": "one_handed_mace",
+      "culture": "Vlandia",
+      "tier": 4,
+      "description": "One-handed hammer with a back spike.",
+      "group": "A"
+    },
+    {
+      "id": "ce_mc_sturgian_maul",
+      "name": "Sturgian Maul",
+      "category": "maces_hammers",
+      "type": "maul",
+      "culture": "Sturgia",
+      "tier": 4,
+      "description": "Two-handed iron-bound maul.",
+      "group": "A"
+    },
+    {
+      "id": "ce_mc_aserai_knobbed",
+      "name": "Aserai Knobbed",
+      "category": "maces_hammers",
+      "type": "one_handed_mace",
+      "culture": "Aserai",
+      "tier": 3,
+      "description": "Brass-studded round-headed mace.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_imperial_kontarion",
+      "name": "Imperial Kontarion",
+      "category": "polearms",
+      "type": "spear",
+      "culture": "Empire",
+      "tier": 5,
+      "description": "Long cavalry lance with a small pennon.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_vlandic_billhook",
+      "name": "Vlandic Billhook",
+      "category": "polearms",
+      "type": "glaive",
+      "culture": "Vlandia",
+      "tier": 4,
+      "description": "Bill with hook and top spike.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_sturgian_boar_spear",
+      "name": "Sturgian Boar Spear",
+      "category": "polearms",
+      "type": "spear",
+      "culture": "Sturgia",
+      "tier": 3,
+      "description": "Winged boar spear.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_battanian_long_spear",
+      "name": "Battanian Long Spear",
+      "category": "polearms",
+      "type": "spear",
+      "culture": "Battania",
+      "tier": 3,
+      "description": "Long leaf-headed spear, hide binding.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_khuzait_glaive",
+      "name": "Khuzait Glaive",
+      "category": "polearms",
+      "type": "glaive",
+      "culture": "Khuzait",
+      "tier": 5,
+      "description": "Curved-blade glaive with horsehair tuft.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_aserai_rumh",
+      "name": "Aserai Rumh",
+      "category": "polearms",
+      "type": "spear",
+      "culture": "Aserai",
+      "tier": 4,
+      "description": "Long slender lance, segmented cane shaft.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_nord_atgeir",
+      "name": "Nord Atgeir",
+      "category": "polearms",
+      "type": "glaive",
+      "culture": "Nord",
+      "tier": 4,
+      "description": "Heavy cut-and-thrust atgeir.",
+      "group": "A"
+    },
+    {
+      "id": "ce_pl_relic_sunspear",
+      "name": "Relic Sunspear",
+      "category": "polearms",
+      "type": "spear",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Spear with a flame-shaped gilded head.",
+      "group": "A"
+    },
+    {
+      "id": "ce_dg_aserai_jambiya",
+      "name": "Aserai Jambiya",
+      "category": "daggers",
+      "type": "dagger",
+      "culture": "Aserai",
+      "tier": 3,
+      "description": "Curved jambiya, horn hilt.",
+      "group": "A"
+    },
+    {
+      "id": "ce_dg_vlandic_rondel",
+      "name": "Vlandic Rondel",
+      "category": "daggers",
+      "type": "dagger",
+      "culture": "Vlandia",
+      "tier": 3,
+      "description": "Rondel dagger with disc guard and pommel.",
+      "group": "A"
+    },
+    {
+      "id": "ce_dg_nord_scramasax",
+      "name": "Nord Scramasax",
+      "category": "daggers",
+      "type": "dagger",
+      "culture": "Nord",
+      "tier": 2,
+      "description": "Short seax in a tooled sheath (blade and sheath separate objects).",
+      "group": "A"
+    },
+    {
+      "id": "ce_th_sturgian_francisca",
+      "name": "Sturgian Francisca",
+      "category": "thrown",
+      "type": "throwing_axe",
+      "culture": "Sturgia",
+      "tier": 3,
+      "description": "Throwing axe with an upswept head.",
+      "group": "A"
+    },
+    {
+      "id": "ce_th_aserai_jarid",
+      "name": "Aserai Jarid",
+      "category": "thrown",
+      "type": "javelin",
+      "culture": "Aserai",
+      "tier": 3,
+      "description": "Light javelin with a narrow head.",
+      "group": "A"
+    },
+    {
+      "id": "ce_th_imperial_pilum",
+      "name": "Imperial Pilum",
+      "category": "thrown",
+      "type": "javelin",
+      "culture": "Empire",
+      "tier": 4,
+      "description": "Heavy javelin with a long iron shank.",
+      "group": "A"
+    },
+    {
+      "id": "ce_th_battanian_dart",
+      "name": "Battanian Dart",
+      "category": "thrown",
+      "type": "javelin",
+      "culture": "Battania",
+      "tier": 2,
+      "description": "Short weighted war dart with fletching.",
+      "group": "A"
+    },
+    {
+      "id": "ce_am_bodkin_arrows",
+      "name": "Bodkin Arrows",
+      "category": "ammunition",
+      "type": "arrow",
+      "culture": "neutral",
+      "tier": 4,
+      "description": "Narrow armour-piercing heads, plain leather quiver.",
+      "group": "A"
+    },
+    {
+      "id": "ce_am_broadhead_arrows",
+      "name": "Broadhead Arrows",
+      "category": "ammunition",
+      "type": "arrow",
+      "culture": "neutral",
+      "tier": 3,
+      "description": "Wide hunting heads, hide quiver.",
+      "group": "A"
+    },
+    {
+      "id": "ce_am_khuzait_whistling_arrows",
+      "name": "Khuzait Whistling Arrows",
+      "category": "ammunition",
+      "type": "arrow",
+      "culture": "Khuzait",
+      "tier": 4,
+      "description": "Bulbous whistling heads, teal-trimmed quiver.",
+      "group": "A"
+    },
+    {
+      "id": "ce_am_steel_bolts",
+      "name": "Steel Bolts",
+      "category": "ammunition",
+      "type": "bolt",
+      "culture": "neutral",
+      "tier": 4,
+      "description": "Short steel-headed bolts, boxy belt quiver.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_imperial_oval",
+      "name": "Imperial Oval",
+      "category": "shields",
+      "type": "oval_shield",
+      "culture": "Empire",
+      "tier": 4,
+      "description": "Large oval, bronze boss, painted laurel.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_vlandic_heater",
+      "name": "Vlandic Heater",
+      "category": "shields",
+      "type": "heater",
+      "culture": "Vlandia",
+      "tier": 4,
+      "description": "Heater shield with a simple chevron.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_vlandic_pavise",
+      "name": "Vlandic Pavise",
+      "category": "shields",
+      "type": "pavise",
+      "culture": "Vlandia",
+      "tier": 4,
+      "description": "Tall pavise with a central ridge.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_sturgian_ironbound",
+      "name": "Sturgian Ironbound",
+      "category": "shields",
+      "type": "round_shield",
+      "culture": "Sturgia",
+      "tier": 4,
+      "description": "Round, iron rim and cross-bands.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_nord_painted_round",
+      "name": "Nord Painted Round",
+      "category": "shields",
+      "type": "round_shield",
+      "culture": "Nord",
+      "tier": 3,
+      "description": "Planked round shield, quartered paint, iron boss.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_battanian_hide_oval",
+      "name": "Battanian Hide Oval",
+      "category": "shields",
+      "type": "oval_shield",
+      "culture": "Battania",
+      "tier": 2,
+      "description": "Long oval covered in hide, bronze spine.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_khuzait_wicker",
+      "name": "Khuzait Wicker",
+      "category": "shields",
+      "type": "round_shield",
+      "culture": "Khuzait",
+      "tier": 3,
+      "description": "Spiral wicker round shield with a steel boss.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_aserai_daraqa",
+      "name": "Aserai Daraqa",
+      "category": "shields",
+      "type": "round_shield",
+      "culture": "Aserai",
+      "tier": 3,
+      "description": "Round leather shield with four brass bosses.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_merc_buckler",
+      "name": "Merc Buckler",
+      "category": "shields",
+      "type": "buckler",
+      "culture": "neutral",
+      "tier": 3,
+      "description": "Small steel buckler.",
+      "group": "A"
+    },
+    {
+      "id": "ce_sh_relic_aegis",
+      "name": "Relic Aegis",
+      "category": "shields",
+      "type": "round_shield",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Bronze-faced round shield with a radiating engraved pattern.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_incense",
+      "name": "Incense",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "resin lumps in an open brass-bound box.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_dyes",
+      "name": "Dyes",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "three stoppered clay jars with coloured stains.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_glassware",
+      "name": "Glassware",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "straw-packed crate of green glass bottles and cups.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_honey",
+      "name": "Honey",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "sealed clay honey pots with a wooden dipper.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_mead",
+      "name": "Mead",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "small iron-hooped keg with a carved bung.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_amber",
+      "name": "Amber",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "open pouch of rough amber pieces.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_carpets",
+      "name": "Carpets",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "two rolled patterned carpets tied with cord.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_parchment",
+      "name": "Parchment",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "bundle of scrolls and a stack of cut sheets.",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_pearls",
+      "name": "Pearls",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "shallow shell-inlaid casket of pearls (naval).",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_stockfish",
+      "name": "Stockfish",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "bundle of dried split fish on a cord (naval).",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_pitch",
+      "name": "Pitch",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "tarred barrel with a ladle (naval).",
+      "group": "A"
+    },
+    {
+      "id": "ce_tg_sailcloth",
+      "name": "Sailcloth",
+      "category": "trade_goods",
+      "type": "trade_good",
+      "culture": "neutral",
+      "tier": null,
+      "description": "heavy folded bolt of canvas with rope (naval).",
+      "group": "A"
+    },
+    {
+      "id": "ce_hm_imperial_ridge",
+      "name": "Imperial Ridge",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Empire",
+      "tier": null,
+      "description": "ridge helm with mail aventail",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_imperial_officer",
+      "name": "Imperial Officer",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Empire",
+      "tier": null,
+      "description": "plumed officer's helm",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_vlandic_great",
+      "name": "Vlandic Great",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "flat-topped great helm",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_vlandic_kettle",
+      "name": "Vlandic Kettle",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "kettle hat over mail coif",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_sturgian_conical",
+      "name": "Sturgian Conical",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "conical nasal helm with mail",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_sturgian_masked",
+      "name": "Sturgian Masked",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "helm with half-face plate",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_nord_crested",
+      "name": "Nord Crested",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Nord",
+      "tier": null,
+      "description": "crested helm with eye guards",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_nord_fur_cap",
+      "name": "Nord Fur Cap",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Nord",
+      "tier": null,
+      "description": "iron cap with fur trim",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_battanian_bronze",
+      "name": "Battanian Bronze",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Battania",
+      "tier": null,
+      "description": "bronze helm with cheek plates and a boar crest",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_battanian_leather",
+      "name": "Battanian Leather",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Battania",
+      "tier": null,
+      "description": "hardened leather cap with bronze bands",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_khuzait_lamellar",
+      "name": "Khuzait Lamellar",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "lamellar helm with horsehair plume",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_khuzait_fur_steel",
+      "name": "Khuzait Fur Steel",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "fur-trimmed steel cap with neck flap",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_aserai_turban",
+      "name": "Aserai Turban",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "turban-wrapped helm with mail veil",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_aserai_pointed",
+      "name": "Aserai Pointed",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "pointed helm with sliding nasal",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_relic_crowned",
+      "name": "Relic Crowned",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "helm with an integrated crown band",
+      "group": "B"
+    },
+    {
+      "id": "ce_hm_relic_wolf",
+      "name": "Relic Wolf",
+      "category": "helmets",
+      "type": "helmet",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "helm shaped as a stylised wolf's head",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_imperial_lamellar",
+      "name": "Imperial Lamellar",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Lamellar",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_imperial_scale_cloak",
+      "name": "Imperial Scale Cloak",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Scale Cloak",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_vlandic_coat_of_plates",
+      "name": "Vlandic Coat Of Plates",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Coat Of Plates",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_vlandic_surcoat_mail",
+      "name": "Vlandic Surcoat Mail",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Surcoat Mail",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_sturgian_mail_fur",
+      "name": "Sturgian Mail Fur",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "Sturgian Mail Fur",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_sturgian_scale",
+      "name": "Sturgian Scale",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "Sturgian Scale",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_nord_ringmail_tunic",
+      "name": "Nord Ringmail Tunic",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Nord",
+      "tier": null,
+      "description": "Nord Ringmail Tunic",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_battanian_bronze_cuirass",
+      "name": "Battanian Bronze Cuirass",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Battania",
+      "tier": null,
+      "description": "Battanian Bronze Cuirass",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_battanian_plaid_leather",
+      "name": "Battanian Plaid Leather",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Battania",
+      "tier": null,
+      "description": "Battanian Plaid Leather",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_khuzait_lamellar_coat",
+      "name": "Khuzait Lamellar Coat",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Lamellar Coat",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_khuzait_padded_deel",
+      "name": "Khuzait Padded Deel",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Padded Deel",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_aserai_mail_robe",
+      "name": "Aserai Mail Robe",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Mail Robe",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_aserai_mirror_plate",
+      "name": "Aserai Mirror Plate",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Mirror Plate",
+      "group": "B"
+    },
+    {
+      "id": "ce_ba_relic_warden_plate",
+      "name": "Relic Warden Plate",
+      "category": "body_armour",
+      "type": "body_armour",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Relic Warden Plate",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_imperial_pteruges",
+      "name": "Imperial Pteruges",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Pteruges",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_vlandic_spaulders",
+      "name": "Vlandic Spaulders",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Spaulders",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_sturgian_fur_mantle",
+      "name": "Sturgian Fur Mantle",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "Sturgian Fur Mantle",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_nord_wolf_pelt",
+      "name": "Nord Wolf Pelt",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Nord",
+      "tier": null,
+      "description": "Nord Wolf Pelt",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_battanian_plaid_cloak",
+      "name": "Battanian Plaid Cloak",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Battania",
+      "tier": null,
+      "description": "Battanian Plaid Cloak",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_khuzait_lamellar_shoulders",
+      "name": "Khuzait Lamellar Shoulders",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Lamellar Shoulders",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_aserai_desert_cloak",
+      "name": "Aserai Desert Cloak",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Desert Cloak",
+      "group": "B"
+    },
+    {
+      "id": "ce_sp_relic_warden_pauldrons",
+      "name": "Relic Warden Pauldrons",
+      "category": "shoulders_capes",
+      "type": "shoulders",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Relic Warden Pauldrons",
+      "group": "B"
+    },
+    {
+      "id": "ce_gl_imperial_bracers",
+      "name": "Imperial Bracers",
+      "category": "gloves",
+      "type": "gloves",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Bracers",
+      "group": "B"
+    },
+    {
+      "id": "ce_gl_vlandic_gauntlets",
+      "name": "Vlandic Gauntlets",
+      "category": "gloves",
+      "type": "gloves",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Gauntlets",
+      "group": "B"
+    },
+    {
+      "id": "ce_gl_sturgian_mail_mitts",
+      "name": "Sturgian Mail Mitts",
+      "category": "gloves",
+      "type": "gloves",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "Sturgian Mail Mitts",
+      "group": "B"
+    },
+    {
+      "id": "ce_gl_khuzait_archer_bracer",
+      "name": "Khuzait Archer Bracer",
+      "category": "gloves",
+      "type": "gloves",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Archer Bracer",
+      "group": "B"
+    },
+    {
+      "id": "ce_gl_aserai_brass_vambraces",
+      "name": "Aserai Brass Vambraces",
+      "category": "gloves",
+      "type": "gloves",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Brass Vambraces",
+      "group": "B"
+    },
+    {
+      "id": "ce_gl_relic_warden_gauntlets",
+      "name": "Relic Warden Gauntlets",
+      "category": "gloves",
+      "type": "gloves",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Relic Warden Gauntlets",
+      "group": "B"
+    },
+    {
+      "id": "ce_bt_imperial_greaves",
+      "name": "Imperial Greaves",
+      "category": "boots",
+      "type": "boots",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Greaves",
+      "group": "B"
+    },
+    {
+      "id": "ce_bt_vlandic_sabatons",
+      "name": "Vlandic Sabatons",
+      "category": "boots",
+      "type": "boots",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Sabatons",
+      "group": "B"
+    },
+    {
+      "id": "ce_bt_sturgian_fur_boots",
+      "name": "Sturgian Fur Boots",
+      "category": "boots",
+      "type": "boots",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "Sturgian Fur Boots",
+      "group": "B"
+    },
+    {
+      "id": "ce_bt_khuzait_riding_boots",
+      "name": "Khuzait Riding Boots",
+      "category": "boots",
+      "type": "boots",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Riding Boots",
+      "group": "B"
+    },
+    {
+      "id": "ce_bt_aserai_wrapped_boots",
+      "name": "Aserai Wrapped Boots",
+      "category": "boots",
+      "type": "boots",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Wrapped Boots",
+      "group": "B"
+    },
+    {
+      "id": "ce_bt_relic_warden_greaves",
+      "name": "Relic Warden Greaves",
+      "category": "boots",
+      "type": "boots",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Relic Warden Greaves",
+      "group": "B"
+    },
+    {
+      "id": "ce_hh_imperial_cataphract",
+      "name": "Imperial Cataphract",
+      "category": "horse_harness",
+      "type": "horse_harness",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Cataphract",
+      "group": "B"
+    },
+    {
+      "id": "ce_hh_vlandic_caparison",
+      "name": "Vlandic Caparison",
+      "category": "horse_harness",
+      "type": "horse_harness",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Caparison",
+      "group": "B"
+    },
+    {
+      "id": "ce_hh_sturgian_mail_barding",
+      "name": "Sturgian Mail Barding",
+      "category": "horse_harness",
+      "type": "horse_harness",
+      "culture": "Sturgia",
+      "tier": null,
+      "description": "Sturgian Mail Barding",
+      "group": "B"
+    },
+    {
+      "id": "ce_hh_khuzait_lamellar_barding",
+      "name": "Khuzait Lamellar Barding",
+      "category": "horse_harness",
+      "type": "horse_harness",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Lamellar Barding",
+      "group": "B"
+    },
+    {
+      "id": "ce_hh_aserai_tasselled",
+      "name": "Aserai Tasselled",
+      "category": "horse_harness",
+      "type": "horse_harness",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Tasselled",
+      "group": "B"
+    },
+    {
+      "id": "ce_hh_relic_warden_barding",
+      "name": "Relic Warden Barding",
+      "category": "horse_harness",
+      "type": "horse_harness",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Relic Warden Barding",
+      "group": "B"
+    },
+    {
+      "id": "ce_bw_khuzait_composite",
+      "name": "Khuzait Composite",
+      "category": "bows_crossbows",
+      "type": "bow",
+      "culture": "Khuzait",
+      "tier": null,
+      "description": "Khuzait Composite",
+      "group": "B"
+    },
+    {
+      "id": "ce_bw_battanian_longbow",
+      "name": "Battanian Longbow",
+      "category": "bows_crossbows",
+      "type": "bow",
+      "culture": "Battania",
+      "tier": null,
+      "description": "Battanian Longbow",
+      "group": "B"
+    },
+    {
+      "id": "ce_bw_aserai_recurve",
+      "name": "Aserai Recurve",
+      "category": "bows_crossbows",
+      "type": "bow",
+      "culture": "Aserai",
+      "tier": null,
+      "description": "Aserai Recurve",
+      "group": "B"
+    },
+    {
+      "id": "ce_bw_relic_whisperwind",
+      "name": "Relic Whisperwind",
+      "category": "bows_crossbows",
+      "type": "bow",
+      "culture": "Relic",
+      "tier": 6,
+      "description": "Relic Whisperwind",
+      "group": "B"
+    },
+    {
+      "id": "ce_xb_vlandic_arbalest",
+      "name": "Vlandic Arbalest",
+      "category": "bows_crossbows",
+      "type": "crossbow",
+      "culture": "Vlandia",
+      "tier": null,
+      "description": "Vlandic Arbalest",
+      "group": "B"
+    },
+    {
+      "id": "ce_xb_imperial_light",
+      "name": "Imperial Light",
+      "category": "bows_crossbows",
+      "type": "crossbow",
+      "culture": "Empire",
+      "tier": null,
+      "description": "Imperial Light",
+      "group": "B"
+    },
+    {
+      "id": "ce_ui_sort",
+      "name": "Sort",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white sort icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_filter",
+      "name": "Filter",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white filter icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_compare",
+      "name": "Compare",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white compare icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_sell_junk",
+      "name": "Sell Junk",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white sell junk icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_lock",
+      "name": "Lock",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white lock icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_unlock",
+      "name": "Unlock",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white unlock icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_value_per_weight",
+      "name": "Value Per Weight",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white value per weight icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_upgrade_all",
+      "name": "Upgrade All",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white upgrade all icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_recruit_prisoners",
+      "name": "Recruit Prisoners",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white recruit prisoners icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_transfer_all",
+      "name": "Transfer All",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white transfer all icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_troop_sort",
+      "name": "Troop Sort",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white troop sort icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_food_days",
+      "name": "Food Days",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white food days icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_wage_days",
+      "name": "Wage Days",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white wage days icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_production",
+      "name": "Production",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white production icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_price_up",
+      "name": "Price Up",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white price up icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_price_down",
+      "name": "Price Down",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white price down icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_ledger",
+      "name": "Ledger",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white ledger icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_route",
+      "name": "Route",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white route icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_friend_marker",
+      "name": "Friend Marker",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white friend marker icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_ping",
+      "name": "Ping",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white ping icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_party_status",
+      "name": "Party Status",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white party status icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_ship",
+      "name": "Ship",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white ship icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_workshop",
+      "name": "Workshop",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white workshop icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_ui_settings",
+      "name": "Settings",
+      "category": "icons",
+      "type": "icon",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Rounded white settings icon",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_logo",
+      "name": "Coop Expanded",
+      "category": "branding",
+      "type": "logo",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Coop Expanded heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_repo_banner",
+      "name": "Coop Expanded repository banner",
+      "category": "branding",
+      "type": "repo_banner",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Coop Expanded repository banner heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_core",
+      "name": "Core",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Core heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_armory",
+      "name": "Armory",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Armory heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_troops",
+      "name": "Troops",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Troops heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_factions",
+      "name": "Factions",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Factions heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_trade",
+      "name": "Trade",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "Trade heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_qol",
+      "name": "QoL",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "QoL heraldic artwork",
+      "group": "UI"
+    },
+    {
+      "id": "ce_brand_coophud",
+      "name": "CoopHUD",
+      "category": "branding",
+      "type": "thumbnail",
+      "culture": "neutral",
+      "tier": null,
+      "description": "CoopHUD heraldic artwork",
+      "group": "UI"
+    }
+  ]
+}

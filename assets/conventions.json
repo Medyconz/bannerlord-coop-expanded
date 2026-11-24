@@ -1,0 +1,389 @@
+{
+  "units": {
+    "system": "METRIC",
+    "meters_per_unit": 1
+  },
+  "orientation": {
+    "up": "+Z",
+    "weapon_tip": "+Z",
+    "single_edge": "+X",
+    "shield_face": "-Y"
+  },
+  "origins": {
+    "weapons": "grip_center",
+    "shields": "grip_center",
+    "trade_goods": "base_center"
+  },
+  "lods": [
+    {
+      "suffix": "",
+      "ratio": 1
+    },
+    {
+      "suffix": ".lod1",
+      "ratio": 0.5
+    },
+    {
+      "suffix": ".lod2",
+      "ratio": 0.25
+    }
+  ],
+  "texture": {
+    "rigid_size": 1024,
+    "fitted_size": 2048,
+    "uv_padding_at_1024": 4,
+    "normal_green_flip": false,
+    "diffuse_space": "sRGB",
+    "data_space": "Non-Color",
+    "packing": [
+      "metallic",
+      "1-roughness",
+      "ao"
+    ]
+  },
+  "fbx": {
+    "global_scale": 1,
+    "axis_forward": "-Y",
+    "axis_up": "Z",
+    "apply_unit_scale": true,
+    "apply_scale_options": "FBX_SCALE_NONE",
+    "object_types": [
+      "MESH"
+    ],
+    "use_triangles": true,
+    "use_tspace": true,
+    "add_leaf_bones": false,
+    "bake_anim": false,
+    "path_mode": "RELATIVE",
+    "version": 7400
+  },
+  "limits": {
+    "one_handed_sword": {
+      "triangles": [
+        2000,
+        4000
+      ],
+      "size_m": [
+        0.9,
+        1.05
+      ]
+    },
+    "two_handed_sword": {
+      "triangles": [
+        3000,
+        5000
+      ],
+      "size_m": [
+        1.25,
+        1.5
+      ]
+    },
+    "one_handed_axe": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        0.65,
+        0.85
+      ]
+    },
+    "two_handed_axe": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        1.2,
+        1.5
+      ]
+    },
+    "one_handed_mace": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        0.6,
+        0.85
+      ]
+    },
+    "maul": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        1.2,
+        1.4
+      ]
+    },
+    "spear": {
+      "triangles": [
+        1500,
+        3000
+      ],
+      "size_m": [
+        2,
+        3.4
+      ]
+    },
+    "glaive": {
+      "triangles": [
+        2000,
+        4000
+      ],
+      "size_m": [
+        1.9,
+        2.4
+      ]
+    },
+    "dagger": {
+      "triangles": [
+        1200,
+        2500
+      ],
+      "size_m": [
+        0.35,
+        0.5
+      ]
+    },
+    "javelin": {
+      "triangles": [
+        800,
+        2000
+      ],
+      "size_m": [
+        1.1,
+        1.5
+      ]
+    },
+    "throwing_axe": {
+      "triangles": [
+        800,
+        2000
+      ],
+      "size_m": [
+        0.4,
+        0.5
+      ]
+    },
+    "arrow": {
+      "triangles": [
+        200,
+        500
+      ],
+      "size_m": [
+        0.85,
+        0.95
+      ]
+    },
+    "bolt": {
+      "triangles": [
+        200,
+        500
+      ],
+      "size_m": [
+        0.4,
+        0.45
+      ]
+    },
+    "quiver": {
+      "triangles": [
+        2000,
+        4000
+      ],
+      "size_m": [
+        0.55,
+        0.7
+      ]
+    },
+    "round_shield": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        0.75,
+        0.95
+      ]
+    },
+    "buckler": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        0.34,
+        0.36
+      ]
+    },
+    "heater": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        0.88,
+        0.92
+      ]
+    },
+    "pavise": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        1.27,
+        1.33
+      ]
+    },
+    "oval_shield": {
+      "triangles": [
+        1500,
+        4000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "trade_good": {
+      "triangles": [
+        800,
+        3000
+      ],
+      "size_m": [
+        0,
+        0.5
+      ]
+    },
+    "sheath": {
+      "triangles": [
+        0,
+        2500
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "helmet": {
+      "triangles": [
+        5000,
+        9000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "body_armour": {
+      "triangles": [
+        12000,
+        20000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "shoulders": {
+      "triangles": [
+        3000,
+        8000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "gloves": {
+      "triangles": [
+        3000,
+        8000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "boots": {
+      "triangles": [
+        3000,
+        8000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "horse_harness": {
+      "triangles": [
+        8000,
+        15000
+      ],
+      "size_m": [
+        null,
+        null
+      ]
+    },
+    "bow": {
+      "triangles": [
+        2500,
+        5000
+      ],
+      "size_m": [
+        1.1,
+        1.8
+      ]
+    },
+    "crossbow": {
+      "triangles": [
+        2500,
+        5000
+      ],
+      "size_m": [
+        0.75,
+        0.95
+      ]
+    }
+  },
+  "width_m": {
+    "heater": [
+      0.58,
+      0.62
+    ],
+    "pavise": [
+      0.68,
+      0.72
+    ]
+  },
+  "grip_length_m": {
+    "one_handed_sword": [
+      0.1,
+      0.12
+    ],
+    "two_handed_sword": [
+      0.25,
+      0.35
+    ]
+  },
+  "reference_files": {
+    "human": [
+      "human_skeleton.fbx",
+      "body_male.fbx",
+      "body_female.fbx"
+    ],
+    "horse_harness": [
+      "horse_skeleton.fbx",
+      "horse_body.fbx"
+    ],
+    "bow": [
+      "bow_skeleton.fbx"
+    ],
+    "crossbow": [
+      "crossbow_skeleton.fbx"
+    ]
+  }
+}

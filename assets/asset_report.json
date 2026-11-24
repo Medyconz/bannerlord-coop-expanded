@@ -1,0 +1,338 @@
+{
+  "ce_ui_compare": {
+    "fingerprint": "c03322fc03ab223526e5365096ab559c98a9bc80f30f7044250499f275ab9e95",
+    "category": "icons",
+    "files": [
+      "ui/icons/compare_128.png",
+      "ui/icons/compare_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/compare_128.png": "88e344171237090a5338b0c7b26e25d5fef6c118605064596d0a873e195baa52",
+      "ui/icons/compare_64.png": "0cf781a396036ba7d9020186cae2dce53f5596d5260afc8d50beb1359d206ae3"
+    }
+  },
+  "ce_ui_filter": {
+    "fingerprint": "57d4bd3006a4aee06a316af33b8c5159f6face828faaad88b1357a8e42d1c83d",
+    "category": "icons",
+    "files": [
+      "ui/icons/filter_128.png",
+      "ui/icons/filter_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/filter_128.png": "bf4c4853dfc09121e7a73c89e7c4ab570b648e8559b4cbf4a409fe6ea322f27f",
+      "ui/icons/filter_64.png": "7a1d5993c032ba9b74c52795a7d8efb845b139799cc85654cfc25fd05a789598"
+    }
+  },
+  "ce_ui_food_days": {
+    "fingerprint": "6a097a6b0af3da3aa3ac11fe82a29ca8ca2c5e1b48be8705398deae8ae761b26",
+    "category": "icons",
+    "files": [
+      "ui/icons/food_days_128.png",
+      "ui/icons/food_days_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/food_days_128.png": "5f4ac3f3884f36008c604ddffe8700a0bfe74d746c2312f21e24fdfe8e8979a7",
+      "ui/icons/food_days_64.png": "957d05fe212c5fbb225bd60996045cd8594b03f70aba1fb939c14dd1a54003be"
+    }
+  },
+  "ce_ui_friend_marker": {
+    "fingerprint": "7ac514696cef085b86798516b5c124e20c6016c0b93c441bb2f76a0850ff503a",
+    "category": "icons",
+    "files": [
+      "ui/icons/friend_marker_128.png",
+      "ui/icons/friend_marker_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/friend_marker_128.png": "2a6063e022d3bb2a817c9a9bb3509ae9d1b273f4815ca72fe9d94282033bee98",
+      "ui/icons/friend_marker_64.png": "942157fc124644b4b90e3690b57b533e49db63f7ef657dec3b8d49d4dc76023c"
+    }
+  },
+  "ce_ui_ledger": {
+    "fingerprint": "4e5466454271b47ec867427fa6c91d6362999722c5f53405a9f311f5bd2a7cea",
+    "category": "icons",
+    "files": [
+      "ui/icons/ledger_128.png",
+      "ui/icons/ledger_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/ledger_128.png": "4e7377678dca42a4b2a80034aaa2420d0ce9ae60048416dfe0a2a1bcbf02f45d",
+      "ui/icons/ledger_64.png": "77a8d2d73d2a37f2105c56690b3ec0687b4a379237a4696d73c3c08f1147313c"
+    }
+  },
+  "ce_ui_lock": {
+    "fingerprint": "ec9dac326438ea2dc3c95fbaba055addb719812c28c14320eaecab832d4319e9",
+    "category": "icons",
+    "files": [
+      "ui/icons/lock_128.png",
+      "ui/icons/lock_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/lock_128.png": "95ecb8fe7cc3750ceec28af31ea26ab704af7a34bc9ff584c87485ac7219bc46",
+      "ui/icons/lock_64.png": "ecf23827338cf2a0d0c0151ab6d892cf925a341c278342c1cbf46ee0dd9ef7f9"
+    }
+  },
+  "ce_ui_party_status": {
+    "fingerprint": "cdede57f65a4b5b7524be5c5dd3fbb9ba0edf3a766edfb964f418465ac1b50d5",
+    "category": "icons",
+    "files": [
+      "ui/icons/party_status_128.png",
+      "ui/icons/party_status_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/party_status_128.png": "a864eb40353c0e21b6a3d2a70a8a61f01caa2f53a87df924c11737769c04bd62",
+      "ui/icons/party_status_64.png": "173ac738168089d3a9873acf62f92f48b753b2ddceb6e53cc625f16ee98c6b9f"
+    }
+  },
+  "ce_ui_ping": {
+    "fingerprint": "19351bb60cabb4ddb2633a6d94030cb9aab39c2d220e7c86ce02fb18570033b5",
+    "category": "icons",
+    "files": [
+      "ui/icons/ping_128.png",
+      "ui/icons/ping_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/ping_128.png": "0f5e0baef8db9bbc5f3b6b51712d4553d0c9e30b88f7407cc862488341a1c94e",
+      "ui/icons/ping_64.png": "caf013f015a0fa7761f360703f7e305f097b134d5a83276cfc6c059922ee0d79"
+    }
+  },
+  "ce_ui_price_down": {
+    "fingerprint": "05e146df0151555960ce25e39f1088190edbbe5f31cee5514beb614fe888555b",
+    "category": "icons",
+    "files": [
+      "ui/icons/price_down_128.png",
+      "ui/icons/price_down_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/price_down_128.png": "047b9142f859a8a56eb8db4cd7a12187a16ad4d0214a97ccb953f709a7cbdb84",
+      "ui/icons/price_down_64.png": "9fd7f53d2b2117b4b98b4b0ee31359d8dd1ccb02deb923aa85181e4d0b7924e3"
+    }
+  },
+  "ce_ui_price_up": {
+    "fingerprint": "930e43efdbab2f8fb74e102da7d6445fba3fca0e6bc40c2975c39144ecee86ed",
+    "category": "icons",
+    "files": [
+      "ui/icons/price_up_128.png",
+      "ui/icons/price_up_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/price_up_128.png": "8c4eb5a3541f38c387fc3447968415330ea145a8730667bf54cd021cc862db9b",
+      "ui/icons/price_up_64.png": "6c6912448aa6141fda20588925cf997541b8e12a678cafe219649f144a7b3b49"
+    }
+  },
+  "ce_ui_production": {
+    "fingerprint": "8e401888af9c44c9183385b056868c6a5c352a5b7e8fbefe56ae333b2aff658c",
+    "category": "icons",
+    "files": [
+      "ui/icons/production_128.png",
+      "ui/icons/production_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/production_128.png": "6374f56a4011403ecdaaf8e1e3020b638f30320759c902844d7a06dd8a64419f",
+      "ui/icons/production_64.png": "ebf995555ce19f3653217112aa5fb50bfd3bb21923677e7931edb4cae05ece36"
+    }
+  },
+  "ce_ui_recruit_prisoners": {
+    "fingerprint": "95ddf9c42c228f4042b1b57fbb3ffe00704632bd83076c13adc6aad36f969af2",
+    "category": "icons",
+    "files": [
+      "ui/icons/recruit_prisoners_128.png",
+      "ui/icons/recruit_prisoners_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/recruit_prisoners_128.png": "8cfe44aafd94011a9b001d4eeace9ce5f6650a84ffe81ac0bcc98ecebdd17102",
+      "ui/icons/recruit_prisoners_64.png": "0dd6fa9d90dce62f6dd82e13d397d1990769d017be5510b19e40391b31a2a629"
+    }
+  },
+  "ce_ui_route": {
+    "fingerprint": "34024b64bda3b9b3c16cf697821b72922300e88b26d772741d4bf9ba3c58fbbe",
+    "category": "icons",
+    "files": [
+      "ui/icons/route_128.png",
+      "ui/icons/route_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/route_128.png": "aa5e3ab53daa8905b8ffb5130283b7c939b7a76aeabae7e3a0a5d32c6fa3b1dc",
+      "ui/icons/route_64.png": "8c2cd96a92b9778a08a91662d47f53857fc9b320ba688ab2265b4e3050b4b7b5"
+    }
+  },
+  "ce_ui_sell_junk": {
+    "fingerprint": "7f69a67248b6e92d4487e7e0cd5055753f6a9e1aef59ccc6ae72cb8a9ed7c406",
+    "category": "icons",
+    "files": [
+      "ui/icons/sell_junk_128.png",
+      "ui/icons/sell_junk_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/sell_junk_128.png": "f41f8098c8ca97571ba1e16284f7c2608f357b12049cd9323fb4cea9e4986230",
+      "ui/icons/sell_junk_64.png": "8bb3ee53d36375a8afa09830cffebc366e89b28e0701a55580d755937bf21c82"
+    }
+  },
+  "ce_ui_settings": {
+    "fingerprint": "d3885a0a31a7c992a5f3d458645d0de7606b1175f79002048f2234f8a1288464",
+    "category": "icons",
+    "files": [
+      "ui/icons/settings_128.png",
+      "ui/icons/settings_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/settings_128.png": "870ffea6bb623461781a15124bdc8db3296f45f2b83b116acb79c8b6e910dcf2",
+      "ui/icons/settings_64.png": "7e143c436dbc671807e779c2e26a4225cee92b918c1c23010bf427dccf2d68fa"
+    }
+  },
+  "ce_ui_ship": {
+    "fingerprint": "1dbe7725949f9c89ed2d8b8e3029e94a184ef1e8fb2d345c8e46c69b9453bce4",
+    "category": "icons",
+    "files": [
+      "ui/icons/ship_128.png",
+      "ui/icons/ship_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/ship_128.png": "e95350d6fcbbf36c84e92b54f617d7c80eff5c2b33f9751294526d011acd6cca",
+      "ui/icons/ship_64.png": "f6098030a51847a24fe400fb0f8b3227e75eeac0c8f770d66fa59d085441ca6c"
+    }
+  },
+  "ce_ui_sort": {
+    "fingerprint": "0425675e0f0f5b3611af448466d73650a86730f8e00f0459a204c481e116ed17",
+    "category": "icons",
+    "files": [
+      "ui/icons/sort_128.png",
+      "ui/icons/sort_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/sort_128.png": "98b27ad6aa12bedf2a7df538711e27c2696457da609c023374ab3e71db04056a",
+      "ui/icons/sort_64.png": "23c1dcf87b7b7fc802b56622a67ec534e550d5bb20e246a5e4e653d3cc028b33"
+    }
+  },
+  "ce_ui_transfer_all": {
+    "fingerprint": "39f55bf7882bd5d15d5eabdbac942ad18f044fc91d7ef71d3866c3d12f7ec76b",
+    "category": "icons",
+    "files": [
+      "ui/icons/transfer_all_128.png",
+      "ui/icons/transfer_all_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/transfer_all_128.png": "3524fe89649d85722d836684720fdee629e17b55954a8ee38cf6f7b689325ef9",
+      "ui/icons/transfer_all_64.png": "721eccbe734237bedea28add9ccab6b26fc972d946ebb4fdbbf85c2901340db4"
+    }
+  },
+  "ce_ui_troop_sort": {
+    "fingerprint": "7888baad57491883072cfa5deb0a9314a6539dc0c96f112a1a2f6ebeb3edce30",
+    "category": "icons",
+    "files": [
+      "ui/icons/troop_sort_128.png",
+      "ui/icons/troop_sort_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/troop_sort_128.png": "a399a45c7b78548174ccfad9b3f79c85e924f42f8d4344844c59b6f53e65def6",
+      "ui/icons/troop_sort_64.png": "301c0abdbcdac6e2ce2120f460757811c7b4a49920a984e3273f10a80f430849"
+    }
+  },
+  "ce_ui_unlock": {
+    "fingerprint": "858d47b13098e6f2f03e51296d3749f0ec654314cb93ae4b28071ce706c46d1a",
+    "category": "icons",
+    "files": [
+      "ui/icons/unlock_128.png",
+      "ui/icons/unlock_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/unlock_128.png": "f0b0a2f1a4865509904a61983cfa6bda6deb7d016a89545a674ba83934cf7b7a",
+      "ui/icons/unlock_64.png": "7d0f0ba78ce82430fdada4cbf44cdca5f6ec42ddf398c3c5c375650af5c52d7f"
+    }
+  },
+  "ce_ui_upgrade_all": {
+    "fingerprint": "78e31a8f10e3cc72321399980c50e374855209f5bb3e5a0e54811895f8bb4ed9",
+    "category": "icons",
+    "files": [
+      "ui/icons/upgrade_all_128.png",
+      "ui/icons/upgrade_all_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/upgrade_all_128.png": "a46f6839adb21f729be94b219191183da0f2e37380dc5f14268bb2b912f278fc",
+      "ui/icons/upgrade_all_64.png": "02918af2561af3125f132ef5e63c9383dec5523bf65ae85d01f01334e2699440"
+    }
+  },
+  "ce_ui_value_per_weight": {
+    "fingerprint": "112fc7e6664dc6fceeb0749c114b37c61051654923a46b6b6ec3c9eb7fee2c9e",
+    "category": "icons",
+    "files": [
+      "ui/icons/value_per_weight_128.png",
+      "ui/icons/value_per_weight_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/value_per_weight_128.png": "f8a4505fbfd350c44fdcb2a8acce61f25f3580010c3eb315311172114096d09c",
+      "ui/icons/value_per_weight_64.png": "00910364bdacd122b14acc4c4e4fed480ac35fd43c6d9af7efa507a703f63b5d"
+    }
+  },
+  "ce_ui_wage_days": {
+    "fingerprint": "0aab41500a708751ec242c0a680996bf4f3025a848df2a40877ec5545cc4a006",
+    "category": "icons",
+    "files": [
+      "ui/icons/wage_days_128.png",
+      "ui/icons/wage_days_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/wage_days_128.png": "6de188c73b10049cf93a86da70293ad8df44e0dc6624c0bada3cab4e4842dfa9",
+      "ui/icons/wage_days_64.png": "f0da8864d5bc490ffa5789b8c3b6309d1b6f12d1850a0aa97402bed7e7409d91"
+    }
+  },
+  "ce_ui_workshop": {
+    "fingerprint": "ac875d4a8dd1a6f5e18a2e1ee87fbf885dd1f8fefb21687c1c39cb2f77365b88",
+    "category": "icons",
+    "files": [
+      "ui/icons/workshop_128.png",
+      "ui/icons/workshop_64.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "sha256": {
+      "ui/icons/workshop_128.png": "e971ddf0ba7830b123db9bde9d43e6437deddb5d7a5b06b226682bb77b4eff30",
+      "ui/icons/workshop_64.png": "218d6d7368ac16c5229c249f453906d0dbeaca948f9adc5fc78a72e040776e95"
+    }
+  }
+}
