@@ -11,7 +11,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | polearms | 8 | 0 | 0 |
 | daggers | 3 | 0 | 0 |
 | thrown | 4 | 0 | 0 |
-| ammunition | 0 | 0 | 4 |
+| ammunition | 4 | 0 | 0 |
 | shields | 0 | 0 | 10 |
 | trade goods | 0 | 0 | 12 |
 | helmets | 0 | 0 | 16 |

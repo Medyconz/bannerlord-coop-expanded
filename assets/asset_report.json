@@ -515,6 +515,886 @@
       "build/two_handed_swords/ce_2h_vlandic_greatsword/src_maps/height.png": "64a04f5b4703f9c15c8d69a46719bf799a91e6cd55baba5d935d52e0934d98a4"
     }
   },
+  "ce_am_bodkin_arrows": {
+    "fingerprint": "f21d708be50870cc835cfb2f3a7b700a6c555c8101628a118f3d693c142cbd24",
+    "category": "ammunition",
+    "files": [
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows.fbx",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows.blend",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows_d.png",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows_n.png",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows_s.png",
+      "build/ammunition/ce_am_bodkin_arrows/preview.png",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/basecolor.png",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/normal.png",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/metallic.png",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/roughness.png",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/ao.png",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_am_bodkin_arrows": {
+        "tris": 372,
+        "bbox_m": [
+          [
+            -0.011627191677689552,
+            -0.01965782232582569,
+            -0.23000000417232513
+          ],
+          [
+            0.02250000089406967,
+            0.01965782232582569,
+            0.6700000166893005
+          ]
+        ],
+        "dimensions_m": [
+          0.034127192571759224,
+          0.03931564465165138,
+          0.9000000208616257
+        ],
+        "uv_bounds": [
+          0.0039062376599758863,
+          0.9954352974891663
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_bodkin_arrows.lod1": {
+        "tris": 186,
+        "bbox_m": [
+          [
+            -0.011645753867924213,
+            -0.019670523703098297,
+            -0.22999918460845947
+          ],
+          [
+            0.022424593567848206,
+            0.01966014876961708,
+            0.6700208783149719
+          ]
+        ],
+        "dimensions_m": [
+          0.03407034743577242,
+          0.03933067247271538,
+          0.9000200629234314
+        ],
+        "uv_bounds": [
+          0.0039062167052179575,
+          0.9869883060455322
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_bodkin_arrows.lod2": {
+        "tris": 92,
+        "bbox_m": [
+          [
+            -0.011336635798215866,
+            -0.019635628908872604,
+            -0.23000092804431915
+          ],
+          [
+            0.022673271596431732,
+            0.019635628908872604,
+            0.6700301766395569
+          ]
+        ],
+        "dimensions_m": [
+          0.0340099073946476,
+          0.03927125781774521,
+          0.900031104683876
+        ],
+        "uv_bounds": [
+          0.0039062376599758863,
+          0.9872049689292908
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_bodkin_arrows_quiver": {
+        "tris": 2960,
+        "bbox_m": [
+          [
+            -0.07599999755620956,
+            -0.05609999969601631,
+            0.0
+          ],
+          [
+            0.09250670671463013,
+            0.05609999969601631,
+            0.6491838693618774
+          ]
+        ],
+        "dimensions_m": [
+          0.1685067042708397,
+          0.11219999939203262,
+          0.6491838693618774
+        ],
+        "uv_bounds": [
+          0.003906195517629385,
+          0.9867016673088074
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_bodkin_arrows_quiver.lod1": {
+        "tris": 1480,
+        "bbox_m": [
+          [
+            -0.07599999755620956,
+            -0.056258030235767365,
+            -4.0329501890812303e-13
+          ],
+          [
+            0.09250670671463013,
+            0.056258030235767365,
+            0.6491838693618774
+          ]
+        ],
+        "dimensions_m": [
+          0.1685067042708397,
+          0.11251606047153473,
+          0.6491838693622808
+        ],
+        "uv_bounds": [
+          0.003906236495822668,
+          0.9960535764694214
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_bodkin_arrows_quiver.lod2": {
+        "tris": 740,
+        "bbox_m": [
+          [
+            -0.0739675760269165,
+            -0.056258030235767365,
+            -2.0788927940884605e-05
+          ],
+          [
+            0.09250670671463013,
+            0.056258030235767365,
+            0.649115264415741
+          ]
+        ],
+        "dimensions_m": [
+          0.16647428274154663,
+          0.11251606047153473,
+          0.6491360533436819
+        ],
+        "uv_bounds": [
+          0.0039062360301613808,
+          0.9872093796730042
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_am_bodkin_arrows": "arrow",
+      "ce_am_bodkin_arrows_quiver": "quiver"
+    },
+    "sha256": {
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows.fbx": "5f0629513a234c5fc6d50343d81e0d09c3f3869ee896f572ae1e677aeba6c42c",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows.blend": "695e346defb0da2eb4a3cbec1b6c3443a5f1edea3eb8e02c8ed4224c5b20835c",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows_d.png": "1947e4c8a4f7dc99b66b43b77ae8bd57af17439b80d2ead3d8e5244fb454eb74",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows_n.png": "d3ed5733cae2291a0cac703cca1103319cac5ef54c5e6c0d3f5627586e1efaa2",
+      "build/ammunition/ce_am_bodkin_arrows/ce_am_bodkin_arrows_s.png": "7f03a08ccb53341ea68d0b9b3cc5d6d3037ec59f7a8871aabf473ce9cb088d10",
+      "build/ammunition/ce_am_bodkin_arrows/preview.png": "6cfa5aebef76349b8d1f7e555c1dc0062ac1004b2be8affdc2d30013d732b321",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/basecolor.png": "4b533522e6d5cf3dbcff2b2c7f55f9c938c801a0b93277b68ca1461b9333815f",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/normal.png": "acbf542d156bc4cfbe8628180e4e24267654d9aab209dc3a7d0d6061863a4ba0",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/metallic.png": "40b66fb7b1339aefb4d907a6025ed03cc9ba90b619187a733abe906c29b05c01",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/roughness.png": "10b55168ce7562a870ea10a673098d6984f28dac008e5d5025a1ec0123ad9e0d",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/ao.png": "c5e7555ee275c748d12d3641db75cfb524646aaa538c64544a778b1984aa25cb",
+      "build/ammunition/ce_am_bodkin_arrows/src_maps/height.png": "3fb797764ec39c6e51033ba085677cb328575381ef185c441733383ec4abee1b"
+    }
+  },
+  "ce_am_broadhead_arrows": {
+    "fingerprint": "106d79b8f9111a482e4083044f22966a26d358881c28f1c0a6c54399abcc38c9",
+    "category": "ammunition",
+    "files": [
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows.fbx",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows.blend",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows_d.png",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows_n.png",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows_s.png",
+      "build/ammunition/ce_am_broadhead_arrows/preview.png",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/basecolor.png",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/normal.png",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/metallic.png",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/roughness.png",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/ao.png",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_am_broadhead_arrows": {
+        "tris": 380,
+        "bbox_m": [
+          [
+            -0.024000000208616257,
+            -0.01965782232582569,
+            -0.23000000417232513
+          ],
+          [
+            0.024000000208616257,
+            0.01965782232582569,
+            0.6700000166893005
+          ]
+        ],
+        "dimensions_m": [
+          0.04800000041723251,
+          0.03931564465165138,
+          0.9000000208616257
+        ],
+        "uv_bounds": [
+          0.0039062194991856813,
+          0.9943698644638062
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_broadhead_arrows.lod1": {
+        "tris": 190,
+        "bbox_m": [
+          [
+            -0.024000000208616257,
+            -0.019670523703098297,
+            -0.22999918460845947
+          ],
+          [
+            0.024000000208616257,
+            0.01966014876961708,
+            0.6700469255447388
+          ]
+        ],
+        "dimensions_m": [
+          0.04800000041723251,
+          0.03933067247271538,
+          0.9000461101531982
+        ],
+        "uv_bounds": [
+          0.0039062194991856813,
+          0.9957321286201477
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_broadhead_arrows.lod2": {
+        "tris": 94,
+        "bbox_m": [
+          [
+            -0.026774490252137184,
+            -0.019635628908872604,
+            -0.23000092804431915
+          ],
+          [
+            0.026774490252137184,
+            0.019635628908872604,
+            0.6700436472892761
+          ]
+        ],
+        "dimensions_m": [
+          0.05354898050427437,
+          0.03927125781774521,
+          0.9000445753335953
+        ],
+        "uv_bounds": [
+          0.02354125678539276,
+          0.9956213235855103
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_broadhead_arrows_quiver": {
+        "tris": 3296,
+        "bbox_m": [
+          [
+            -0.08500000089406967,
+            -0.06100756675004959,
+            0.0
+          ],
+          [
+            0.10290317237377167,
+            0.06100756675004959,
+            0.6491904258728027
+          ]
+        ],
+        "dimensions_m": [
+          0.18790317326784134,
+          0.12201513350009918,
+          0.6491904258728027
+        ],
+        "uv_bounds": [
+          0.0039061754941940308,
+          0.9960222840309143
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_broadhead_arrows_quiver.lod1": {
+        "tris": 1648,
+        "bbox_m": [
+          [
+            -0.08500000089406967,
+            -0.06100756675004959,
+            0.0
+          ],
+          [
+            0.10290317237377167,
+            0.06100756675004959,
+            0.6491904258728027
+          ]
+        ],
+        "dimensions_m": [
+          0.18790317326784134,
+          0.12201513350009918,
+          0.6491904258728027
+        ],
+        "uv_bounds": [
+          0.0039062201976776123,
+          0.9960853457450867
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_broadhead_arrows_quiver.lod2": {
+        "tris": 824,
+        "bbox_m": [
+          [
+            -0.08365362137556076,
+            -0.06013524532318115,
+            -2.6525922294240445e-05
+          ],
+          [
+            0.10290317237377167,
+            0.06015577167272568,
+            0.6491549015045166
+          ]
+        ],
+        "dimensions_m": [
+          0.18655679374933243,
+          0.12029101699590683,
+          0.6491814274268108
+        ],
+        "uv_bounds": [
+          0.00390624743886292,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_am_broadhead_arrows": "arrow",
+      "ce_am_broadhead_arrows_quiver": "quiver"
+    },
+    "sha256": {
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows.fbx": "7184bd6d56057406e9b8afca87d6000dd606b75aa9dfbae9e0c1a8f219af672a",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows.blend": "0bd49d6d6790c80695a41710d36f7f1b8ef483ac5a47a016c209a28a2a70d05f",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows_d.png": "b72216072405284cc2981d335062c99db2733113d3e70e9166c38e41d8e24425",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows_n.png": "ce458da1c7a8b85a1c486aea74c0f0480f9c9b2bff969d78e5f1f05bb04e507e",
+      "build/ammunition/ce_am_broadhead_arrows/ce_am_broadhead_arrows_s.png": "eae06bea65594c3ae43e9411f4a16dfec9e8b9734b751ef3a93ed84541a0f702",
+      "build/ammunition/ce_am_broadhead_arrows/preview.png": "c84e0c9dd788b02e8491a3ff7afc4766d938470472066c85f9d65873321f094a",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/basecolor.png": "ef4bab604a30be196f4873f3b71137d0998eccaf54244181e32ecc4f7a7f0dad",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/normal.png": "a3061489c90e05b2103a661e24db67fe4c21fc97c549462434cbcc01f7574344",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/metallic.png": "e58fe96b6303ff84aaa851122db88f2655357d2c2f3b221c4d765d341c977563",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/roughness.png": "a29d72604b08d49a357065f4a7a9c225d2118f802785a9b0610fceacb597c6b1",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/ao.png": "e3c3a85b1d8f113b559b3aaee41e7fb470ef02b046eed5ff689ebda641d674a7",
+      "build/ammunition/ce_am_broadhead_arrows/src_maps/height.png": "9ea0a7b80e4230c9a90e76a8b9d4937fa95798da729fa8171cd2374b0a396d03"
+    }
+  },
+  "ce_am_khuzait_whistling_arrows": {
+    "fingerprint": "37b2745d04cad7588f77e6d2bc2d07edf202e5a1711299b12409628d59b8bf37",
+    "category": "ammunition",
+    "files": [
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows.fbx",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows.blend",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows_d.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows_n.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows_s.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/preview.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/basecolor.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/normal.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/metallic.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/roughness.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/ao.png",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_am_khuzait_whistling_arrows": {
+        "tris": 498,
+        "bbox_m": [
+          [
+            -0.013061683624982834,
+            -0.01965782232582569,
+            -0.23000000417232513
+          ],
+          [
+            0.02250000089406967,
+            0.01965782232582569,
+            0.6700000166893005
+          ]
+        ],
+        "dimensions_m": [
+          0.035561684519052505,
+          0.03931564465165138,
+          0.9000000208616257
+        ],
+        "uv_bounds": [
+          0.003906230442225933,
+          0.992540180683136
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_khuzait_whistling_arrows.lod1": {
+        "tris": 248,
+        "bbox_m": [
+          [
+            -0.013000000268220901,
+            -0.019627951085567474,
+            -0.2299986332654953
+          ],
+          [
+            0.022664204239845276,
+            0.01962760090827942,
+            0.670059859752655
+          ]
+        ],
+        "dimensions_m": [
+          0.03566420450806618,
+          0.03925555199384689,
+          0.9000584930181503
+        ],
+        "uv_bounds": [
+          0.003906230442225933,
+          0.9941221475601196
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_khuzait_whistling_arrows.lod2": {
+        "tris": 124,
+        "bbox_m": [
+          [
+            -0.012642410583794117,
+            -0.019627951085567474,
+            -0.23000124096870422
+          ],
+          [
+            0.022664204239845276,
+            0.01962760090827942,
+            0.670059859752655
+          ]
+        ],
+        "dimensions_m": [
+          0.03530661482363939,
+          0.03925555199384689,
+          0.9000611007213593
+        ],
+        "uv_bounds": [
+          0.003906251396983862,
+          0.9939865469932556
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_khuzait_whistling_arrows_quiver": {
+        "tris": 2860,
+        "bbox_m": [
+          [
+            -0.07599999755620956,
+            -0.05609999969601631,
+            0.0
+          ],
+          [
+            0.09250670671463013,
+            0.05609999969601631,
+            0.6491838693618774
+          ]
+        ],
+        "dimensions_m": [
+          0.1685067042708397,
+          0.11219999939203262,
+          0.6491838693618774
+        ],
+        "uv_bounds": [
+          0.0039061882998794317,
+          0.9846792817115784
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_khuzait_whistling_arrows_quiver.lod1": {
+        "tris": 1430,
+        "bbox_m": [
+          [
+            -0.07599999755620956,
+            -0.056258030235767365,
+            -4.0329501890812303e-13
+          ],
+          [
+            0.09250670671463013,
+            0.056258030235767365,
+            0.6491838693618774
+          ]
+        ],
+        "dimensions_m": [
+          0.1685067042708397,
+          0.11251606047153473,
+          0.6491838693622808
+        ],
+        "uv_bounds": [
+          0.003906229743734002,
+          0.9940207600593567
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_khuzait_whistling_arrows_quiver.lod2": {
+        "tris": 714,
+        "bbox_m": [
+          [
+            -0.0739675760269165,
+            -0.056258030235767365,
+            -2.0788927940884605e-05
+          ],
+          [
+            0.09250670671463013,
+            0.05611813813447952,
+            0.649115264415741
+          ]
+        ],
+        "dimensions_m": [
+          0.16647428274154663,
+          0.11237616837024689,
+          0.6491360533436819
+        ],
+        "uv_bounds": [
+          0.003906229278072715,
+          0.9941377639770508
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_am_khuzait_whistling_arrows": "arrow",
+      "ce_am_khuzait_whistling_arrows_quiver": "quiver"
+    },
+    "sha256": {
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows.fbx": "1b13568057be96d67fdb9e8e6fe1992902e480b983f8f4aa6211ea15506d234b",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows.blend": "e94be09b352660f54436990415ce2a28b9665ced63c8376ac6598f7cb38a96ba",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows_d.png": "515b501d68ef569f7995a59db6c4b52f51371c39854734ee761250485efa737e",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows_n.png": "0d3a92e5d325579e05d6e8bf9711dfa8011bff2ba2c5e803b6a645532703ba70",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/ce_am_khuzait_whistling_arrows_s.png": "4590dc787c291393968a69bc3f5bbf14f058d35511cec887515baf0ea28fc086",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/preview.png": "bb02aa9038a9d881217b37729fa9f282fd65d007e0707f52e3e27eb8622fef60",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/basecolor.png": "509cf7e68484f5bc634d0c041e74e0265a21f1ca7026f5264980e5ad16c103f5",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/normal.png": "919eb5a4f5b39048ed79be8c86a289c69a0fc9729b59f669ee0d61cf211b4e43",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/metallic.png": "e3be253e71409ce5d5b45282f8af75e1ce9c06d9d353da3d40b71ae397382665",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/roughness.png": "04c34d7cb9f09e7b39445a4678b2bef7205e321804698f45d49d00703e148dbf",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/ao.png": "c70734c3244c67fefc91721e4e4c820bb8e658c4ffd85e1aa7a1b99f3218b863",
+      "build/ammunition/ce_am_khuzait_whistling_arrows/src_maps/height.png": "949ea771ea4590ab38826806ca0c505817e98f702e852bd7aba258a65e8cd26e"
+    }
+  },
+  "ce_am_steel_bolts": {
+    "fingerprint": "5974e61411af1f929e560e19dca548fc138b2e3d6b19cb8bd6c987df474c850e",
+    "category": "ammunition",
+    "files": [
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts.fbx",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts.blend",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts_d.png",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts_n.png",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts_s.png",
+      "build/ammunition/ce_am_steel_bolts/preview.png",
+      "build/ammunition/ce_am_steel_bolts/src_maps/basecolor.png",
+      "build/ammunition/ce_am_steel_bolts/src_maps/normal.png",
+      "build/ammunition/ce_am_steel_bolts/src_maps/metallic.png",
+      "build/ammunition/ce_am_steel_bolts/src_maps/roughness.png",
+      "build/ammunition/ce_am_steel_bolts/src_maps/ao.png",
+      "build/ammunition/ce_am_steel_bolts/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_am_steel_bolts": {
+        "tris": 320,
+        "bbox_m": [
+          [
+            -0.017500000074505806,
+            -0.007000000216066837,
+            -0.10999999940395355
+          ],
+          [
+            0.017500000074505806,
+            0.007000000216066837,
+            0.3149999976158142
+          ]
+        ],
+        "dimensions_m": [
+          0.03500000014901161,
+          0.014000000432133675,
+          0.42499999701976776
+        ],
+        "uv_bounds": [
+          0.003906261175870895,
+          0.9940090775489807
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_steel_bolts.lod1": {
+        "tris": 160,
+        "bbox_m": [
+          [
+            -0.01742187701165676,
+            -0.007000000216066837,
+            -0.10999869555234909
+          ],
+          [
+            0.01742187701165676,
+            0.007000000216066837,
+            0.3150341510772705
+          ]
+        ],
+        "dimensions_m": [
+          0.03484375402331352,
+          0.014000000432133675,
+          0.4250328466296196
+        ],
+        "uv_bounds": [
+          0.06366264820098877,
+          0.9847289323806763
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_steel_bolts.lod2": {
+        "tris": 80,
+        "bbox_m": [
+          [
+            -0.01765279658138752,
+            -0.007000000216066837,
+            -0.11000145971775055
+          ],
+          [
+            0.01765279658138752,
+            0.007000000216066837,
+            0.3150492012500763
+          ]
+        ],
+        "dimensions_m": [
+          0.03530559316277504,
+          0.014000000432133675,
+          0.42505066096782684
+        ],
+        "uv_bounds": [
+          0.003906260710209608,
+          0.9942710995674133
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_steel_bolts_quiver": {
+        "tris": 2036,
+        "bbox_m": [
+          [
+            -0.07599999755620956,
+            -0.047019436955451965,
+            0.0
+          ],
+          [
+            0.09250670671463013,
+            0.047019436955451965,
+            0.5812587141990662
+          ]
+        ],
+        "dimensions_m": [
+          0.1685067042708397,
+          0.09403887391090393,
+          0.5812587141990662
+        ],
+        "uv_bounds": [
+          0.0039062194991856813,
+          0.9953070878982544
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_steel_bolts_quiver.lod1": {
+        "tris": 1018,
+        "bbox_m": [
+          [
+            -0.07599999755620956,
+            -0.04707935452461243,
+            0.0
+          ],
+          [
+            0.09250670671463013,
+            0.04707935079932213,
+            0.5812587141990662
+          ]
+        ],
+        "dimensions_m": [
+          0.1685067042708397,
+          0.09415870532393456,
+          0.5812587141990662
+        ],
+        "uv_bounds": [
+          0.0039062194991856813,
+          0.9948551058769226
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_am_steel_bolts_quiver.lod2": {
+        "tris": 508,
+        "bbox_m": [
+          [
+            -0.07500000298023224,
+            -0.04707935452461243,
+            -1.7155300156446174e-05
+          ],
+          [
+            0.09250670671463013,
+            0.04707935079932213,
+            0.581298828125
+          ]
+        ],
+        "dimensions_m": [
+          0.16750670969486237,
+          0.09415870532393456,
+          0.5813159834251564
+        ],
+        "uv_bounds": [
+          0.0039061252027750015,
+          0.9942209124565125
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_am_steel_bolts": "bolt",
+      "ce_am_steel_bolts_quiver": "quiver"
+    },
+    "sha256": {
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts.fbx": "265eb7bfcb669a964346b4ee894b5624e585ea7256bcf78f35440fce4d2c048f",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts.blend": "8d217219f14d1ff3f0e2313accbb0cd638c9cf9f0640a50b151b3db3f0ae7ab4",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts_d.png": "9e06e60e8bedf3f433e88b0dc015bfd2ea30a36419a19626c78efbe2e6fb5c57",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts_n.png": "412337865cf1250203b0c6ce98893b3e5d6d90bb9b5b634f027f94a4bb362c6b",
+      "build/ammunition/ce_am_steel_bolts/ce_am_steel_bolts_s.png": "96ff0763f06736e9f95445e9c371e745e5f11c08160d7929611e0437432714b5",
+      "build/ammunition/ce_am_steel_bolts/preview.png": "3d13bde5d2fa14ce5e4b31c1495c34c878c3249afe0628382ccbe744bde96550",
+      "build/ammunition/ce_am_steel_bolts/src_maps/basecolor.png": "c978aee5b3db9e50cba41bb0b83d901ef2122db0436066b4dbfe99e79cde1136",
+      "build/ammunition/ce_am_steel_bolts/src_maps/normal.png": "7df1a56777a9e7c668606bdebbe631140aca21aad5ee4e7cce35fc9a2753efb9",
+      "build/ammunition/ce_am_steel_bolts/src_maps/metallic.png": "b5af5efc40f55f70f39b95ddfe423ee04e61477d350759429e8cf57160920d10",
+      "build/ammunition/ce_am_steel_bolts/src_maps/roughness.png": "21fd01f2ab0a6b91052ecebbf5b6f3cd9752cfd28a2acf45c2df9eb69d0ef8fb",
+      "build/ammunition/ce_am_steel_bolts/src_maps/ao.png": "25f712978eec434100560aea4d8206fd37fee3f5407f9c7a349f143bd9d581d8",
+      "build/ammunition/ce_am_steel_bolts/src_maps/height.png": "05b0ea94bb979de4e007093227d6800799c419639612f2fa7cf7aab6f9d1ebbf"
+    }
+  },
   "ce_ax_aserai_tabar": {
     "fingerprint": "8e4caddf5faaa6e46b39e55b67abb794b2989f444371588aff3c3eda80a0415c",
     "category": "axes",
