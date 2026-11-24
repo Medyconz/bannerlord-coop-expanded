@@ -4432,6 +4432,1296 @@
       "build/polearms/ce_pl_vlandic_billhook/src_maps/height.png": "610a382101faa5f43a09cf4b813dbbb1f5a92eca8746d621a276cf2b367f4fa4"
     }
   },
+  "ce_sh_aserai_daraqa": {
+    "fingerprint": "2280b09e2350c7c7ea7d6bb7901729fa467528c5ea9f1222f1e052cc9a9c9f42",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa.fbx",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa.blend",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa_d.png",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa_n.png",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa_s.png",
+      "build/shields/ce_sh_aserai_daraqa/preview.png",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/basecolor.png",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/normal.png",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/metallic.png",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/roughness.png",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/ao.png",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_aserai_daraqa": {
+        "tris": 3908,
+        "bbox_m": [
+          [
+            -0.38958126306533813,
+            -0.1460254192352295,
+            -0.38952502608299255
+          ],
+          [
+            0.3895820081233978,
+            0.015216904692351818,
+            0.3895387351512909
+          ]
+        ],
+        "dimensions_m": [
+          0.779163271188736,
+          0.1612423239275813,
+          0.7790637612342834
+        ],
+        "uv_bounds": [
+          0.0039062120486050844,
+          0.990027666091919
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_aserai_daraqa.lod1": {
+        "tris": 1954,
+        "bbox_m": [
+          [
+            -0.3891025483608246,
+            -0.14629314839839935,
+            -0.38857531547546387
+          ],
+          [
+            0.3890290856361389,
+            0.015216904692351818,
+            0.3886427879333496
+          ]
+        ],
+        "dimensions_m": [
+          0.7781316339969635,
+          0.16151005309075117,
+          0.7772181034088135
+        ],
+        "uv_bounds": [
+          0.0039062120486050844,
+          0.996027946472168
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_aserai_daraqa.lod2": {
+        "tris": 976,
+        "bbox_m": [
+          [
+            -0.3886862099170685,
+            -0.1463213860988617,
+            -0.3881000280380249
+          ],
+          [
+            0.3890290856361389,
+            0.013623654842376709,
+            0.3886427879333496
+          ]
+        ],
+        "dimensions_m": [
+          0.7777152955532074,
+          0.1599450409412384,
+          0.7767428159713745
+        ],
+        "uv_bounds": [
+          0.0039062448777258396,
+          0.9960432052612305
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_aserai_daraqa": "round_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa.fbx": "431e2be6c44a854443ef4994a06bf97cfba63e83f5dcf532b27f0fa85daeda2a",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa.blend": "089250056153e245fde37b96bb557fc9819261659bd59dcb21891ab8bde70804",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa_d.png": "8766e87c56ac952de64a411a3feecb4b9b45b050df212fd24805ecd5580687d5",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa_n.png": "98134777071df3bb356c69bb037b70942fe5395c3a311fb8c3342989132049d4",
+      "build/shields/ce_sh_aserai_daraqa/ce_sh_aserai_daraqa_s.png": "1454d282f9992d23822157302487305bc782cb75b21ccad80f0fb743e0a9058e",
+      "build/shields/ce_sh_aserai_daraqa/preview.png": "8c6145b2407b10bc29abbd58d69efc0cb882b742fa788be4feb50c716c98b2c0",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/basecolor.png": "bc611689a59d5e2aa2bd024ef469d322f99869214432ce750d559adf86d803dd",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/normal.png": "debbf528f44e42c68c6962c9d230c64cf4916d9c23dea9b4efddd250871fe9e0",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/metallic.png": "3843fe4e5da335f909cb02e080173890ffd14b699725f5e16e115c86cb310103",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/roughness.png": "256ae9ab4377f05f553f481dc17492bb79154a9c6badc044e665d372c795236d",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/ao.png": "d2c9ab6248a39bbc79cd95d68d448698b38c824f41a5b9e5210c1825e7bb2e16",
+      "build/shields/ce_sh_aserai_daraqa/src_maps/height.png": "3c8d65aabd7bdff8f847a69327d28189f903a1f267ac0fbe7380c57702376c6d"
+    }
+  },
+  "ce_sh_battanian_hide_oval": {
+    "fingerprint": "a8304389a7b89ed9729a52e77632c3c84ff015b327e6a19c55fd1e78d42c566b",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval.fbx",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval.blend",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval_d.png",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval_n.png",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval_s.png",
+      "build/shields/ce_sh_battanian_hide_oval/preview.png",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/basecolor.png",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/normal.png",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/metallic.png",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/roughness.png",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/ao.png",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_battanian_hide_oval": {
+        "tris": 3880,
+        "bbox_m": [
+          [
+            -0.3136598765850067,
+            -0.16899986565113068,
+            -0.5009578466415405
+          ],
+          [
+            0.31365999579429626,
+            0.015216904692351818,
+            0.5009630918502808
+          ]
+        ],
+        "dimensions_m": [
+          0.627319872379303,
+          0.1842167703434825,
+          1.0019209384918213
+        ],
+        "uv_bounds": [
+          0.0039059994742274284,
+          0.9960657954216003
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_battanian_hide_oval.lod1": {
+        "tris": 1940,
+        "bbox_m": [
+          [
+            -0.3136598765850067,
+            -0.16899986565113068,
+            -0.500174343585968
+          ],
+          [
+            0.31365999579429626,
+            0.015216904692351818,
+            0.5002002716064453
+          ]
+        ],
+        "dimensions_m": [
+          0.627319872379303,
+          0.1842167703434825,
+          1.0003746151924133
+        ],
+        "uv_bounds": [
+          0.003906145691871643,
+          0.9960936903953552
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_battanian_hide_oval.lod2": {
+        "tris": 970,
+        "bbox_m": [
+          [
+            -0.31311100721359253,
+            -0.16899986565113068,
+            -0.500174343585968
+          ],
+          [
+            0.3130966126918793,
+            0.01365608349442482,
+            0.5002002716064453
+          ]
+        ],
+        "dimensions_m": [
+          0.6262076199054718,
+          0.1826559491455555,
+          1.0003746151924133
+        ],
+        "uv_bounds": [
+          0.00390623533166945,
+          0.996075451374054
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_battanian_hide_oval": "oval_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval.fbx": "990249b191a75a2778ebe66674fe3ebec47173c840753ed0790612b10134e54c",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval.blend": "7fac681f93ec164f781eb83789fec099969e4192e689a2692982b69dee63bdfb",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval_d.png": "5705c6670f304c57f1bbdca0eb3cd7457d1a81094ea78c4fcdcfe0e16fa04005",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval_n.png": "bc1786328d1975d47e085eb4535896df071e8358cdfc32a9bc541059ab2fbc45",
+      "build/shields/ce_sh_battanian_hide_oval/ce_sh_battanian_hide_oval_s.png": "51016564ac487a44f84fcfc91e38ff1acb85e62bf6c57231760aa8abfc45c656",
+      "build/shields/ce_sh_battanian_hide_oval/preview.png": "c058191df6828f1b408f20d5928b986d456e3d8e5e7800ea006bd16036e29f87",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/basecolor.png": "5936f19aad174afe5210ea2f6a0ec8ec652eb84dc3e4ae4568e0bbc1f07d6d75",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/normal.png": "c66c625aa8b236557c4639d715a0cd7bfcf3ed147a5d44de7b2f6b1b093c7e48",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/metallic.png": "0f8493ea0d7bce40aa5c468b4c7884c58da179d96a9148ee27f9cb7c7fc0ad45",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/roughness.png": "11cfbc9a6d8674c253001dcf9199af5b60c93f30ee072e56c3ee5acc1a8dc349",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/ao.png": "0e3795182e4359aa83e0b74ccf431bdfb7035754a11fd07031d62370cc47bd84",
+      "build/shields/ce_sh_battanian_hide_oval/src_maps/height.png": "01641665deb69382d3c2ef88146d7b5e12ec8d364dc11fd09eea4f0cdbfc3815"
+    }
+  },
+  "ce_sh_imperial_oval": {
+    "fingerprint": "ffae0d39c86c1a360d5ba30b017e8e5c180c79e2b84d2311aa7cfcf5ac99910a",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval.fbx",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval.blend",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval_d.png",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval_n.png",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval_s.png",
+      "build/shields/ce_sh_imperial_oval/preview.png",
+      "build/shields/ce_sh_imperial_oval/src_maps/basecolor.png",
+      "build/shields/ce_sh_imperial_oval/src_maps/normal.png",
+      "build/shields/ce_sh_imperial_oval/src_maps/metallic.png",
+      "build/shields/ce_sh_imperial_oval/src_maps/roughness.png",
+      "build/shields/ce_sh_imperial_oval/src_maps/ao.png",
+      "build/shields/ce_sh_imperial_oval/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_imperial_oval": {
+        "tris": 3372,
+        "bbox_m": [
+          [
+            -0.3629598021507263,
+            -0.1889999955892563,
+            -0.5108214616775513
+          ],
+          [
+            0.36296001076698303,
+            0.015216904692351818,
+            0.5108274221420288
+          ]
+        ],
+        "dimensions_m": [
+          0.7259198129177094,
+          0.2042169002816081,
+          1.02164888381958
+        ],
+        "uv_bounds": [
+          0.0039061736315488815,
+          0.9960496425628662
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_imperial_oval.lod1": {
+        "tris": 1686,
+        "bbox_m": [
+          [
+            -0.362415611743927,
+            -0.18928730487823486,
+            -0.5100521445274353
+          ],
+          [
+            0.3623982071876526,
+            0.015216904692351818,
+            0.5100829005241394
+          ]
+        ],
+        "dimensions_m": [
+          0.7248138189315796,
+          0.20450420957058668,
+          1.0201350450515747
+        ],
+        "uv_bounds": [
+          0.0039062127470970154,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_imperial_oval.lod2": {
+        "tris": 842,
+        "bbox_m": [
+          [
+            -0.36203980445861816,
+            -0.18962430953979492,
+            -0.5100521445274353
+          ],
+          [
+            0.36241868138313293,
+            0.013623654842376709,
+            0.5100829005241394
+          ]
+        ],
+        "dimensions_m": [
+          0.7244584858417511,
+          0.20324796438217163,
+          1.0201350450515747
+        ],
+        "uv_bounds": [
+          0.0039062132127583027,
+          0.9959725141525269
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_imperial_oval": "oval_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval.fbx": "2952b85a65385548bf270b2a93523f5dd495c77dd84a8e609bc17b7a41d32b80",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval.blend": "e766e5b3be6a3e37bb807971cc7fbffec1e7927a4acad9d1f2f2fa203ff73d7c",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval_d.png": "391cd30692dc2cee20f00c8e3aa865cfa6c402aac8330b2fc45f47fef2260d7c",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval_n.png": "52e0508f8f0913ca49993aab9123f2dcbc1daf2202af2b33f175a9fb19f95c1a",
+      "build/shields/ce_sh_imperial_oval/ce_sh_imperial_oval_s.png": "9b940d26e63204575bf7f9d3fdf17ece2e68c569a7ead36d6bf908351f911b65",
+      "build/shields/ce_sh_imperial_oval/preview.png": "19c624dce88f6469fcf839f227eba2047e8756c13e2d07ec194c2d826094f0d0",
+      "build/shields/ce_sh_imperial_oval/src_maps/basecolor.png": "f8787605022f64f09d02fc0f3256074e18cac15f7187a4e43208ec2488276e90",
+      "build/shields/ce_sh_imperial_oval/src_maps/normal.png": "8846f0064f0e22df510c0a60ca6e937070dd3ff6227d56e957f1477ba1806d49",
+      "build/shields/ce_sh_imperial_oval/src_maps/metallic.png": "66f52c784bf07f3dec8352072bcaa646ce74478f816fca4810c1be5932925731",
+      "build/shields/ce_sh_imperial_oval/src_maps/roughness.png": "514da668ef4e9252721de937391f37c551ca265bd72a05714be25feec45fa13e",
+      "build/shields/ce_sh_imperial_oval/src_maps/ao.png": "1350ad81bbc2e0a698b8a4845527bda708c977633cda6548c0d748afe2e33e53",
+      "build/shields/ce_sh_imperial_oval/src_maps/height.png": "5372f49734636cf48693004c1c41df4ef614dd4783b8ec9fd24cb9702c632dcc"
+    }
+  },
+  "ce_sh_khuzait_wicker": {
+    "fingerprint": "8281866c68b3f57f4cd08cdf278bbfd0f4727a54f83407d76ac67d78f0f44f7d",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker.fbx",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker.blend",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker_d.png",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker_n.png",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker_s.png",
+      "build/shields/ce_sh_khuzait_wicker/preview.png",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/basecolor.png",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/normal.png",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/metallic.png",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/roughness.png",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/ao.png",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_khuzait_wicker": {
+        "tris": 3948,
+        "bbox_m": [
+          [
+            -0.4221193790435791,
+            -0.17499999701976776,
+            -0.42207154631614685
+          ],
+          [
+            0.42212000489234924,
+            0.015216904692351818,
+            0.42208319902420044
+          ]
+        ],
+        "dimensions_m": [
+          0.8442393839359283,
+          0.19021690171211958,
+          0.8441547453403473
+        ],
+        "uv_bounds": [
+          0.0039062437135726213,
+          0.9956474900245667
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_khuzait_wicker.lod1": {
+        "tris": 1974,
+        "bbox_m": [
+          [
+            -0.421636700630188,
+            -0.17550019919872284,
+            -0.42068836092948914
+          ],
+          [
+            0.421191930770874,
+            0.013623654842376709,
+            0.4212154448032379
+          ]
+        ],
+        "dimensions_m": [
+          0.842828631401062,
+          0.18912385404109955,
+          0.841903805732727
+        ],
+        "uv_bounds": [
+          0.0039061924908310175,
+          0.9959835410118103
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_khuzait_wicker.lod2": {
+        "tris": 986,
+        "bbox_m": [
+          [
+            -0.42086344957351685,
+            -0.1758350133895874,
+            -0.4181533753871918
+          ],
+          [
+            0.4210730493068695,
+            0.013623654842376709,
+            0.41888999938964844
+          ]
+        ],
+        "dimensions_m": [
+          0.8419364988803864,
+          0.1894586682319641,
+          0.8370433747768402
+        ],
+        "uv_bounds": [
+          0.003906166646629572,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_khuzait_wicker": "round_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker.fbx": "a57840d3c94d6ace6d3c292d62aa21e4a09a232c0c7a551a12ef8778144b2a47",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker.blend": "7ec37fd2c3639497d621f3b783debf926d328669907256de4f390ff7ea9a23a0",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker_d.png": "1e7676f681d46b75c38f8f9ff7c371ab9dbaa9ca28f757cb0c8aa7c4a40e9acd",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker_n.png": "eb68ef682f05687a9b8ed417e742b06fa72b55b8841a1b3ade8f503ff1c28569",
+      "build/shields/ce_sh_khuzait_wicker/ce_sh_khuzait_wicker_s.png": "933d0e657af189a028097e97af7fef49d8f6b3efb5f44e4809aae2cb5f5776d5",
+      "build/shields/ce_sh_khuzait_wicker/preview.png": "9d27329078621c7bd82ced6b39893d1a094870ac7d2df2fd5b9b2b2ca2569d8e",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/basecolor.png": "1ee337764a7dd73aa7dff1300ced44be58e1d8547383966221753470fff558a8",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/normal.png": "6da30ed7e0545ec4a6b3c07b9a8427f8cf9d75c940b1ceb3ae9630f2a367b839",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/metallic.png": "2096b6624495594c35965f2bf43b047a4f088efc1bbcd55ceecbbe9d95964418",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/roughness.png": "f0084da49c7efa5f50d2aec28ad038a5c417e39eafe92a42bdb5fa3cee1bc189",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/ao.png": "692d41e5578914f6d0b5ee842932a7c6701dbc3dc14c1ace8e32f6a6aa587f2c",
+      "build/shields/ce_sh_khuzait_wicker/src_maps/height.png": "dc0e94f120587ff6aa364b1736d959cf5aa6212ad0eff0510b9d959097938591"
+    }
+  },
+  "ce_sh_merc_buckler": {
+    "fingerprint": "0e99d305082099544e07332202fa31ca50cee5253947164f0cbf0db82b83e4ca",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler.fbx",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler.blend",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler_d.png",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler_n.png",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler_s.png",
+      "build/shields/ce_sh_merc_buckler/preview.png",
+      "build/shields/ce_sh_merc_buckler/src_maps/basecolor.png",
+      "build/shields/ce_sh_merc_buckler/src_maps/normal.png",
+      "build/shields/ce_sh_merc_buckler/src_maps/metallic.png",
+      "build/shields/ce_sh_merc_buckler/src_maps/roughness.png",
+      "build/shields/ce_sh_merc_buckler/src_maps/ao.png",
+      "build/shields/ce_sh_merc_buckler/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_merc_buckler": {
+        "tris": 3396,
+        "bbox_m": [
+          [
+            -0.17409144341945648,
+            -0.19699999690055847,
+            -0.17405764758586884
+          ],
+          [
+            0.17409199476242065,
+            0.015216904692351818,
+            0.1740494668483734
+          ]
+        ],
+        "dimensions_m": [
+          0.34818343818187714,
+          0.2122169015929103,
+          0.34810711443424225
+        ],
+        "uv_bounds": [
+          0.0039062027353793383,
+          0.9751250147819519
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_merc_buckler.lod1": {
+        "tris": 1698,
+        "bbox_m": [
+          [
+            -0.17376554012298584,
+            -0.19705159962177277,
+            -0.1735163927078247
+          ],
+          [
+            0.174077108502388,
+            0.015216904692351818,
+            0.17348085343837738
+          ]
+        ],
+        "dimensions_m": [
+          0.34784264862537384,
+          0.21226850431412458,
+          0.3469972461462021
+        ],
+        "uv_bounds": [
+          0.0039062027353793383,
+          0.9849478602409363
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_merc_buckler.lod2": {
+        "tris": 848,
+        "bbox_m": [
+          [
+            -0.1738218516111374,
+            -0.197360560297966,
+            -0.17348265647888184
+          ],
+          [
+            0.1740330159664154,
+            0.016740981489419937,
+            0.17316435277462006
+          ]
+        ],
+        "dimensions_m": [
+          0.3478548675775528,
+          0.21410154178738594,
+          0.3466470092535019
+        ],
+        "uv_bounds": [
+          0.003906241385266185,
+          0.9849135875701904
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_merc_buckler": "buckler"
+    },
+    "sha256": {
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler.fbx": "3a0f3e3c4cd5e475bd18c560621584aad7f258ccc1fc433b4a5b79b3feeb4fa4",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler.blend": "40d8d1449b34715be1c73eb37f7ecdcdac8b01c680768e70f894d82d161dd62b",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler_d.png": "fd595448d862a43071f2b8f2783b890d3a4d6050c3e79f2f67f32e92aed8364f",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler_n.png": "ac22dcd9fa704c2c4f593a3adc818539b36381954b90f661d9c7ac3ca1ee8c11",
+      "build/shields/ce_sh_merc_buckler/ce_sh_merc_buckler_s.png": "12227e981b262910dcab50dc9a55490dd8e745b050165f481dd22ce673dd0a40",
+      "build/shields/ce_sh_merc_buckler/preview.png": "b11dea1dd23ed3f9afae7fa2f8ea4ba7d8ba8b0773ce2c66f5b616f9eddff821",
+      "build/shields/ce_sh_merc_buckler/src_maps/basecolor.png": "e63914cf32f785dfa2772445858aef9df3b85c858a93bc3b4315800c001d5b01",
+      "build/shields/ce_sh_merc_buckler/src_maps/normal.png": "da5cda51303978998b0e34a315fa56f2dfa69d445552f9f1f35dc834bcb87a4b",
+      "build/shields/ce_sh_merc_buckler/src_maps/metallic.png": "a466c03f1dc40a1bae6746b724f52b2514da3ec1a23218df47ebde85d2c094c8",
+      "build/shields/ce_sh_merc_buckler/src_maps/roughness.png": "4e189ae7dce838d9883c67a764c599952ba56e315d507fa539868973a722af54",
+      "build/shields/ce_sh_merc_buckler/src_maps/ao.png": "79872cfd40f8c3983879b8b12b0bf1eea98fabe4135b62a312bb42382de7fbd0",
+      "build/shields/ce_sh_merc_buckler/src_maps/height.png": "b4badbba82262fbd62ea4f5e0963f2525a41882f49a7413a6af183daf1dd645f"
+    }
+  },
+  "ce_sh_nord_painted_round": {
+    "fingerprint": "c4eaa450bd1b00e3fed338271568efbd9bff0cfa2665e5a1f3e443330d9fc09d",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round.fbx",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round.blend",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round_d.png",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round_n.png",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round_s.png",
+      "build/shields/ce_sh_nord_painted_round/preview.png",
+      "build/shields/ce_sh_nord_painted_round/src_maps/basecolor.png",
+      "build/shields/ce_sh_nord_painted_round/src_maps/normal.png",
+      "build/shields/ce_sh_nord_painted_round/src_maps/metallic.png",
+      "build/shields/ce_sh_nord_painted_round/src_maps/roughness.png",
+      "build/shields/ce_sh_nord_painted_round/src_maps/ao.png",
+      "build/shields/ce_sh_nord_painted_round/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_nord_painted_round": {
+        "tris": 3332,
+        "bbox_m": [
+          [
+            -0.44479766488075256,
+            -0.19699999690055847,
+            -0.44477716088294983
+          ],
+          [
+            0.44479799270629883,
+            0.015216904692351818,
+            0.4447721242904663
+          ]
+        ],
+        "dimensions_m": [
+          0.8895956575870514,
+          0.2122169015929103,
+          0.8895492851734161
+        ],
+        "uv_bounds": [
+          0.0039061864372342825,
+          0.9923357963562012
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_nord_painted_round.lod1": {
+        "tris": 1666,
+        "bbox_m": [
+          [
+            -0.44423672556877136,
+            -0.19732029736042023,
+            -0.44399282336235046
+          ],
+          [
+            0.44479799270629883,
+            0.015216904692351818,
+            0.44395869970321655
+          ]
+        ],
+        "dimensions_m": [
+          0.8890347182750702,
+          0.21253720205277205,
+          0.887951523065567
+        ],
+        "uv_bounds": [
+          0.003906229045242071,
+          0.9960854649543762
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_nord_painted_round.lod2": {
+        "tris": 832,
+        "bbox_m": [
+          [
+            -0.4438316822052002,
+            -0.19769586622714996,
+            -0.4435500502586365
+          ],
+          [
+            0.444521427154541,
+            0.013623654842376709,
+            0.4435114860534668
+          ]
+        ],
+        "dimensions_m": [
+          0.8883531093597412,
+          0.21131952106952667,
+          0.8870615363121033
+        ],
+        "uv_bounds": [
+          0.0039062295109033585,
+          0.99609375
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_nord_painted_round": "round_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round.fbx": "95ace71d292e5b7ca28d6e9483b40468a8025da583804034922312e3b880b7c9",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round.blend": "12b123df4fdf88d9671372fe9377f3fb6f22b49575157060a67edd7bfe260b67",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round_d.png": "b046ca73a7edc3de794400432b108b15254bce2b5bc4850e0b22af376a20c0cf",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round_n.png": "ba1ba9ccef79c6042617fcd7f1e360d27d0d92ff54044927bd6c12ca30d6fc6f",
+      "build/shields/ce_sh_nord_painted_round/ce_sh_nord_painted_round_s.png": "8fac8c4d29fb784d6cfea782922cdd2a2d0ff229a9110770c4404af6612d4b22",
+      "build/shields/ce_sh_nord_painted_round/preview.png": "f888280f3d3403985cfef3b5743ec94c9947d577a136bcf128857723d6bc9a99",
+      "build/shields/ce_sh_nord_painted_round/src_maps/basecolor.png": "51ff3913bf0df723f36cced13505c2d183fbfb601c130104386d3c97786df0aa",
+      "build/shields/ce_sh_nord_painted_round/src_maps/normal.png": "1e9405067173b89ea3078dd4079bfcdd5f1a888a694b382f20f0630a16685b32",
+      "build/shields/ce_sh_nord_painted_round/src_maps/metallic.png": "a46928e85e214d0a10a6cabf35755f814506434b7ede375c71f5e86e5639dff6",
+      "build/shields/ce_sh_nord_painted_round/src_maps/roughness.png": "979b845b2b8f205504bbb3df320310641da7a0bf34286bb773831e6e1f4b7f3e",
+      "build/shields/ce_sh_nord_painted_round/src_maps/ao.png": "defdcc56dc67dec6f1ec0ec22eec1073694cb424340d56e0df208296f153f189",
+      "build/shields/ce_sh_nord_painted_round/src_maps/height.png": "b8b6c387d22ab26a91d0eb1371235cf92d0499ca87cc5e2169f39be92457bf8b"
+    }
+  },
+  "ce_sh_relic_aegis": {
+    "fingerprint": "680b98bf651dae6321c42327d00125b05b439ac40ab660c333e12837d6b8cda1",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis.fbx",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis.blend",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis_d.png",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis_n.png",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis_s.png",
+      "build/shields/ce_sh_relic_aegis/preview.png",
+      "build/shields/ce_sh_relic_aegis/src_maps/basecolor.png",
+      "build/shields/ce_sh_relic_aegis/src_maps/normal.png",
+      "build/shields/ce_sh_relic_aegis/src_maps/metallic.png",
+      "build/shields/ce_sh_relic_aegis/src_maps/roughness.png",
+      "build/shields/ce_sh_relic_aegis/src_maps/ao.png",
+      "build/shields/ce_sh_relic_aegis/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_relic_aegis": {
+        "tris": 3972,
+        "bbox_m": [
+          [
+            -0.4221193790435791,
+            -0.17900000512599945,
+            -0.42207154631614685
+          ],
+          [
+            0.42212000489234924,
+            0.015216904692351818,
+            0.42208319902420044
+          ]
+        ],
+        "dimensions_m": [
+          0.8442393839359283,
+          0.19421690981835127,
+          0.8441547453403473
+        ],
+        "uv_bounds": [
+          0.003906222293153405,
+          0.9942063689231873
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_relic_aegis.lod1": {
+        "tris": 1986,
+        "bbox_m": [
+          [
+            -0.421636700630188,
+            -0.17924752831459045,
+            -0.4211540222167969
+          ],
+          [
+            0.42156559228897095,
+            0.015216904692351818,
+            0.4212154448032379
+          ]
+        ],
+        "dimensions_m": [
+          0.8432022929191589,
+          0.19446443300694227,
+          0.8423694670200348
+        ],
+        "uv_bounds": [
+          0.003906241850927472,
+          0.9960916638374329
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_relic_aegis.lod2": {
+        "tris": 992,
+        "bbox_m": [
+          [
+            -0.421636700630188,
+            -0.17953690886497498,
+            -0.42068836092948914
+          ],
+          [
+            0.421191930770874,
+            0.01365608349442482,
+            0.4212154448032379
+          ]
+        ],
+        "dimensions_m": [
+          0.842828631401062,
+          0.1931929923593998,
+          0.841903805732727
+        ],
+        "uv_bounds": [
+          0.00390625698491931,
+          0.9960684776306152
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_relic_aegis": "round_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis.fbx": "1fa10dd8baded2d50f5c18319b72a7e5d41d1d20eb0f8048cd4cd8b58d789e9e",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis.blend": "5209f1493527ce9ea13ecb474f4d24f95483d7e772755040c1e5123c91ae8e74",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis_d.png": "febdf535b674973c0f0724aa442e3dbde0968f3db48dceecf8b66adfb1ec6cb6",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis_n.png": "edc65eead09fda5e66b86d076ac1d966ec42d141b935cfea2d5234212a69c188",
+      "build/shields/ce_sh_relic_aegis/ce_sh_relic_aegis_s.png": "bea3ef759af0b8020d68e50ad89873678ce233cc19042f133a23b14af85edd60",
+      "build/shields/ce_sh_relic_aegis/preview.png": "f634652b381966e2700068c18607558652ff52f37cfa33e6a3d2f5e1ad8faf82",
+      "build/shields/ce_sh_relic_aegis/src_maps/basecolor.png": "ddb8fa6503fdd17b85576c5c54e6c8f74b8527a938512d6755cad0d471ef1278",
+      "build/shields/ce_sh_relic_aegis/src_maps/normal.png": "9a0a15ad43218263802e7c29fa84d3b4adfd598a1a879f2f0b3495d943ff042a",
+      "build/shields/ce_sh_relic_aegis/src_maps/metallic.png": "ddc032c738c4efe0bea078dc62bb2d038f12d98e2e654bf69b45c218ef554587",
+      "build/shields/ce_sh_relic_aegis/src_maps/roughness.png": "cda0d0b447b8b2c617e0688771e2aa787578c28144d65df71455feadbbb8a873",
+      "build/shields/ce_sh_relic_aegis/src_maps/ao.png": "ba5fb006a4acfa6a1804b5e6bc40b682598869c1c74206a5903dc58e3794e250",
+      "build/shields/ce_sh_relic_aegis/src_maps/height.png": "56ec99112af77206a07019143e3bce16fbab16bf487ab07b9fe3867fea58db40"
+    }
+  },
+  "ce_sh_sturgian_ironbound": {
+    "fingerprint": "005fc35b97c6a1ac7f6a9823b4b009a5032fad3111a505c5c222617c9a53c366",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound.fbx",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound.blend",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound_d.png",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound_n.png",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound_s.png",
+      "build/shields/ce_sh_sturgian_ironbound/preview.png",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/basecolor.png",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/normal.png",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/metallic.png",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/roughness.png",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/ao.png",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_sturgian_ironbound": {
+        "tris": 3332,
+        "bbox_m": [
+          [
+            -0.4221193790435791,
+            -0.19599999487400055,
+            -0.42207154631614685
+          ],
+          [
+            0.42212000489234924,
+            0.015216904692351818,
+            0.42208319902420044
+          ]
+        ],
+        "dimensions_m": [
+          0.8442393839359283,
+          0.21121689956635237,
+          0.8441547453403473
+        ],
+        "uv_bounds": [
+          0.0039061782881617546,
+          0.994662344455719
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_sturgian_ironbound.lod1": {
+        "tris": 1666,
+        "bbox_m": [
+          [
+            -0.421636700630188,
+            -0.19631560146808624,
+            -0.4211540222167969
+          ],
+          [
+            0.42156559228897095,
+            0.015216904692351818,
+            0.4212154448032379
+          ]
+        ],
+        "dimensions_m": [
+          0.8432022929191589,
+          0.21153250616043806,
+          0.8423694670200348
+        ],
+        "uv_bounds": [
+          0.0039061817806214094,
+          0.9960939288139343
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_sturgian_ironbound.lod2": {
+        "tris": 832,
+        "bbox_m": [
+          [
+            -0.421636700630188,
+            -0.19668611884117126,
+            -0.42068836092948914
+          ],
+          [
+            0.421191930770874,
+            0.01365608349442482,
+            0.4212154448032379
+          ]
+        ],
+        "dimensions_m": [
+          0.842828631401062,
+          0.21034220233559608,
+          0.841903805732727
+        ],
+        "uv_bounds": [
+          0.0039062309078872204,
+          0.996080219745636
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_sturgian_ironbound": "round_shield"
+    },
+    "sha256": {
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound.fbx": "f55308147fa9cf114dee55a4ac69a9ce6f0554d1a9a301baab77ac266e072711",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound.blend": "f9a81d35470e06fab6972d0ffe04738aff6749674436751ffcc58394c5af7505",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound_d.png": "6d1e405508880fed81356e038025b1a0881a387dd3baa3551e35fdb5b5f912b9",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound_n.png": "98aa2f35c528d96a4dec7af095072dd2cf5b250c9607eec86648ca6188723d2f",
+      "build/shields/ce_sh_sturgian_ironbound/ce_sh_sturgian_ironbound_s.png": "6eb91ff92ca94c93d5420f5a559201484b30be0f976e354ac5b348b298b665a5",
+      "build/shields/ce_sh_sturgian_ironbound/preview.png": "5535b3e25d341ed04e009d684a68c45da8b32b13c25fe1d2d07249a71dd9560a",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/basecolor.png": "87c45bbd26b9d6bd6df066b45698cd7a7ce68f084f3957ec6169fbfaeb7a8f7b",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/normal.png": "90ba3b681914f14b3bd46fb84407af0d97dda14839e490d027d237057fec8c54",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/metallic.png": "c0ad4f41091cd9c74b4f6c3561f454e63d90ad3ea481e7195ab86c7f86fe3735",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/roughness.png": "741c252bd9c6b7e5e07fa4a34c4ac5e990fca1584a8508f04e02c63d57ea0f59",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/ao.png": "8432acab482a258989d2f00489eb38922b16734c64d2a72e25ae00949fdc9259",
+      "build/shields/ce_sh_sturgian_ironbound/src_maps/height.png": "829e7406456ccfe143ff2b59ed0fa7f8529ed4812668e5521e51efbce3584017"
+    }
+  },
+  "ce_sh_vlandic_heater": {
+    "fingerprint": "50f9f7684f0c2562bdaaf97932c9bd2dad01465550a3bf66ef5e6ecf714e085d",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater.fbx",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater.blend",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater_d.png",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater_n.png",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater_s.png",
+      "build/shields/ce_sh_vlandic_heater/preview.png",
+      "build/shields/ce_sh_vlandic_heater/src_maps/basecolor.png",
+      "build/shields/ce_sh_vlandic_heater/src_maps/normal.png",
+      "build/shields/ce_sh_vlandic_heater/src_maps/metallic.png",
+      "build/shields/ce_sh_vlandic_heater/src_maps/roughness.png",
+      "build/shields/ce_sh_vlandic_heater/src_maps/ao.png",
+      "build/shields/ce_sh_vlandic_heater/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_vlandic_heater": {
+        "tris": 2372,
+        "bbox_m": [
+          [
+            -0.30322104692459106,
+            -0.12372124195098877,
+            -0.45134249329566956
+          ],
+          [
+            0.3037196099758148,
+            0.015216904692351818,
+            0.4516712427139282
+          ]
+        ],
+        "dimensions_m": [
+          0.6069406569004059,
+          0.1389381466433406,
+          0.9030137360095978
+        ],
+        "uv_bounds": [
+          0.00390618690289557,
+          0.9914742112159729
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_vlandic_heater.lod1": {
+        "tris": 1186,
+        "bbox_m": [
+          [
+            -0.30322104692459106,
+            -0.12372124195098877,
+            -0.45134249329566956
+          ],
+          [
+            0.3037196099758148,
+            0.015216904692351818,
+            0.4516712427139282
+          ]
+        ],
+        "dimensions_m": [
+          0.6069406569004059,
+          0.1389381466433406,
+          0.9030137360095978
+        ],
+        "uv_bounds": [
+          0.0039062362629920244,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_vlandic_heater.lod2": {
+        "tris": 592,
+        "bbox_m": [
+          [
+            -0.30217671394348145,
+            -0.12372124195098877,
+            -0.44973212480545044
+          ],
+          [
+            0.304138720035553,
+            0.01365608349442482,
+            0.45142146944999695
+          ]
+        ],
+        "dimensions_m": [
+          0.6063154339790344,
+          0.1373773254454136,
+          0.9011535942554474
+        ],
+        "uv_bounds": [
+          0.003906249301508069,
+          0.9960862398147583
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_vlandic_heater": "heater"
+    },
+    "sha256": {
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater.fbx": "348c96f570157be19bf06926060a0d5227006e33327c5c92f121ac92ddd0f425",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater.blend": "70e50a66a0fff64ed399080b910ecd434542c0752851d19f501f5ad8447e9fbb",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater_d.png": "ee3783bf8a740eb285e6994efe4b11e2fb3a7a15873c3b3607a4a2c05f7ac7ca",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater_n.png": "aceac322cb961f48ed49dfbf08242539bc2ff8e63edd1a4d348cbe798733deac",
+      "build/shields/ce_sh_vlandic_heater/ce_sh_vlandic_heater_s.png": "b0326995bc0bf6185d964b312cb0301d00fec68cad06208b24cfe6ef3176f30e",
+      "build/shields/ce_sh_vlandic_heater/preview.png": "71bc206c674d89ba51274b4408e14d08e5cfa0a0db67dd8513f0a880175b3cbc",
+      "build/shields/ce_sh_vlandic_heater/src_maps/basecolor.png": "d13587888cca1f96b0b49cb6f1a0c3a8d63874ac313b9060a5fc66b349be9567",
+      "build/shields/ce_sh_vlandic_heater/src_maps/normal.png": "16a069318740b586db76438d6402701b5b57d7cf44ba43a7d19927354ed8c1dc",
+      "build/shields/ce_sh_vlandic_heater/src_maps/metallic.png": "efe44a687d252e533a863e4597cc8176a9f5e93d07ddc5500759b85c41a2b666",
+      "build/shields/ce_sh_vlandic_heater/src_maps/roughness.png": "f8b7eeee66df8381697528275d017d36a41749cdb5f80864c93bcb39ea853f5b",
+      "build/shields/ce_sh_vlandic_heater/src_maps/ao.png": "c31af791d5ecf7dbd8f1f68ccfe359500766a0d79cb220ab9d365bb644f69637",
+      "build/shields/ce_sh_vlandic_heater/src_maps/height.png": "80f9a0d1a1fc5811ffe53d360e4c7333626e6507bd27a8076f5e3b3e2372bd14"
+    }
+  },
+  "ce_sh_vlandic_pavise": {
+    "fingerprint": "e78238234bcba417b4ce121dfc27bd24c44f37c4174ecf62feb8e8d518ed6552",
+    "category": "shields",
+    "files": [
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise.fbx",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise.blend",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise_d.png",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise_n.png",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise_s.png",
+      "build/shields/ce_sh_vlandic_pavise/preview.png",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/basecolor.png",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/normal.png",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/metallic.png",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/roughness.png",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/ao.png",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sh_vlandic_pavise": {
+        "tris": 2400,
+        "bbox_m": [
+          [
+            -0.3527446687221527,
+            -0.1809379905462265,
+            -0.6499999761581421
+          ],
+          [
+            0.3526541292667389,
+            0.015216904692351818,
+            0.6499999761581421
+          ]
+        ],
+        "dimensions_m": [
+          0.7053987979888916,
+          0.19615489523857832,
+          1.2999999523162842
+        ],
+        "uv_bounds": [
+          0.0039062302093952894,
+          0.9951911568641663
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_vlandic_pavise.lod1": {
+        "tris": 1200,
+        "bbox_m": [
+          [
+            -0.3527446687221527,
+            -0.1809379905462265,
+            -0.6499999761581421
+          ],
+          [
+            0.3526541292667389,
+            0.015216904692351818,
+            0.6499999761581421
+          ]
+        ],
+        "dimensions_m": [
+          0.7053987979888916,
+          0.19615489523857832,
+          1.2999999523162842
+        ],
+        "uv_bounds": [
+          0.0039062302093952894,
+          0.9958038330078125
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sh_vlandic_pavise.lod2": {
+        "tris": 600,
+        "bbox_m": [
+          [
+            -0.3527894914150238,
+            -0.1809379905462265,
+            -0.6484876275062561
+          ],
+          [
+            0.35332614183425903,
+            0.013622913509607315,
+            0.6493968367576599
+          ]
+        ],
+        "dimensions_m": [
+          0.7061156332492828,
+          0.19456090405583382,
+          1.297884464263916
+        ],
+        "uv_bounds": [
+          0.0039062302093952894,
+          0.9957975745201111
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sh_vlandic_pavise": "pavise"
+    },
+    "sha256": {
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise.fbx": "c6dd345c607f3f66431891b5c403b0b15dc72fd52102d098afc23955f9176a04",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise.blend": "81d9b92485229dfbe3e5bf3877b332a4bd33ca4353238393ae3ef97f90162b5a",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise_d.png": "6f5d14c1729f2a5ade9587121e65bb8924080ae70e814f452889c7b16c5c14e2",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise_n.png": "a1072bff3e291020d76f2d8591b9ec949de70278ce0a2c956147252675b9853a",
+      "build/shields/ce_sh_vlandic_pavise/ce_sh_vlandic_pavise_s.png": "b6a04b18d8768a9a45ac5bbe14d5d2574766b7713e55e558d37cbea9236da057",
+      "build/shields/ce_sh_vlandic_pavise/preview.png": "d968a428fc1ce227566bce356a4a09536cf1c594effb4b957c1c4f2ed58da612",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/basecolor.png": "2ef0cfe22877dd19bd56cf29fea3c9ee356a0e2f72dd75de7ba1896733495d3a",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/normal.png": "99dcf1e27add49e7e57283dbdfe6c407f41ae3dbd3f15ff1d4c080abe789cc1e",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/metallic.png": "c2c75368fa5fbba2220e3fce8193ea27bec8b7177c59add22fd2bdaa6c261654",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/roughness.png": "e3942f99011f0f10960246a1bf4b72681bfb5fa2972e0a177362d99f93e19a04",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/ao.png": "b577d4e39a9befbfc3ec0e4132a088ad1fdeeae7f78f34dafd43b8522359be28",
+      "build/shields/ce_sh_vlandic_pavise/src_maps/height.png": "eae4248f1b2763477cfa99f1ad2b17fee75322a96f1a7eb5259efc6ad9e04c74"
+    }
+  },
   "ce_sw_aserai_saif": {
     "fingerprint": "b376b117a3f5dcad384c54b322c40b5928f842dd105ba892f181a7d290dad63e",
     "category": "one_handed_swords",
