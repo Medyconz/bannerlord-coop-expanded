@@ -27,7 +27,7 @@ def references(e, cfg):
     return [name for name in refs.get(e["type"],refs["human"]) if not (ROOT/"reference"/name).is_file()]
 
 
-def fingerprint(e):
+def fingerprint(e, *, normalize_newlines=True):
     common = ["conventions.json"]
     if e["group"]=="UI":
         sources = sorted(p.relative_to(ROOT) for p in (ROOT/"src").glob("ui_*.py"))
@@ -39,7 +39,12 @@ def fingerprint(e):
         sources = []
     h=hashlib.sha256(json.dumps(e,sort_keys=True).encode())
     for p in [*common,*sources]:
-        h.update((ROOT/p).read_bytes())
+        source = (ROOT/p).read_bytes()
+        # Git can check out text as either CRLF or LF. The raw mode is only
+        # for recognizing a pre-normalization record in its original checkout.
+        if normalize_newlines:
+            source = source.replace(b"\r\n", b"\n")
+        h.update(source)
     return h.hexdigest()
 
 

@@ -72,6 +72,7 @@ def build(e,cfg):
                 detail=(work/"build.log").read_text(encoding="utf8",errors="replace").splitlines()
                 raise RuntimeError(next((s for s in reversed(detail) if "Error:" in s and "script failed" not in s),"Blender failed")+f" (assets/.work/{i}/build.log)")
             measures=read(stage/"metrics.json")
+            (stage/"atlas.npz").replace(work/"atlas.npz")
             backup=stage/"previous"
             if directory.exists(): directory.rename(backup)
             try: dest.rename(directory)

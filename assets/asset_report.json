@@ -1,6 +1,6 @@
 {
   "ce_brand_armory": {
-    "fingerprint": "9ff989e9972f4ee3e6a5c7965af2bba6a854418a20ed6e5315e271ec213bd37f",
+    "fingerprint": "716ce487d2f2ef42a3c5cbc7516d9832c93e8d0168f847a81a18e6cea7847160",
     "category": "branding",
     "files": [
       "ui/branding/armory.png"
@@ -12,7 +12,7 @@
     }
   },
   "ce_brand_coophud": {
-    "fingerprint": "9e700dbecfefb55f3f05fdc5313ca13aead2ffb59d8fd6956e1c07524dfee778",
+    "fingerprint": "9799e2d46db17c243b899f43707c6326d3feb6f8e407a5133e8ad04a7957b1cd",
     "category": "branding",
     "files": [
       "ui/branding/coophud.png"
@@ -24,7 +24,7 @@
     }
   },
   "ce_brand_core": {
-    "fingerprint": "23a73af79e2fc46cd0b70e4581fb8a9a857610bf5ff7f527ec02d93f311ad4bf",
+    "fingerprint": "b1308e9eec9245c76ebdc6c5199a4bb6cafd9c1ce49ab4745e9bd0b637700b48",
     "category": "branding",
     "files": [
       "ui/branding/core.png"
@@ -36,7 +36,7 @@
     }
   },
   "ce_brand_factions": {
-    "fingerprint": "3d4dbc1bfb1e534ff6a91e599d0d5f963785e93ffd0252cfe603091e6d774c50",
+    "fingerprint": "b7f09cb5edf28d8142b7209e25e0b9bc19cc47b72da8d7eb27c196e456ae4bad",
     "category": "branding",
     "files": [
       "ui/branding/factions.png"
@@ -48,7 +48,7 @@
     }
   },
   "ce_brand_logo": {
-    "fingerprint": "80dfc0bf03c4a4b682b633e633106efd4e6747e3e15b6a78bef765172314d466",
+    "fingerprint": "e4806c5c2e9dfea3e76a78ced5c493bd7bf529ba05d616d7ac462fd482cd4886",
     "category": "branding",
     "files": [
       "ui/branding/logo.png"
@@ -60,7 +60,7 @@
     }
   },
   "ce_brand_qol": {
-    "fingerprint": "eff645120cd05e40bbdaa7642fe98171a23c83880c32b91988c8c239904cafb3",
+    "fingerprint": "2203060142d9c057f5b98459847bd3328b270d360a55db76e94514ca36ce4182",
     "category": "branding",
     "files": [
       "ui/branding/qol.png"
@@ -72,7 +72,7 @@
     }
   },
   "ce_brand_repo_banner": {
-    "fingerprint": "118eea594287f5d206103d33f1130b55f8e2b29a9d2bfa1bae446c868fd4e174",
+    "fingerprint": "10965719765fbd6e7203fb860d9ad06f7618dd69dcb563c1ffece936ed816a13",
     "category": "branding",
     "files": [
       "ui/branding/repo_banner.png"
@@ -84,7 +84,7 @@
     }
   },
   "ce_brand_trade": {
-    "fingerprint": "1081a4f21c9d142b5e79639507dbf94fce4fca5fb9ca80ede8d9c5ce87cffbdb",
+    "fingerprint": "a57e6a49b2f45ec6370832a0c9dd4af1fa4321c844518e3dc4dbb0e015e55281",
     "category": "branding",
     "files": [
       "ui/branding/trade.png"
@@ -96,7 +96,7 @@
     }
   },
   "ce_brand_troops": {
-    "fingerprint": "88ac2d0e96068163afa3945b8b5ab61337901bb6843253acbf4abe76c4548efe",
+    "fingerprint": "1309a1ac7422662b57beabbb611078ecb345de10839be164194b37abb2e8ed79",
     "category": "branding",
     "files": [
       "ui/branding/troops.png"
@@ -107,8 +107,1040 @@
       "ui/branding/troops.png": "d038da14b4d8a511446dca0ead614d665e4d7c1d1b292ca0ad68270c1c5e700b"
     }
   },
+  "ce_sw_aserai_saif": {
+    "fingerprint": "b376b117a3f5dcad384c54b322c40b5928f842dd105ba892f181a7d290dad63e",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif.fbx",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif.blend",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif_d.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif_n.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif_s.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/preview.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_aserai_saif": {
+        "tris": 3998,
+        "bbox_m": [
+          [
+            -0.09300000220537186,
+            -0.014800000004470348,
+            -0.10100001096725464
+          ],
+          [
+            0.09300000220537186,
+            0.014800000004470348,
+            0.8849999904632568
+          ]
+        ],
+        "dimensions_m": [
+          0.1860000044107437,
+          0.029600000008940697,
+          0.9860000014305115
+        ],
+        "uv_bounds": [
+          0.003906222991645336,
+          0.9960938096046448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_aserai_saif.lod1": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.09300000220537186,
+            -0.014800000004470348,
+            -0.10100001096725464
+          ],
+          [
+            0.09300000220537186,
+            0.014800000004470348,
+            0.8849999904632568
+          ]
+        ],
+        "dimensions_m": [
+          0.1860000044107437,
+          0.029600000008940697,
+          0.9860000014305115
+        ],
+        "uv_bounds": [
+          0.003906223690137267,
+          0.9920619130134583
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_aserai_saif.lod2": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.09300000220537186,
+            -0.014800000004470348,
+            -0.10100001096725464
+          ],
+          [
+            0.09300000220537186,
+            0.014800000004470348,
+            0.8850824236869812
+          ]
+        ],
+        "dimensions_m": [
+          0.1860000044107437,
+          0.029600000008940697,
+          0.9860824346542358
+        ],
+        "uv_bounds": [
+          0.003906222525984049,
+          0.9960765242576599
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_aserai_saif": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif.fbx": "90f92fff54f216429b504f8263b4664f2635cda0034c6abc9f163889d88e35a3",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif.blend": "684054cca491c6e19f8e5ec51eddc1b93436cb2dd8d9a16067fe358dea373b40",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif_d.png": "d00b6c4a5d46ea8e0909754125258371c3bd0350f5df6afe0dfcae408e3ac800",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif_n.png": "18ce3c6b8b84aa36bf4f73f89abbf5f4a335eb787a8069924adb9f1e36d8e5d1",
+      "build/one_handed_swords/ce_sw_aserai_saif/ce_sw_aserai_saif_s.png": "6058e9cda86c7adfd4d79ccf0a1fe69fa64a23a4acb65b5881d53012b2219546",
+      "build/one_handed_swords/ce_sw_aserai_saif/preview.png": "8488579cd9e00509727a86d619133acd26f6f8728fefe18db8cffd41c6fea131",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/basecolor.png": "07b775e4f3b390889cec6996e8ea09155b16b04c5c71f916b873efae3c68adb3",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/normal.png": "2d6d3685244ec34c9bbd77165b85991bb8afa70f9574b278bb8ddb0250e82ebc",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/metallic.png": "3747a38c21e5a05372d045427a516804ccdbd1f652ac57c7470ecaf96fc9920e",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/roughness.png": "d6651ca6e45b66c5ea69f0464add9ee4d0dd35074b556b1d515528d6f9d5eeb3",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/ao.png": "e5230105a1b1e81e3ec122ae4c1918c3d312b1d8d9b68a95862b0e108a8ff32d",
+      "build/one_handed_swords/ce_sw_aserai_saif/src_maps/height.png": "d8326551c65211f974bab1766f710299b052fd7b30431cf69e5c318794d1c378"
+    }
+  },
+  "ce_sw_battanian_leaf": {
+    "fingerprint": "46cb289a467c86be865ffab663c198b7dfad136a690f9a81e059d884f22ca6fe",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf.fbx",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf.blend",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf_d.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf_n.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf_s.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/preview.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_battanian_leaf": {
+        "tris": 2676,
+        "bbox_m": [
+          [
+            -0.08335649222135544,
+            -0.014800000004470348,
+            -0.09151016175746918
+          ],
+          [
+            0.08361195772886276,
+            0.014800000004470348,
+            0.8650000095367432
+          ]
+        ],
+        "dimensions_m": [
+          0.1669684499502182,
+          0.029600000008940697,
+          0.9565101712942123
+        ],
+        "uv_bounds": [
+          0.003906203666701913,
+          0.9960938692092896
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_battanian_leaf.lod1": {
+        "tris": 1338,
+        "bbox_m": [
+          [
+            -0.08335649222135544,
+            -0.014787659049034119,
+            -0.09151016175746918
+          ],
+          [
+            0.08361195772886276,
+            0.014787659049034119,
+            0.8650177121162415
+          ]
+        ],
+        "dimensions_m": [
+          0.1669684499502182,
+          0.029575318098068237,
+          0.9565278738737106
+        ],
+        "uv_bounds": [
+          0.0039062316063791513,
+          0.9932991862297058
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_battanian_leaf.lod2": {
+        "tris": 668,
+        "bbox_m": [
+          [
+            -0.08361902832984924,
+            -0.014787659049034119,
+            -0.09155498445034027
+          ],
+          [
+            0.08372756093740463,
+            0.014787659049034119,
+            0.8650839328765869
+          ]
+        ],
+        "dimensions_m": [
+          0.16734658926725388,
+          0.029575318098068237,
+          0.9566389173269272
+        ],
+        "uv_bounds": [
+          0.003906222525984049,
+          0.9953903555870056
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_battanian_leaf": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf.fbx": "75421bd452abd584a5d1bcdd69778815c8c803e60769971a93abc91eaf64e4c3",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf.blend": "16ddb2747e6607527011c90ee92f560878e5ad8ee715df335c16450d780c8ec5",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf_d.png": "2d29f8c4477554795147c25b8d88287780ca8271153940d76aeb6135cc120e37",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf_n.png": "e768c95a4811bffdc9f6fa394f933ee0926f9d0e5acd8d3d9809f8c028e84b63",
+      "build/one_handed_swords/ce_sw_battanian_leaf/ce_sw_battanian_leaf_s.png": "caef18155ef7f57b9d16b816778a68e5b1122dd25537ef2a65662de95379cc88",
+      "build/one_handed_swords/ce_sw_battanian_leaf/preview.png": "65a7d4e088125ee48aaaab1248c27b300578cc5c34e09003d2ad2aee1582d85a",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/basecolor.png": "53b484c8c5147fb77ef190eb190a191f517853e1b89fe9e91c8f52f9412465e4",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/normal.png": "0a9607a031046d66d76e10009336599c5ee5d6fc96690a48c87a3f0ed3e08873",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/metallic.png": "b647e16097aa5310519be6ff107ac7e4ff459f8875a7be4c4f863e2a9c94a36c",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/roughness.png": "a54c0cd678653f36a529c53fedb77b7bd6bd66f7d85a09ca0f43103bbee5b46d",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/ao.png": "653b074cfbd5816e592c5343c247ba1ca074fdfc9be1a00d25c62a62fc327ad8",
+      "build/one_handed_swords/ce_sw_battanian_leaf/src_maps/height.png": "68d7ed058666824fdbe3ab12933c420cd88e05108f60a682c46e45b5ae9a540b"
+    }
+  },
+  "ce_sw_imperial_spatha": {
+    "fingerprint": "7b270ec0693e24e0539446fec384d5836344fd31f82e6396fb64f12294dad652",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha.fbx",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha.blend",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha_d.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha_n.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha_s.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/preview.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_imperial_spatha": {
+        "tris": 3998,
+        "bbox_m": [
+          [
+            -0.05400000512599945,
+            -0.014426585286855698,
+            -0.10100001096725464
+          ],
+          [
+            0.05400000512599945,
+            0.014426585286855698,
+            0.8800000548362732
+          ]
+        ],
+        "dimensions_m": [
+          0.1080000102519989,
+          0.028853170573711395,
+          0.9810000658035278
+        ],
+        "uv_bounds": [
+          0.0039061952847987413,
+          0.9960939288139343
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_imperial_spatha.lod1": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.05400000512599945,
+            -0.014426585286855698,
+            -0.10100001096725464
+          ],
+          [
+            0.05400000512599945,
+            0.014426585286855698,
+            0.8800000548362732
+          ]
+        ],
+        "dimensions_m": [
+          0.1080000102519989,
+          0.028853170573711395,
+          0.9810000658035278
+        ],
+        "uv_bounds": [
+          0.0039061899296939373,
+          0.9959862232208252
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_imperial_spatha.lod2": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.05400000512599945,
+            -0.013881679624319077,
+            -0.10100001096725464
+          ],
+          [
+            0.05400000512599945,
+            0.013881679624319077,
+            0.8800201416015625
+          ]
+        ],
+        "dimensions_m": [
+          0.1080000102519989,
+          0.027763359248638153,
+          0.9810201525688171
+        ],
+        "uv_bounds": [
+          0.003906239988282323,
+          0.9947038888931274
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_imperial_spatha": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha.fbx": "2cb5dccf06e5f64f31f4e4b79ecdf5478f3950953112c7fdb931c66b763ca9a3",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha.blend": "8722a49b7c03850dc8ae72086aefb45defabffa13b64d23896d8986b4164b352",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha_d.png": "7ac7964bfbd14155525f6baa287ec941d27b8b44b730a8b754c5f692ae0b7495",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha_n.png": "b1a778cbeaad8b56fdb205d9bcaf6aa57cd0d78348862d19c9b3e349c2d3eb9a",
+      "build/one_handed_swords/ce_sw_imperial_spatha/ce_sw_imperial_spatha_s.png": "4ef09096e684192805e675576afa72501f3da2fa5b4fed59cae4d5324ce22dc7",
+      "build/one_handed_swords/ce_sw_imperial_spatha/preview.png": "42dc587e7076da193b071882de5624fea80e9e1065bf0b938fd950dd412bfe12",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/basecolor.png": "fc93203913975c51df6c570f10aac8360c41077b1472df2c4c1616a81a6e5767",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/normal.png": "1ddcfe5bff0fa401565f789046e4a1522bf06f3e6b215ffd1dfd2b1a6dc5d77f",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/metallic.png": "f052ed1e664625556174df6f975d06c86db42db5142f0d1bb16677837d0cd326",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/roughness.png": "25cf6f376021962eeabde5ab173dddf936dbda9152d4585b56df81c15edfd1ff",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/ao.png": "14003e9a504da8a4d0b14a94fd0e355020b4cb2b91ce8602b2b0e34f9d3307b1",
+      "build/one_handed_swords/ce_sw_imperial_spatha/src_maps/height.png": "08b6b74f76a40e5cdf2245545882693cd22408984e33ba467b0b3cdf29d0ab3e"
+    }
+  },
+  "ce_sw_khuzait_sabre": {
+    "fingerprint": "70bcc28685a34bccac52d64d1adc559e5acb4da6305e8e6fc4e2b1362bd7c80f",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre.fbx",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre.blend",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre_d.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre_n.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre_s.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/preview.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_khuzait_sabre": {
+        "tris": 3998,
+        "bbox_m": [
+          [
+            -0.09700001776218414,
+            -0.014426585286855698,
+            -0.17098677158355713
+          ],
+          [
+            0.08300000429153442,
+            0.014426585286855698,
+            0.8700001239776611
+          ]
+        ],
+        "dimensions_m": [
+          0.18000002205371857,
+          0.028853170573711395,
+          1.0409868955612183
+        ],
+        "uv_bounds": [
+          0.003906212281435728,
+          0.9944539070129395
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_khuzait_sabre.lod1": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.09700001776218414,
+            -0.014426585286855698,
+            -0.17098675668239594
+          ],
+          [
+            0.08300000429153442,
+            0.014426585286855698,
+            0.8700001239776611
+          ]
+        ],
+        "dimensions_m": [
+          0.18000002205371857,
+          0.028853170573711395,
+          1.040986880660057
+        ],
+        "uv_bounds": [
+          0.0039062239229679108,
+          0.9958792924880981
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_khuzait_sabre.lod2": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.09678230434656143,
+            -0.013807457871735096,
+            -0.1710086315870285
+          ],
+          [
+            0.08300000429153442,
+            0.013807457871735096,
+            0.8701477646827698
+          ]
+        ],
+        "dimensions_m": [
+          0.17978230863809586,
+          0.027614915743470192,
+          1.0411563962697983
+        ],
+        "uv_bounds": [
+          0.0039062313735485077,
+          0.9960158467292786
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_khuzait_sabre": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre.fbx": "d15e964b379bcf13ff6eb27cea4a5554aa30b4cdc14e916be3d4c7d525ebd302",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre.blend": "25b3036d9ee26c1b885ac875b3f823280d1f2221f95d84f8044f520dc91a4faa",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre_d.png": "91f1b2d9e49ee1ff5a85ec552cffb2db1e72981f1b8e6d7a675375dfa02ca17b",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre_n.png": "811bb16af9854ab11b91a8af6354024fc07d01bcfc420ad0557985d0a026fba6",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/ce_sw_khuzait_sabre_s.png": "89c160d85b96e8cfd9198c080c510b08c39ad73b6db2b9bfee27fb5ae29f8f91",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/preview.png": "fa858bff7002ad27192d29a3c6ade4dea98b7049e3f023faae1719ea892586de",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/basecolor.png": "13b3a3023a533159d5b5c293b06b488cab630b8727e92572ed7953678a8a7940",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/normal.png": "899168a82f68fa70b5abb3cab52a75c04ac016198e5397f22cdb9ca5848a11da",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/metallic.png": "f9eb4cc462081dbda6413162210f6486527eea3ada323881c111ccb0e0d966cf",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/roughness.png": "bc6d1b0aa3f5e65712447e56ff7c4d2e845f946b7174092e0547905221a428d3",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/ao.png": "8f3993e4111f46e1a8cec51e3e9d32a0ae82c02fe195665774ec5be0c764f48d",
+      "build/one_handed_swords/ce_sw_khuzait_sabre/src_maps/height.png": "614102af894ab94031473a10404fe00188224aae8d03815e04df74c8b030cc83"
+    }
+  },
+  "ce_sw_nord_langseax": {
+    "fingerprint": "b7ca9df2c249e110d6fb52b217cc6b924ce5609df0cb56245d755801f2fc8984",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax.fbx",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax.blend",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax_d.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax_n.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax_s.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/preview.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_nord_langseax": {
+        "tris": 3998,
+        "bbox_m": [
+          [
+            -0.034000005573034286,
+            -0.01600000262260437,
+            -0.07999999821186066
+          ],
+          [
+            0.034000005573034286,
+            0.01600000262260437,
+            0.8650000095367432
+          ]
+        ],
+        "dimensions_m": [
+          0.06800001114606857,
+          0.03200000524520874,
+          0.9450000077486038
+        ],
+        "uv_bounds": [
+          0.003906221827492118,
+          0.9960936903953552
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_nord_langseax.lod1": {
+        "tris": 1998,
+        "bbox_m": [
+          [
+            -0.034000005573034286,
+            -0.01600000262260437,
+            -0.07999999821186066
+          ],
+          [
+            0.034000005573034286,
+            0.01600000262260437,
+            0.8650000095367432
+          ]
+        ],
+        "dimensions_m": [
+          0.06800001114606857,
+          0.03200000524520874,
+          0.9450000077486038
+        ],
+        "uv_bounds": [
+          0.0039062178693711758,
+          0.9819411635398865
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_nord_langseax.lod2": {
+        "tris": 998,
+        "bbox_m": [
+          [
+            -0.034000005573034286,
+            -0.01600000262260437,
+            -0.07999999821186066
+          ],
+          [
+            0.034000005573034286,
+            0.01600000262260437,
+            0.8650360703468323
+          ]
+        ],
+        "dimensions_m": [
+          0.06800001114606857,
+          0.03200000524520874,
+          0.9450360685586929
+        ],
+        "uv_bounds": [
+          0.0039062348660081625,
+          0.9902591705322266
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_nord_langseax": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax.fbx": "9d46d93d9a602ee43410321b6a977582a4a6af6744b1ec32dd827e8013e186c1",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax.blend": "57d29084366730ec8aed0457dfe2b3c455d53b4c44ba071152cc150a11624a58",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax_d.png": "66f3f83e94bf0da10f9db405c0f4d165a95ea74bc1a9b12addd5023c96384754",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax_n.png": "5006f46aa65aab6baf0959c296a5badbd1ff8e1d53789f76e2b54ff10a594f1f",
+      "build/one_handed_swords/ce_sw_nord_langseax/ce_sw_nord_langseax_s.png": "f4d72875a51515fbbbff8e79f32f63589ad2ee7a8659d7e620b311e4a2e25e2b",
+      "build/one_handed_swords/ce_sw_nord_langseax/preview.png": "0bbe112fed37bd93608310ad83d45de07a2972fab645dda9678c1474e08fc643",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/basecolor.png": "487efffa22abe3abe12caade88f047f4486c48166cb636db57a90d71074184ef",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/normal.png": "5733b0492e1b85a4b91e59764e2fe5695ab118c87bccaeae32973e940cdba2e1",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/metallic.png": "0e19fbde2ee5eed680df33bd5f16480650602acbbfc7d8fa555111ae41cc1b4a",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/roughness.png": "b72236dcd51041e91e7e8e7db5c7da0ae6c009b3f058010ccaf494403a2400d9",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/ao.png": "fa8b63056e1fa48b919cf556fa577c7744ce35ba0c0b0f8e31ebd7948972c31e",
+      "build/one_handed_swords/ce_sw_nord_langseax/src_maps/height.png": "fbc023a2ee2486439f708589f89c57a2fb26c5536ff7a2ceb16ae6a10be3fe0c"
+    }
+  },
+  "ce_sw_relic_dawnbrand": {
+    "fingerprint": "730cc661213b89a43e5087971cf13f84590047ed709f28ab08be77c9b57569d4",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand.fbx",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand.blend",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand_d.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand_n.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand_s.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/preview.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_relic_dawnbrand": {
+        "tris": 2618,
+        "bbox_m": [
+          [
+            -0.09700000286102295,
+            -0.014426584355533123,
+            -0.10199999809265137
+          ],
+          [
+            0.09700000286102295,
+            0.014426584355533123,
+            0.8949999809265137
+          ]
+        ],
+        "dimensions_m": [
+          0.1940000057220459,
+          0.028853168711066246,
+          0.996999979019165
+        ],
+        "uv_bounds": [
+          0.0039062444120645523,
+          0.9933940768241882
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_relic_dawnbrand.lod1": {
+        "tris": 1308,
+        "bbox_m": [
+          [
+            -0.09700000286102295,
+            -0.014426584355533123,
+            -0.10192866623401642
+          ],
+          [
+            0.09700000286102295,
+            0.014426584355533123,
+            0.8950169682502747
+          ]
+        ],
+        "dimensions_m": [
+          0.1940000057220459,
+          0.028853168711066246,
+          0.9969456344842911
+        ],
+        "uv_bounds": [
+          0.0039062227588146925,
+          0.9960330724716187
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_relic_dawnbrand.lod2": {
+        "tris": 654,
+        "bbox_m": [
+          [
+            -0.09531018882989883,
+            -0.014080651104450226,
+            -0.10062918812036514
+          ],
+          [
+            0.09550002217292786,
+            0.0140806520357728,
+            0.8950269818305969
+          ]
+        ],
+        "dimensions_m": [
+          0.1908102110028267,
+          0.028161303140223026,
+          0.9956561699509621
+        ],
+        "uv_bounds": [
+          0.0039062402211129665,
+          0.9959498047828674
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_relic_dawnbrand": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand.fbx": "157dc79626138ecc5a1213a8f55088a2807219c6aeb48873153ec861800b40a8",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand.blend": "bdd100768b09ad4b5a19cf557e0f6990b87dc45feb97d69ff6dbcdb03fd4d6cf",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand_d.png": "ec7cde5ef160edebbc64c7f42a47063f401bdc7d0d5228b7f36893fab4532c93",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand_n.png": "d599061118210a71ef0926c29b6b7ca95caeb3db7ef2608ff76e0d41da19909c",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/ce_sw_relic_dawnbrand_s.png": "0f7d4a9f2eebb345c5a6b02d5ba1e88ee7b7098a1ee74efef4c790744d916c1e",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/preview.png": "c1cc9b7ed50d079d69518e3c57462120bf143902646a9f6a8e2650834b66734c",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/basecolor.png": "6c8fbc15478f9e0f7ecc925fd0db830ba73ff81518ab337fb9bd712f8716df62",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/normal.png": "3760123df258350a0ea5ba491cb2ca90565049d18a432dc0c4ea8a2b8b287bfe",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/metallic.png": "2c6cb5a258f4c05617934f2cc8fe3c8f2912d5f3651e3a6be1691fa7110d838f",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/roughness.png": "a0b0672ac3e6733d4a996b7d588a87bdba57b7f145a30055ec5aa04282edb415",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/ao.png": "b414e106f68c27950600b1605ba3dc08d4c3efdc0496b953b7e0aad25d4070e4",
+      "build/one_handed_swords/ce_sw_relic_dawnbrand/src_maps/height.png": "ec1dc6e55c5b6d3d1009ca13706b6c08af9f631fe31dbfc55bb576b90da232cf"
+    }
+  },
+  "ce_sw_sturgian_broadblade": {
+    "fingerprint": "a640696e80ad0517ee4e0370e0329ee0a4008d006fc7e84d64121445983843c8",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade.fbx",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade.blend",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade_d.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade_n.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade_s.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/preview.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_sturgian_broadblade": {
+        "tris": 2474,
+        "bbox_m": [
+          [
+            -0.07999999821186066,
+            -0.014426584355533123,
+            -0.10294780135154724
+          ],
+          [
+            0.07999999821186066,
+            0.014426584355533123,
+            0.8550000190734863
+          ]
+        ],
+        "dimensions_m": [
+          0.1599999964237213,
+          0.028853168711066246,
+          0.9579478204250336
+        ],
+        "uv_bounds": [
+          0.00390620157122612,
+          0.9915701150894165
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_sturgian_broadblade.lod1": {
+        "tris": 1236,
+        "bbox_m": [
+          [
+            -0.07999999821186066,
+            -0.013827608898282051,
+            -0.10311644524335861
+          ],
+          [
+            0.07999999821186066,
+            0.013827608898282051,
+            0.8550351858139038
+          ]
+        ],
+        "dimensions_m": [
+          0.1599999964237213,
+          0.027655217796564102,
+          0.9581516310572624
+        ],
+        "uv_bounds": [
+          0.00390622578561306,
+          0.9947981238365173
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_sturgian_broadblade.lod2": {
+        "tris": 618,
+        "bbox_m": [
+          [
+            -0.07856671512126923,
+            -0.014080651104450226,
+            -0.10315703600645065
+          ],
+          [
+            0.07865960896015167,
+            0.0140806520357728,
+            0.8550376892089844
+          ]
+        ],
+        "dimensions_m": [
+          0.1572263240814209,
+          0.028161303140223026,
+          0.958194725215435
+        ],
+        "uv_bounds": [
+          0.0039062276482582092,
+          0.9946285486221313
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_sturgian_broadblade": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade.fbx": "e969fe87adb46df7ab929d0815a2f732857e4ee806c00cd24cd6f09824ef68ac",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade.blend": "3ca6c4f428830ab44d423869ff5d960843732d20a54b40720b407280850328fd",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade_d.png": "b6a09d0f9032bc0b57e87fa58960c301c6850302bb794c8865fa8742c03bca65",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade_n.png": "7d7d034f24448d08697c305bc9aefee8466d55944725134fb6c86d57e9f28a4b",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/ce_sw_sturgian_broadblade_s.png": "b81ebe68770ac2a8410513fcad32ea6ee5fd5a8bcae7c31cc2a88cd2c9a0e389",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/preview.png": "9e71ac69974e60be3ab2ea53efa183dd16293ad0b2a93a441fabfc2ea8be00fd",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/basecolor.png": "f54a92f86158da3a263b0ead078b6e601545a3d6032003c730fabe6d4830bc76",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/normal.png": "7291d531fe0f6e103fe862d7e9a09f9796dc13e2e3a5216297f227072c545e00",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/metallic.png": "649b2b4867f3611577164fee2e2337012746813f6a35e77c9ba2a969e33a9b6e",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/roughness.png": "60b0f386da79204371fd0daf492083036f02193a67e39399dc218adfd48883d2",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/ao.png": "cfee5ac667a9a4090ed2a61345db49727422612b66164d30eba87d81b62494bd",
+      "build/one_handed_swords/ce_sw_sturgian_broadblade/src_maps/height.png": "f5275e14320023efd91130c43f986a2efd260eac34b8b63056d87aaf0a6f4140"
+    }
+  },
+  "ce_sw_vlandic_arming": {
+    "fingerprint": "50575d938ba8c75f6458567e6d1dbb7b10af93e1ed439c30c5fc2e36bd049876",
+    "category": "one_handed_swords",
+    "files": [
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming.fbx",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming.blend",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming_d.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming_n.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming_s.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/preview.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/basecolor.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/normal.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/metallic.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/roughness.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/ao.png",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/height.png"
+    ],
+    "warnings": [],
+    "status": "ok",
+    "objects": {
+      "ce_sw_vlandic_arming": {
+        "tris": 2050,
+        "bbox_m": [
+          [
+            -0.11299999803304672,
+            -0.014426584355533123,
+            -0.10499999672174454
+          ],
+          [
+            0.11299999803304672,
+            0.014426584355533123,
+            0.8949999809265137
+          ]
+        ],
+        "dimensions_m": [
+          0.22599999606609344,
+          0.028853168711066246,
+          0.9999999776482582
+        ],
+        "uv_bounds": [
+          0.0039062269497662783,
+          0.9960938096046448
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_vlandic_arming.lod1": {
+        "tris": 1024,
+        "bbox_m": [
+          [
+            -0.11299999803304672,
+            -0.013827608898282051,
+            -0.10499999672174454
+          ],
+          [
+            0.11299999803304672,
+            0.013827608898282051,
+            0.8950108885765076
+          ]
+        ],
+        "dimensions_m": [
+          0.22599999606609344,
+          0.027655217796564102,
+          1.000010885298252
+        ],
+        "uv_bounds": [
+          0.00390623789280653,
+          0.995850145816803
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      },
+      "ce_sw_vlandic_arming.lod2": {
+        "tris": 512,
+        "bbox_m": [
+          [
+            -0.11114174872636795,
+            -0.014080651104450226,
+            -0.10462390631437302
+          ],
+          [
+            0.11138999462127686,
+            0.0140806520357728,
+            0.9012219905853271
+          ]
+        ],
+        "dimensions_m": [
+          0.2225317433476448,
+          0.028161303140223026,
+          1.0058458968997002
+        ],
+        "uv_bounds": [
+          0.003906230442225933,
+          0.9958526492118835
+        ],
+        "uv_sets": 1,
+        "materials": 1,
+        "loose_vertices": 0,
+        "non_triangles": 0,
+        "degenerate_faces": 0,
+        "applied_transforms": true
+      }
+    },
+    "parts": {
+      "ce_sw_vlandic_arming": "one_handed_sword"
+    },
+    "sha256": {
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming.fbx": "039d96735c10e704a958607f80abe291d776a500b12474e233bcc9da6f240522",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming.blend": "59f153b39aca69a60c8da2aaa0cb8bf38fc5a0831ada062dc64d0c0989a9050d",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming_d.png": "2e1bfe143cd46ee98307774d137a385709a1daee399bc877da031ab74290344e",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming_n.png": "30dc087b8de7be07a0c05a3c22eb49382e0d19b9d84388aa2e0f06014105f4a7",
+      "build/one_handed_swords/ce_sw_vlandic_arming/ce_sw_vlandic_arming_s.png": "ac14e85c891c323162ad21c3766699c3e7714c357ae22816514d92b1ab8b439c",
+      "build/one_handed_swords/ce_sw_vlandic_arming/preview.png": "df8991525494296dc1ca0fa3a1d8401c19df7cf0c187f4a3360bbebad701e737",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/basecolor.png": "75050f6de09817dc5f283d180fd4304218e74b401dc721cbd4ea6c2857dd653d",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/normal.png": "a03739c85288a959ae9f674532648ccd09a928180299b28c6f03155b85fa8665",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/metallic.png": "d67923a25b0564d91f8101861f088bfd6546a55ea1cf275f1960e99a619aa5bb",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/roughness.png": "9d05af5b8c7dd1f270881a64fdf79be1599f0beede96b47324647e3a5f8e1083",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/ao.png": "71906a26d1d66cd6d9fa2f97f1f3d5567fb229a47a37159c619db0c232420c86",
+      "build/one_handed_swords/ce_sw_vlandic_arming/src_maps/height.png": "7b7c8c5e53ff172239b27dc7bdfe49e445ce2f8210093786d1939b6532e6ca57"
+    }
+  },
   "ce_ui_compare": {
-    "fingerprint": "c03322fc03ab223526e5365096ab559c98a9bc80f30f7044250499f275ab9e95",
+    "fingerprint": "fbf733c3ac0270cae902caa1640bd01fc6f59312c8427f92c5e3e452b1243e8b",
     "category": "icons",
     "files": [
       "ui/icons/compare_128.png",
@@ -122,7 +1154,7 @@
     }
   },
   "ce_ui_filter": {
-    "fingerprint": "57d4bd3006a4aee06a316af33b8c5159f6face828faaad88b1357a8e42d1c83d",
+    "fingerprint": "bc3bcedd5698b8f06c7e8cfafed2bc6317cb302b4f0087507c10e6beded91d0a",
     "category": "icons",
     "files": [
       "ui/icons/filter_128.png",
@@ -136,7 +1168,7 @@
     }
   },
   "ce_ui_food_days": {
-    "fingerprint": "6a097a6b0af3da3aa3ac11fe82a29ca8ca2c5e1b48be8705398deae8ae761b26",
+    "fingerprint": "58e7673831365903fd780129d7ad9e332e483992a2fb3fe736c0cb561a526db0",
     "category": "icons",
     "files": [
       "ui/icons/food_days_128.png",
@@ -150,7 +1182,7 @@
     }
   },
   "ce_ui_friend_marker": {
-    "fingerprint": "7ac514696cef085b86798516b5c124e20c6016c0b93c441bb2f76a0850ff503a",
+    "fingerprint": "e11ef156ac5e616f0c6bfa1d983b240fb128a50329c401f008323e3b86ae5741",
     "category": "icons",
     "files": [
       "ui/icons/friend_marker_128.png",
@@ -164,7 +1196,7 @@
     }
   },
   "ce_ui_ledger": {
-    "fingerprint": "4e5466454271b47ec867427fa6c91d6362999722c5f53405a9f311f5bd2a7cea",
+    "fingerprint": "87b35b01090a55ee5f9fb3c88ec24f1ab30784201c16c5c303d48927a8875795",
     "category": "icons",
     "files": [
       "ui/icons/ledger_128.png",
@@ -178,7 +1210,7 @@
     }
   },
   "ce_ui_lock": {
-    "fingerprint": "ec9dac326438ea2dc3c95fbaba055addb719812c28c14320eaecab832d4319e9",
+    "fingerprint": "426b45ec70351ca9a2823caaaaec9557f29730293a77c786e7a30fdfc63ec709",
     "category": "icons",
     "files": [
       "ui/icons/lock_128.png",
@@ -192,7 +1224,7 @@
     }
   },
   "ce_ui_party_status": {
-    "fingerprint": "cdede57f65a4b5b7524be5c5dd3fbb9ba0edf3a766edfb964f418465ac1b50d5",
+    "fingerprint": "e0d4ff9061e17e0740a8d587c6383eb02edd536b85955f421f29de736a087649",
     "category": "icons",
     "files": [
       "ui/icons/party_status_128.png",
@@ -206,7 +1238,7 @@
     }
   },
   "ce_ui_ping": {
-    "fingerprint": "19351bb60cabb4ddb2633a6d94030cb9aab39c2d220e7c86ce02fb18570033b5",
+    "fingerprint": "c3fa34c4c7a583e8427c81d214a7154c0aa4a324cb97a54cd06c478b4743f106",
     "category": "icons",
     "files": [
       "ui/icons/ping_128.png",
@@ -220,7 +1252,7 @@
     }
   },
   "ce_ui_price_down": {
-    "fingerprint": "05e146df0151555960ce25e39f1088190edbbe5f31cee5514beb614fe888555b",
+    "fingerprint": "0f6947c013ca51ba0bfabebe17ccf3f35f6c3c8b053295a962e56ea33254555c",
     "category": "icons",
     "files": [
       "ui/icons/price_down_128.png",
@@ -234,7 +1266,7 @@
     }
   },
   "ce_ui_price_up": {
-    "fingerprint": "930e43efdbab2f8fb74e102da7d6445fba3fca0e6bc40c2975c39144ecee86ed",
+    "fingerprint": "2bed614e1728f21c976834b33ffffbd2bccb9416884ae8fa10e26c9ab20e4fcb",
     "category": "icons",
     "files": [
       "ui/icons/price_up_128.png",
@@ -248,7 +1280,7 @@
     }
   },
   "ce_ui_production": {
-    "fingerprint": "8e401888af9c44c9183385b056868c6a5c352a5b7e8fbefe56ae333b2aff658c",
+    "fingerprint": "f05bb7f9f1e89978a1a59ff99d6be500c8f009a37ef8883cae343c3856c3aa22",
     "category": "icons",
     "files": [
       "ui/icons/production_128.png",
@@ -262,7 +1294,7 @@
     }
   },
   "ce_ui_recruit_prisoners": {
-    "fingerprint": "95ddf9c42c228f4042b1b57fbb3ffe00704632bd83076c13adc6aad36f969af2",
+    "fingerprint": "c4c9f7f94f11a288fbaf1e13a622470623d24a275b634b793d1d585d4f6bbeb7",
     "category": "icons",
     "files": [
       "ui/icons/recruit_prisoners_128.png",
@@ -276,7 +1308,7 @@
     }
   },
   "ce_ui_route": {
-    "fingerprint": "34024b64bda3b9b3c16cf697821b72922300e88b26d772741d4bf9ba3c58fbbe",
+    "fingerprint": "217642b6f3aeb457a8442f9dcf3005466d754a90cee5a0d74faec50497b06ebc",
     "category": "icons",
     "files": [
       "ui/icons/route_128.png",
@@ -290,7 +1322,7 @@
     }
   },
   "ce_ui_sell_junk": {
-    "fingerprint": "7f69a67248b6e92d4487e7e0cd5055753f6a9e1aef59ccc6ae72cb8a9ed7c406",
+    "fingerprint": "9b4cdce4a881daa21ea6e84cdbe938e5c18baf7d127b067f0f687e88e704a9ee",
     "category": "icons",
     "files": [
       "ui/icons/sell_junk_128.png",
@@ -304,7 +1336,7 @@
     }
   },
   "ce_ui_settings": {
-    "fingerprint": "d3885a0a31a7c992a5f3d458645d0de7606b1175f79002048f2234f8a1288464",
+    "fingerprint": "37c27a3ebde489e42778f2eeecb3d5ffe7ce07474733fc2c244c13675b990b2f",
     "category": "icons",
     "files": [
       "ui/icons/settings_128.png",
@@ -318,7 +1350,7 @@
     }
   },
   "ce_ui_ship": {
-    "fingerprint": "1dbe7725949f9c89ed2d8b8e3029e94a184ef1e8fb2d345c8e46c69b9453bce4",
+    "fingerprint": "b714798c0dd5b0f9e8c5d53a02b5cb62fa090d560f0370288d658e75442fa60e",
     "category": "icons",
     "files": [
       "ui/icons/ship_128.png",
@@ -332,7 +1364,7 @@
     }
   },
   "ce_ui_sort": {
-    "fingerprint": "0425675e0f0f5b3611af448466d73650a86730f8e00f0459a204c481e116ed17",
+    "fingerprint": "317e45fc430061895c985d872289e157e1b5c8c20fc2f418d8fe864e6cff785c",
     "category": "icons",
     "files": [
       "ui/icons/sort_128.png",
@@ -346,7 +1378,7 @@
     }
   },
   "ce_ui_transfer_all": {
-    "fingerprint": "39f55bf7882bd5d15d5eabdbac942ad18f044fc91d7ef71d3866c3d12f7ec76b",
+    "fingerprint": "fd191ab72e1eec72009c21f23286775da6b81547f9777152199b4c426687c8ea",
     "category": "icons",
     "files": [
       "ui/icons/transfer_all_128.png",
@@ -360,7 +1392,7 @@
     }
   },
   "ce_ui_troop_sort": {
-    "fingerprint": "7888baad57491883072cfa5deb0a9314a6539dc0c96f112a1a2f6ebeb3edce30",
+    "fingerprint": "731101a4a5cb069626fe0cf106e67bdcfe0b20296db1b35f53abb70825bc61f8",
     "category": "icons",
     "files": [
       "ui/icons/troop_sort_128.png",
@@ -374,7 +1406,7 @@
     }
   },
   "ce_ui_unlock": {
-    "fingerprint": "858d47b13098e6f2f03e51296d3749f0ec654314cb93ae4b28071ce706c46d1a",
+    "fingerprint": "be9057239e14716ba6ecad2e840cf3551004e50187ea2dde8965a7de5774896f",
     "category": "icons",
     "files": [
       "ui/icons/unlock_128.png",
@@ -388,7 +1420,7 @@
     }
   },
   "ce_ui_upgrade_all": {
-    "fingerprint": "78e31a8f10e3cc72321399980c50e374855209f5bb3e5a0e54811895f8bb4ed9",
+    "fingerprint": "88641a3d92098fe9792b7643aeaa9c8fa3fdaf25ee4ce5539883fd997fb9de5a",
     "category": "icons",
     "files": [
       "ui/icons/upgrade_all_128.png",
@@ -402,7 +1434,7 @@
     }
   },
   "ce_ui_value_per_weight": {
-    "fingerprint": "112fc7e6664dc6fceeb0749c114b37c61051654923a46b6b6ec3c9eb7fee2c9e",
+    "fingerprint": "9cd2e3b0e9cda2738c4bb5b3cfd780d35dc297df33daf162bb14bccb8cfe1cf4",
     "category": "icons",
     "files": [
       "ui/icons/value_per_weight_128.png",
@@ -416,7 +1448,7 @@
     }
   },
   "ce_ui_wage_days": {
-    "fingerprint": "0aab41500a708751ec242c0a680996bf4f3025a848df2a40877ec5545cc4a006",
+    "fingerprint": "27f1bc77590a389891b220c9577219ddf53b31d226a32e910e1fc77dd11e2475",
     "category": "icons",
     "files": [
       "ui/icons/wage_days_128.png",
@@ -430,7 +1462,7 @@
     }
   },
   "ce_ui_workshop": {
-    "fingerprint": "ac875d4a8dd1a6f5e18a2e1ee87fbf885dd1f8fefb21687c1c39cb2f77365b88",
+    "fingerprint": "cdcc418990a84b2ddeb088313832e0c79c80260f6aa140f05f33fc3d33dcdf1b",
     "category": "icons",
     "files": [
       "ui/icons/workshop_128.png",
