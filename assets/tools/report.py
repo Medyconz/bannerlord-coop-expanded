@@ -39,7 +39,7 @@ def generate():
            "## Integration","",
            "The pack uses the orientation and grip conventions in conventions.json. Engine import, equipped-hand alignment, game-shader response and War Sails inventory presentation require a Bannerlord integration pass. No in-game results are claimed here.",
            "", "Place licensed local references only in the ignored assets/reference directory. Fitted entries require original modelling, skinning and pose review once the references are present. Unspecified item tiers are recorded as null.",""]
-    (ROOT/"REPORT.md").write_text("\n".join(rows),encoding="utf8")
+    (ROOT/"REPORT.md").write_text("\n".join(rows),encoding="utf8",newline="\n")
 
 
 if __name__=="__main__":
