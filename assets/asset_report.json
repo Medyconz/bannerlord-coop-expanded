@@ -2963,6 +2963,54 @@
     "status": "skipped_no_reference",
     "reason": "Missing human_skeleton.fbx, body_male.fbx, body_female.fbx"
   },
+  "ce_hh_aserai_tasselled": {
+    "fingerprint": "87cbf7c74481f21b93833e8e4d462306b2df57896188e7697abde16424014c92",
+    "category": "horse_harness",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing horse_skeleton.fbx, horse_body.fbx"
+  },
+  "ce_hh_imperial_cataphract": {
+    "fingerprint": "01c423ce72f07661a099b635f30bf8949198cb95135e7a35311a41e0a72fbd6d",
+    "category": "horse_harness",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing horse_skeleton.fbx, horse_body.fbx"
+  },
+  "ce_hh_khuzait_lamellar_barding": {
+    "fingerprint": "e97536c82ac49b42d62bd21364b780460ee47a533e38ae9ce4f4b65305077226",
+    "category": "horse_harness",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing horse_skeleton.fbx, horse_body.fbx"
+  },
+  "ce_hh_relic_warden_barding": {
+    "fingerprint": "f984641d56e057361aee6611a8ac0adc71049826a6cb14fc9c14cdaf693e66fe",
+    "category": "horse_harness",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing horse_skeleton.fbx, horse_body.fbx"
+  },
+  "ce_hh_sturgian_mail_barding": {
+    "fingerprint": "3bf31b122007a46c2098bdf8fb393225989dfdafff7c7b842a5162bf9b60fa73",
+    "category": "horse_harness",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing horse_skeleton.fbx, horse_body.fbx"
+  },
+  "ce_hh_vlandic_caparison": {
+    "fingerprint": "f6950d0bd9be69040ab2c93e77df9c1723c0df2be41453136c50aeb0a35c043c",
+    "category": "horse_harness",
+    "files": [],
+    "warnings": [],
+    "status": "skipped_no_reference",
+    "reason": "Missing horse_skeleton.fbx, horse_body.fbx"
+  },
   "ce_hm_aserai_pointed": {
     "fingerprint": "709f2b0d4af872918f68c7547ff0ebddabd23535fd6ae1fd3abcedb19ffde3fb",
     "category": "helmets",

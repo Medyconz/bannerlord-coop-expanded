@@ -19,7 +19,7 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 | shoulders capes | 0 | 8 | 0 |
 | gloves | 0 | 6 | 0 |
 | boots | 0 | 6 | 0 |
-| horse harness | 0 | 0 | 6 |
+| horse harness | 0 | 6 | 0 |
 | bows crossbows | 0 | 0 | 6 |
 | icons | 24 | 0 | 0 |
 | branding | 9 | 0 | 0 |
@@ -76,6 +76,12 @@ Original game art for the Coop Expanded modpack. The catalogue counts a projecti
 - `ce_bt_khuzait_riding_boots` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 - `ce_bt_aserai_wrapped_boots` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
 - `ce_bt_relic_warden_greaves` — Missing human_skeleton.fbx, body_male.fbx, body_female.fbx
+- `ce_hh_imperial_cataphract` — Missing horse_skeleton.fbx, horse_body.fbx
+- `ce_hh_vlandic_caparison` — Missing horse_skeleton.fbx, horse_body.fbx
+- `ce_hh_sturgian_mail_barding` — Missing horse_skeleton.fbx, horse_body.fbx
+- `ce_hh_khuzait_lamellar_barding` — Missing horse_skeleton.fbx, horse_body.fbx
+- `ce_hh_aserai_tasselled` — Missing horse_skeleton.fbx, horse_body.fbx
+- `ce_hh_relic_warden_barding` — Missing horse_skeleton.fbx, horse_body.fbx
 
 ## Rebuild
 
